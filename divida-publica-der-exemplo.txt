@@ -1,0 +1,335 @@
+﻿{
+  "profile": "divida-publica",
+  "name": "execucao-da-divida-publica-do-estado",
+  // here we list the tables related with this dataset
+  "resources": [
+    {
+      "path": "DERDIVIDAPUBLICA",
+      "profile": "AGE7.FT_DIVIDA_PUB",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields":  
+	  {
+            "name": "ID_TEMPO",
+ 	    "type": NUMBER (6)",
+	    "format": "default",
+	    "constraints": {
+                "required": true,
+		"pattern":
+          },                  
+          {
+            "name": "ID_TIPO",
+            "type": "NUMBER (2)",
+	    "format": "default",
+	    "constraints": {
+                "required": true,
+		"pattern":
+          },
+          {
+            "name": "ID_FAVORECIDO ",
+            "type": "NUMBER (10)",
+	    "format": "default",
+	    "constraints": {
+                "required": true,
+		"pattern":
+          },
+          {
+            "name": "ID_CONTRATO"
+	   "type": NUMBER (6)",
+	    "format": "default",
+	    "constraints": {
+                "required": true,
+		"pattern":
+          },
+          {
+            "name": "ANO_PARTICAO",
+            "type": "NUMBER (4)",
+	    "format": "default",
+	    "constraints": {
+                "required": true,
+		"pattern":
+          },
+          {
+            "name": "VR_JUROS",
+            "type": "NUMBER (15,2)",
+	    "format": "default",
+	    "constraints": {
+                "required": true,
+		"pattern":
+          },
+          {
+            "name": "VR_AMORTIZACAO",
+            "type": "NUMBER (15,2)",
+	    "format": "default",
+	    "constraints": {
+                "required": true,
+		"pattern":
+          },
+	    "foreignKeys": [
+{       
+                "reference":[
+		FK_DVP_TD (ID_TEMPO)
+		FK_DVP_TDV (ID_TIPO)
+		FK_DVP_CDV (ID_CONTRATO)
+		FK_DVP_FAV (ID_FAVORECIDO)
+],
+                    "resource": "",
+                    "fields": 
+	       {
+	        IDX_DVP_TEMPO (ID_TEMPO)},
+		{IDX_DVP_TIPO (ID_TIPO)},
+		{IDX_DVP_CREDOR (ID_FAVORECIDO)},
+		{IDX_DVP_CONTRATO (ID_CONTRATO)},
+		{IDX_DVP_ANOPART (ANO_PARTICAO)}
+          },
+	]
+      },
+{
+      "path": "DERDIVIDAPUBLICA",
+      "profile": "AGE7.DM_TIPO_DIVIDA",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+            "primarykey" :
+          {
+            "name": "ID_TIPO"
+	   "type": NUMBER(2)",
+	    "format": "default",
+	    "constraints": {
+                "required": true,
+		"pattern":
+	  },
+	  ]
+          {
+            "name": "CD_TIPO",
+            "type": "NUMBER(2)",
+	    "format": "default",
+	    "constraints": {
+                "required": true,
+		"pattern":
+          },
+          {
+            "name": "NOME",
+            "type": "VARCHAR2(100 BYTE)",
+	    "format": "default",
+	    "constraints": {
+                "required": true,
+		"pattern":
+          },
+        	"foreignKeys": [
+            {       
+                "reference": "PK_DM_TDV"(ID_TIPO),
+                    "resource": "",
+                    "fields": 
+				{"IDX_TDV_PK (ID_TIPO)"},
+				{"IDX_TDV_CD (CD_TIPO)"}
+             }
+           ]
+	  },
+    {
+      "path": "DERDIVIDAPUBLICA",
+      "profile": "AGE7.DM_TEMPO_DIARIO",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+            "primarykey" :
+          {
+            "name": "ID_TEMPO",
+            "type": "NUMBER(6)",
+	    "format": "default",
+	    "constraints": {
+                "required": true,
+		"pattern":
+          },
+	 ]
+          {
+            "name": "DATA_ISO",
+            "type": "NUMBER(8)",
+	    "format": "default",
+	    "constraints": {
+                "required": true,
+		"pattern":
+          },
+          {
+            "name": "DIA",
+            "type": "NUMBER(2)",
+	    "format": "default",
+	    "constraints": {
+                "required": true,
+		"pattern":
+          }
+            "name": "MES",
+            "type": "NUMBER(2)",
+	    "format": "default",
+	    "constraints": {
+                "required": true,
+		"pattern":
+          },
+          {
+            "name": "ANO",
+            "type": "NUMBER(4)",
+	    "format": "default",
+	    "constraints": {
+                "required": true,
+		"pattern":
+          },
+          {
+            "name": "DATA_FORMATADA",
+            "type": "DATE",
+	    "format": "default",
+	    "constraints": {
+                "required": true,
+		"pattern":
+          }
+        	"foreignKeys": [
+            {       
+                "reference": "PK_DM_TD_DIA"(ID_TEMPO),
+                    "resource": "",
+                    "fields": {"IDX_TD_DATA (DATA_ISO)"},
+			{"IDX_TD_PK (ID_TEMPO)"},
+			{"IDX_TD_DIA (DIA)"},
+			{"IDX_TD_MES (MES)"},
+			{"IDX_TD_ANO (ANO)"}
+             }
+        ]
+      }
+    {
+      "path": "DERDIVIDAPUBLICA",
+      "profile": "AGE7.DM_FAVORECIDO",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields":  [
+            "primarykey" :
+          {
+            "name": "ID_FAVORECIDO",
+            "type": "NUMBER(10)",
+	    "format": "default",
+	    "constraints": {
+                "required": true,
+		"pattern":
+          },
+	 ]
+          {
+            "name": "SQA_FAVORECIDO",
+            "type": "NUMBER(10)",
+	    "format": "default",
+	    "constraints": {
+                "required": true,
+		"pattern":
+          },
+          {
+            "name": "TP_DOCUMENTO",
+            "type": "NUMBER(1),
+	    "format": "default",
+	    "constraints": {
+                "required": true,
+		"pattern":
+          },
+	 {
+   	   "name": "NR_DOCUMENTO",
+            "type": "NUMBER(14)",
+	    "format": "default",
+	    "constraints": {
+                "required": true,
+		"pattern":
+          },
+          {
+   	   "name": "NOME",
+            "type": " VARCHAR2(255 BYTE)",
+	    "format": "default",
+	    "constraints": {
+                "required": true,
+		"pattern":
+          },
+		"foreignKeys": [
+            {       
+                "reference": "PK_DM_FAV",
+                    "resource": "",
+                    "fields": 
+				{"IDX_FAV_PK (ID_FAVORECIDO)"},
+				{"IDX_FAV_CD (SQA_FAVORECIDO)"},
+				{"IDX_FAV_NOME (NOME)"}
+             }
+	 ]
+      }
+    {
+      "path": "DERDIVIDAPUBLICA",
+      "profile": "AGE7.DM_CONTRATO_DIVIDA",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields":  [
+            "primarykey" :
+          {
+            "name": "ID_CONTRATO",
+            "type": "NUMBER(6)",
+	    "format": "default",
+	    "constraints": {
+                "required": true,
+		"pattern":
+          },
+	  ]
+          {
+            "name": "CD_SIAFI",
+            "type": "NUMBER(7)",
+	    "format": "default",
+	    "constraints": {
+                "required": true,
+		"pattern":
+          },
+          {
+            "name": "NR_CONTRATO_CONV",
+            "type": "VARCHAR2(12 BYTE)",
+	    "format": "default",
+	    "constraints": {
+                "required": true,
+		"pattern":
+          }
+          {
+            "name": "DT_ASSINATURA",
+            "type": "DATE",
+	    "format": "default",
+	    "constraints": {
+                "required": true,
+		"pattern":
+          },
+          {
+            "name": "DT_VENCIMENTO",
+            "type": "DATE",
+	    "format": "default",
+	    "constraints": {
+                "required": true,
+		"pattern":
+          },
+          {
+            "name": "VR_INICIAL",
+            "type": "NUMBER(15,2)",
+	    "format": "default",
+	    "constraints": {
+                "required": true,
+		"pattern":
+          },
+        	"foreignKeys": [
+            {       
+                "reference": "PK_DM_CDV (ID_CONTRATO)",
+                    "resource": "",
+                    "fields": 
+				{"IDX_CDV_PK (ID_CONTRATO)"},
+				{"IDX_CDV_CD (CD_SIAFI)"},
+             }
+	 ]
+      }
+
+
+    }
+  ]
+}

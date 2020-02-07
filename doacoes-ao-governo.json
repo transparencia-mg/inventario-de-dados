@@ -1,0 +1,92 @@
+\\https://github.com/dadosgovbr/catalogos-dados-brasil/blob/master/datapackage.json
+{
+  "name": "docaoescomodatos20200206",
+  "format": "csv",
+  "mediatype": "text/csv",
+  "encoding": "utf-8",
+  "schema": {
+    "fields": [
+      {
+        "name": "ANO",
+        "notes": "Ano de publicacao no Diario Oficial do Estado do ato que autorizou o recebimento de doacao ou de bem em comodato",
+        "type": "string",
+        "format": "default",
+        "required": "true"
+      },
+      {
+        "name": "CODIGO_ORGAO_ENTIDADE",
+        "notes": "Codigo da unidade orcamentaria do orgao ou entidade beneficiada",
+        "type": "string",
+        "format": "default",
+        "required": "true"
+      },
+      {
+        "name": "ORGAO_ENTIDADE",
+        "notes": "Unidade orcamentaria do orgao ou entidade beneficiada",
+        "type": "string",
+        "format": "default",
+        "required": "true"
+      },
+      {
+        "name": "CNPJ_CPF_DOADOR_COMODANTE",
+        "notes": "CNPJ ou CPF do doador ou comodante",
+        "type": "string",
+        "format": "default",
+        "required": "true"
+      },
+      {
+        "name": "DOADOR_COMODANTE",
+        "notes": "Nome do doador ou comodante",
+        "type": "string",
+        "format": "default",
+        "required": "true"
+      },
+      {
+        "name": "OBJETO",
+        "notes": "Objeto da doacao ou comodato",
+        "type": "string",
+        "format": "default",
+        "required": "true"
+      },
+      {
+        "name": "QUANTITATIVO",
+        "notes": "Quantitativo, quando for o caso, do objeto da doacao ou comodato",
+        "type": "string",
+        "format": "default",
+        "required": "true"
+      },
+      {
+        "name": "VIGENCIA",
+        "notes": "Vigencia do Comodato",
+        "type": "string",
+        "format": "default",
+        "required": "true"
+      },
+      {
+        "name": "VALOR",
+        "notes": "Valor estimado do bem ou servico doado ou oferecido em comodato",
+        "type": "integer",
+        "format": "default",
+        "required": "true"
+      },
+      {
+        "name": "PROCESSO_SEI",
+        "notes": "Numero do processo eletronico no Sistema Eletronico de Informacoes (SEI) que identifica a avaliacao das propostas de doacao ou oferta de bens em comodato realizada pela Secretaria de Estado de Planejamento e Gestao (SEPLAG).",
+        "type": "string",
+        "format": "default",
+        "required": "true"
+      },
+      {
+        "name": "INTEGRA_TERMO_DOACAO_COMODATO",
+        "notes": "Link para integra do termo de doacao ou comodato",
+        "type": "string",
+        "format": "default",
+        "required": "true"
+      }
+    ]
+  },
+  "title": "Doacoes ao governo",
+  "notes": "Arquivo em formato csv que contém relação das doações e comodatos celebrados pelo Governo de Minas Gerais, em consonância com o art. 18, § único do Decreto nº 47.611/2019. Cada processo de doação ou comodato terá link específico para a Íntegra do termo, pelo sítio eletrônico oficial do órgão ou entidade beneficiado, após a publicação do seu extrato no Diário Oficial do Estado, incluindo seus eventuais anexos.",
+  "homepage": "http://www.transparencia.dadosabertos.mg.gov.br/dataset/doacoes-ao-governo/resource/18f73664-d78b-416b-86fe-3360eaf6f91d"
+  "package_id": "18f73664-d78b-416b-86fe-3360eaf6f91d"
+}

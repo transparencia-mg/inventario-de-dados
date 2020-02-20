@@ -1,11 +1,11 @@
 {
   "name": "execucao-da-divida-publica-do-estado",
+  "title": "Execução da Dívida Pública do Estado", 
   "private": "false",
   "maintainer": "Diretoria de Transparência Ativa da Controladoria Geral do Estado",
   "maintainer_email": "transparencia@cge.mg.gov.br",
   "notes": "Possui informações de pagamento da dívida pública do Estado, interna ou externa, incluindo separações relacionadas aos juros e encargos e amortizações efetuadas. Incluem dados inclusive da identificação dos contratos relacionados aos pagamentos.",
-  "url": "http://www.transparencia.dadosabertos.mg.gov.br/dataset/divida-publica-do-estado-2015-2016",
-  "type": "text/csv",
+  "url": "http://www.dados.mg.gov.br/dataset/divida-publica-do-estado",
   "resources": [
     "ft_divida_pub",
     "dm_tipo_divida",

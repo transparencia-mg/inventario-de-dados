@@ -83,5 +83,8 @@ __(inserir imagem)__
 
 * Nomes dos diretórios sem espaços, hifens (‘-‘) como separadores (o underscore " _ " usualmente é interpretado como um caracter, e não um espaço entre palavras](https://blog.codinghorror.com/of-spaces-underscores-and-dashes/))
 
-* Como conferir se todos os recursos de um dataset estão constando em um diretório: https://github.com/transparencia-mg/inventario-de-dados/commit/81e3ede7a3c87157cf72682bf396449e8a9e13c4  
+* Como conferir se todos os recursos de um dataset estão constando em um diretório: https://github.com/transparencia-mg/inventario-de-dados/commit/81e3ede7a3c87157cf72682bf396449e8a9e13c4; 
+
+* [Package CKANR](https://cran.r-project.org/web/packages/ckanr/ckanr.pdf)[post exemplificando alguns usos do pacote ckanr](https://www.r-bloggers.com/trying-the-ckanr-package/)  
+
 

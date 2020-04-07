@@ -21,5 +21,13 @@ read_all <- function(path, exclude = NULL) {
     purrr::map(data.table::fread, sep = ";", dec = ",") %>% 
     magrittr::set_names(filenames)
   
+  # return <- file.path(path, files) %>% 
+  #   purrr::map(readr::read_csv2, locale = locale(decimal_mark = ",")) %>% 
+  #   magrittr::set_names(filenames)
+  # 
+  # return <- file.path(path, files) %>% 
+  #   purrr::map(read.csv2) %>% 
+  #   magrittr::set_names(filenames)
+
   return
 }

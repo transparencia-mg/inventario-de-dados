@@ -10,7 +10,7 @@ check_dim <- function(x) {
 }
 
 
-read_all <- function(path, exclude = NULL) {
+read_all <- function(path, exclude = NULL, fun, ...) {
   
   files <- list.files(path, pattern = "[.]csv$", full.names = FALSE) %>% 
             setdiff(exclude)
@@ -18,16 +18,7 @@ read_all <- function(path, exclude = NULL) {
   filenames <- str_remove_all(files, "[.]csv$")
   
   return <- file.path(path, files) %>% 
-    purrr::map(data.table::fread, sep = ";", dec = ",") %>% 
-    magrittr::set_names(filenames)
-  
-  # return <- file.path(path, files) %>% 
-  #   purrr::map(readr::read_csv2, locale = locale(decimal_mark = ",")) %>% 
-  #   magrittr::set_names(filenames)
-  # 
-  # return <- file.path(path, files) %>% 
-  #   purrr::map(read.csv2) %>% 
-  #   magrittr::set_names(filenames)
-
+            purrr::map(fun, ...) %>% 
+            magrittr::set_names(filenames)
   return
 }

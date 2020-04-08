@@ -1,0 +1,26 @@
+{
+  "name": "execucao-da-divida-publica-do-estado",
+  "title": "Execução da Dívida Pública do Estado", 
+  "private": "false",
+  "maintainer": "Diretoria de Transparência Ativa da Controladoria Geral do Estado",
+  "maintainer_email": "transparencia@cge.mg.gov.br",
+  "notes": "Possui informações de pagamento da dívida pública do Estado, interna ou externa, incluindo separações relacionadas aos juros e encargos e amortizações efetuadas. Incluem dados inclusive da identificação dos contratos relacionados aos pagamentos.",
+  "url": "http://www.dados.mg.gov.br/dataset/divida-publica-do-estado",
+  "resources": [
+    "ft_divida_pub",
+    "dm_tipo_divida",
+    "dm_tempo_diario",
+    "dm_favorecido",
+    "dm_contrato"
+  ],
+  "tags": [
+    "divida pública",
+    "Minas Gerais",
+    "amortizações",
+    "contratos",
+    "encargos",
+    "execução financeira",
+    "juros",
+    "pagamento"
+  ]
+}

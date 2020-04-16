@@ -10,12 +10,12 @@ check_dim <- function(x) {
 }
 
 
-read_all <- function(path, exclude = NULL, fun, ...) {
+read_all <- function(path, pattern = "[.]csv$", exclude = NULL, fun, ...) {
   
-  files <- list.files(path, pattern = "[.]csv$", full.names = FALSE) %>% 
+  files <- list.files(path, pattern = pattern, full.names = FALSE) %>% 
             setdiff(exclude)
   
-  filenames <- str_remove_all(files, "[.]csv$")
+  filenames <- str_remove_all(files, pattern)
   
   return <- file.path(path, files) %>% 
             purrr::map(fun, ...) %>% 

@@ -8,11 +8,11 @@ cols_spec <- c(
   "Data do óbito",
   "Comorbidade")
 
-RNG <- "A3:F42"
-INPUT <- "obitos-covid19/data-raw/OBITOS_CONF_COVID-19_MG_19.04.2020.xlsx"
-URL <- "http://www.transparencia.dadosabertos.mg.gov.br/dataset/d869e025-9a83-4c64-8d3a-20238786279a/resource/449ca37f-4678-4c8e-8851-afcfaea940df/download/obitosconfcovid19mg20200418.csv"
+RNG <- "A3:F44"
+INPUT <- "obitos-covid19/data-raw/OBITOS_CONF_COVID-19_MG_20.04.2020.xlsx"
+URL <- "http://www.transparencia.dadosabertos.mg.gov.br/dataset/d869e025-9a83-4c64-8d3a-20238786279a/resource/76263965-686e-47a1-aab7-91e665ac354b/download/obitosconfcovid19mg20200419.csv"
 N <- 39
-OUTPUT <- "obitos-covid19/data/obitosconfcovid19mg20200419.csv"
+OUTPUT <- "obitos-covid19/data/obitosconfcovid19mg20200420.csv"
 
 dt_raw <- read_excel(INPUT, range = RNG)
 

@@ -1,0 +1,40 @@
+﻿Paciente;Sexo;Idade;Município de Residência;Data do óbito;Comorbidade
+ 1;M;79;Patos de Minas;20200328;SIM
+ 2;F;82;Belo Horizonte;20200329;SIM
+ 3;M;66;Belo Horizonte;20200330;SIM
+ 4;M;44;Mariana;20200330;NÃO
+ 5;M;80;Uberlândia;20200330;SIM
+ 6;M;72;Ouro Fino;20200331;NÃO
+ 7;F;76;Belo Horizonte;20200401;NÃO
+ 8;M;69;Montes Claros;20200401;NÃO
+ 9;F;61;Uberlândia;20200402;SIM
+10;F;92;Belo Horizonte;20200402;SIM
+11;F;88;Paraisópolis;20200403;SIM
+12;M;78;Pouso Alegre;20200405;SIM
+13;M;59;Varginha;20200405;SIM
+14;M;82;Belo Horizonte;20200405;SIM
+15;F;60;Belo Horizonte;20200407;SIM
+16;M;70;Juiz de Fora;20200407;SIM
+17;F;46;Divinópolis;20200408;NÃO
+18;M;73;Uberaba;20200410;SIM
+19;F;79;Paraisópolis;20200328;SIM
+20;M;24;Itabira;20200406;SIM
+21;M;71;Juiz de Fora;20200329;SIM
+22;F;68;Governador Valadares;20200408;SIM
+23;M;84;Pouso Alegre;20200411;SIM
+24;M;81;Patrocínio;20200411;SIM
+25;F;65;Uberlândia;20200410;SIM
+26;M;72;Uberlândia;20200403;NÃO
+27;M;62;Governador Valadares;20200408;SIM
+28;M;34;São Tómas de Aquino;20200412;SIM
+29;M;78;Piumhi;20200413;SIM
+30;M;64;Uberaba;20200413;SIM
+31;M;68;Bonfim;20200412;SIM
+32;F;72;Belo Horizonte;20200414;SIM
+33;F;76;Belmiro Braga;20200403;SIM
+34;M;69;Belo Horizonte;20200415;SIM
+35;M;68;Nanuque;20200415;SIM
+36;F;72;São Sebastião do Paraíso;20200412;NÃO
+37;F;72;Três Pontas;20200412;SIM
+38;F;81;Nova Serrana;20200408;SIM
+39;M;67;Poços de Caldas;20200416;SIM

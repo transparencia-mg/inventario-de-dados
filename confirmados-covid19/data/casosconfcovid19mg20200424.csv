@@ -1,0 +1,1420 @@
+﻿ID;SEXO;IDADE;MUNICIPIO_DE_RESIDENCIA;INTERNACAO;INTERNACAO_UTI
+   1;Feminino;38;Ipatinga;NÃO;NÃO
+   2;Feminino;47;Divinópolis;NÃO;NÃO
+   3;Masculino;65;Juiz de Fora;SIM;SIM
+   4;Feminino;37;Patrocínio;NÃO;NÃO
+   5;Masculino;45;Belo Horizonte;NÃO;NÃO
+   6;Masculino;30;Juiz de Fora;NÃO;NÃO
+   7;Feminino;32;Coronel Fabriciano;NÃO;NÃO
+   8;Feminino;34;Belo Horizonte;NÃO;NÃO
+   9;Masculino;48;Nova Lima;NÃO;NÃO
+  10;Masculino;34;Belo Horizonte;NÃO;NÃO
+  11;Masculino;33;Belo Horizonte;NA;NA
+  12;Feminino;44;Sete Lagoas;NÃO;NÃO
+  13;Masculino;39;Uberlândia;NÃO;NÃO
+  14;Masculino;71;Nova Lima;NÃO;NÃO
+  15;Masculino;26;Nova Lima;NÃO;NÃO
+  16;Masculino;24;Belo Horizonte;NÃO;NÃO
+  17;Masculino;38;Belo Horizonte;NÃO;NÃO
+  18;Masculino;51;Belo Horizonte;NÃO;NÃO
+  19;Masculino;28;Belo Horizonte;NÃO;NÃO
+  20;Masculino;35;Belo Horizonte;NÃO;NÃO
+  21;Masculino;32;Nova Lima;NÃO;NÃO
+  22;Feminino;71;Belo Horizonte;SIM;SIM
+  23;Masculino;40;Nova Lima;NÃO;NÃO
+  24;Masculino;69;Belo Horizonte;SIM;SIM
+  25;Masculino;52;Belo Horizonte;NÃO;NÃO
+  26;Masculino;35;Belo Horizonte;SIM;SIM
+  27;Feminino;20;Belo Horizonte;NÃO;NÃO
+  28;Masculino;42;Belo Horizonte;NÃO;NÃO
+  29;Feminino;37;Juiz de Fora;NÃO;NÃO
+  30;Masculino;40;Nova Lima;NÃO;NÃO
+  31;Masculino;45;Belo Horizonte;NÃO;NÃO
+  32;Feminino;23;Uberaba;NÃO;NÃO
+  33;Feminino;33;Belo Horizonte;NÃO;NÃO
+  34;Feminino;40;Mariana;NÃO;NÃO
+  35;Masculino;56;Belo Horizonte;NÃO;NÃO
+  36;Masculino;29;Juiz de Fora;NÃO;NÃO
+  37;Masculino;44;Juiz de Fora;SIM;NÃO
+  38;Masculino;22;Belo Horizonte;NA;NA
+  39;Feminino;34;Poços de Caldas;NÃO;NÃO
+  40;Feminino;63;Nova Lima;NÃO;NÃO
+  41;Masculino;41;Belo Horizonte;NÃO;NÃO
+  42;Masculino;33;Belo Horizonte;NÃO;NÃO
+  43;Feminino;20;Belo Horizonte;NÃO;NÃO
+  44;Masculino;59;Contagem;NA;NA
+  45;Masculino;28;Uberaba;NÃO;NÃO
+  46;Feminino;64;Nova Lima;NÃO;NÃO
+  47;Masculino; 0;Belo Horizonte;NÃO;NÃO
+  48;Masculino;31;Belo Horizonte;NA;NA
+  49;Feminino;43;Belo Horizonte;NÃO;NÃO
+  50;Masculino;41;Belo Horizonte;NA;NA
+  51;Masculino;29;Belo Horizonte;NA;NA
+  52;Masculino;21;Belo Horizonte;NA;NA
+  53;Feminino;31;Belo Horizonte;NA;NA
+  54;Masculino;38;Juiz de Fora;NÃO;NÃO
+  55;Masculino;35;Betim;SIM;NA
+  56;Masculino;41;Belo Horizonte;NA;NA
+  57;Feminino;28;Belo Horizonte;NÃO;NÃO
+  58;Feminino;47;Belo Horizonte;NA;NA
+  59;Masculino;28;Belo Horizonte;NÃO;NÃO
+  60;Masculino;41;Belo Horizonte;NÃO;NÃO
+  61;Feminino;24;Belo Horizonte;NA;NA
+  62;Masculino;44;Uberlândia;SIM;SIM
+  63;Feminino;40;Nova Lima;NÃO;NÃO
+  64;Masculino;39;Uberaba;NÃO;NÃO
+  65;Masculino;49;Belo Horizonte;NÃO;NÃO
+  66;Feminino;34;Belo Horizonte;NÃO;NÃO
+  67;Masculino;37;Belo Horizonte;NÃO;NÃO
+  68;Feminino;33;Timóteo;NÃO;NÃO
+  69;Masculino;35;Juiz de Fora;NÃO;NÃO
+  70;Masculino;25;Belo Horizonte;NA;NA
+  71;Feminino;39;Belo Horizonte;NÃO;NÃO
+  72;Feminino;35;Belo Horizonte;NA;NA
+  73;Feminino;62;Uberlândia;SIM;SIM
+  74;Masculino;67;Belo Horizonte;NÃO;NÃO
+  75;Masculino;33;Belo Horizonte;NÃO;NÃO
+  76;Feminino;64;Belo Horizonte;NÃO;NÃO
+  77;Masculino;38;Belo Horizonte;NA;NA
+  78;Masculino;41;Belo Horizonte;NÃO;NÃO
+  79;Masculino;38;Belo Horizonte;NA;NA
+  80;Masculino;31;Belo Horizonte;NÃO;NÃO
+  81;Feminino;39;Belo Horizonte;NA;NA
+  82;Masculino;37;Belo Horizonte;NÃO;NÃO
+  83;Masculino;37;Lagoa da Prata;NÃO;NÃO
+  84;Feminino;36;Belo Horizonte;NA;NA
+  85;Masculino;40;Belo Horizonte;NA;NA
+  86;Masculino;30;Belo Horizonte;NA;NA
+  87;Feminino;26;Betim;NÃO;NÃO
+  88;Feminino;60;Belo Horizonte;NA;NA
+  89;Masculino;38;Belo Horizonte;NA;NA
+  90;Feminino;20;Uberlândia;NÃO;NÃO
+  91;Feminino;30;Belo Horizonte;NÃO;NÃO
+  92;Feminino;25;Belo Horizonte;NA;NA
+  93;Masculino;61;Belo Horizonte;NA;NA
+  94;Masculino;67;Belo Horizonte;NÃO;NÃO
+  95;Feminino;35;Belo Horizonte;NA;NA
+  96;Feminino;35;Contagem;NÃO;NÃO
+  97;Masculino;53;Belo Horizonte;NÃO;NÃO
+  98;Masculino;39;Nova Lima;NÃO;NÃO
+  99;Masculino;78;Belo Horizonte;NA;NA
+ 100;Masculino;53;Juiz de Fora;NÃO;NÃO
+ 101;Masculino;33;Belo Horizonte;NÃO;NÃO
+ 102;Feminino;30;Belo Horizonte;NÃO;NÃO
+ 103;Masculino;37;Belo Horizonte;NÃO;NÃO
+ 104;Masculino;46;Belo Horizonte;NA;NA
+ 105;Masculino;48;Belo Horizonte;NA;NA
+ 106;Masculino;52;Belo Horizonte;NÃO;NÃO
+ 107;Masculino;22;Belo Horizonte;NA;NA
+ 108;Masculino;34;Belo Horizonte;NA;NA
+ 109;Feminino;55;Campos Altos;NÃO;NÃO
+ 110;Masculino;64;Belo Horizonte;SIM;SIM
+ 111;Feminino;47;Belo Horizonte;NÃO;NÃO
+ 112;Masculino;76;Belo Horizonte;NA;NA
+ 113;Feminino;20;Mariana;NÃO;NÃO
+ 114;Feminino;70;Belo Horizonte;NÃO;NÃO
+ 115;Masculino;65;Belo Horizonte;SIM;SIM
+ 116;Masculino;61;Sete Lagoas;NÃO;NÃO
+ 117;Masculino;41;Timóteo;NÃO;NÃO
+ 118;Feminino;56;Bom Despacho;NÃO;NÃO
+ 119;Feminino;37;Belo Horizonte;NÃO;NÃO
+ 120;Feminino;70;Belo Horizonte;NA;NA
+ 121;Feminino;56;Uberlândia;NÃO;NÃO
+ 122;Masculino;37;Contagem;NÃO;NÃO
+ 123;Masculino;40;Uberlândia;NÃO;NÃO
+ 124;Feminino;41;Belo Horizonte;NA;NA
+ 125;Feminino;30;Belo Horizonte;NÃO;NÃO
+ 126;Feminino;59;Belo Horizonte;NA;NA
+ 127;Feminino;30;Pará de Minas;NA;NA
+ 128;Masculino;55;Belo Horizonte;NA;NA
+ 129;Masculino;59;Belo Horizonte;SIM;NA
+ 130;Masculino;27;Belo Horizonte;NA;NA
+ 131;Feminino;33;Belo Horizonte;NA;NA
+ 132;Feminino;51;Nova Lima;NÃO;NÃO
+ 133;Feminino;22;Uberlândia;NÃO;NÃO
+ 134;Masculino;33;Divinópolis;NÃO;NÃO
+ 135;Masculino;41;Nova Lima;NA;NA
+ 136;Masculino;54;Belo Horizonte;NA;NA
+ 137;Masculino;71;Belo Horizonte;NA;NA
+ 138;Masculino;30;Belo Horizonte;NA;NA
+ 139;Feminino;40;Belo Horizonte;NA;NA
+ 140;Masculino;28;Belo Horizonte;NA;NA
+ 141;Feminino;37;Lagoa da Prata;NÃO;NÃO
+ 142;Feminino;66;Governador Valadares;SIM;NÃO
+ 143;Feminino;37;Juiz de Fora;SIM;NÃO
+ 144;Masculino;38;Belo Horizonte;NA;NA
+ 145;Feminino;69;Belo Horizonte;NA;NA
+ 146;Masculino;44;Belo Horizonte;NÃO;NÃO
+ 147;Feminino;46;São João del Rei;NÃO;NÃO
+ 148;Feminino;60;Boa Esperança;SIM;SIM
+ 149;Masculino;27;Betim;NÃO;NÃO
+ 150;Feminino;31;Belo Horizonte;NA;NA
+ 151;Feminino;33;Belo Horizonte;NA;NA
+ 152;Masculino;29;Belo Horizonte;NA;NA
+ 153;Masculino;38;Belo Horizonte;NA;NA
+ 154;Feminino;41;Belo Horizonte;NA;NA
+ 155;Feminino;46;Belo Horizonte;NA;NA
+ 156;Masculino; 7;Belo Horizonte;NÃO;NÃO
+ 157;Masculino;13;Belo Horizonte;NÃO;NÃO
+ 158;Feminino;36;Belo Horizonte;NÃO;NÃO
+ 159;Feminino;51;Guimarânia;NÃO;NÃO
+ 160;Masculino;29;Betim;NA;NA
+ 161;Masculino;35;Sabará;NÃO;NÃO
+ 162;Feminino;48;Belo Horizonte;NA;NA
+ 163;Masculino;56;Belo Horizonte;SIM;NA
+ 164;Feminino;31;Nova Lima;NÃO;NÃO
+ 165;Masculino;41;Belo Horizonte;NA;NA
+ 166;Feminino;60;Contagem;NA;NA
+ 167;Masculino;55;Belo Horizonte;NÃO;NÃO
+ 168;Feminino;27;Belo Horizonte;NA;NA
+ 169;Feminino;48;Campo Belo;NÃO;NÃO
+ 170;Masculino;59;Contagem;NA;NA
+ 171;Masculino;40;Belo Horizonte;NA;NA
+ 172;Feminino;40;Divinópolis;NÃO;NÃO
+ 173;Feminino;34;Divinópolis;NÃO;NÃO
+ 174;Masculino;36;Divinópolis;NÃO;NÃO
+ 175;Feminino;48;Belo Horizonte;SIM;NÃO
+ 176;Masculino;37;Carmo do Cajuru;NÃO;NÃO
+ 177;Masculino;39;Belo Horizonte;SIM;NA
+ 178;Feminino;66;Belo Horizonte;SIM;NA
+ 179;Feminino;82;Belo Horizonte;SIM;SIM
+ 180;Masculino;35;Nova Lima;NÃO;NÃO
+ 181;Masculino;36;Belo Horizonte;NA;NA
+ 182;Masculino;62;Nova Lima;NÃO;NÃO
+ 183;Feminino;52;Belo Horizonte;NA;NA
+ 184;Masculino;53;Belo Horizonte;SIM;NA
+ 185;Masculino;40;Juiz de Fora;NÃO;NÃO
+ 186;Feminino;32;Juiz de Fora;NÃO;NÃO
+ 187;Masculino;40;Santa Luzia;SIM;NA
+ 188;Masculino;37;Juiz de Fora;NÃO;NÃO
+ 189;Masculino;39;Belo Horizonte;NÃO;NÃO
+ 190;Masculino;29;Belo Horizonte;NA;NA
+ 191;Masculino;41;Belo Horizonte;NÃO;NÃO
+ 192;Masculino;27;Belo Horizonte;NA;NA
+ 193;Feminino;26;Sabará;SIM;NA
+ 194;Feminino;48;Belo Horizonte;NA;NA
+ 195;Masculino;74;Belo Horizonte;NÃO;NÃO
+ 196;Masculino;55;Contagem;SIM;NA
+ 197;Masculino;67;São João del Rei;SIM;NÃO
+ 198;Masculino;36;Nova Lima;NA;NA
+ 199;Masculino;23;Belo Horizonte;NA;NA
+ 200;Masculino;49;Belo Horizonte;NA;NA
+ 201;Masculino;43;Belo Horizonte;NA;NA
+ 202;Masculino;52;Nova Lima;SIM;NÃO
+ 203;Masculino;36;Sabará;SIM;SIM
+ 204;Masculino;55;Belo Horizonte;NÃO;NÃO
+ 205;Feminino;28;Governador Valadares;NÃO;NÃO
+ 206;Masculino;30;Belo Horizonte;NA;NA
+ 207;Masculino;39;Belo Horizonte;SIM;NA
+ 208;Masculino;55;Extrema;SIM;NÃO
+ 209;Masculino;44;Divinópolis;NÃO;NÃO
+ 210;Feminino;46;Belo Horizonte;NA;NA
+ 211;Masculino;34;Belo Horizonte;NA;NA
+ 212;Masculino;26;Belo Horizonte;SIM;NA
+ 213;Masculino;82;Belo Horizonte;NÃO;NÃO
+ 214;Feminino;39;Belo Horizonte;NA;NA
+ 215;Masculino;13;Nova Lima;NA;NA
+ 216;Masculino;72;Belo Horizonte;SIM;NA
+ 217;Feminino;38;Belo Horizonte;NA;NA
+ 218;Masculino;66;Arcos;SIM;SIM
+ 219;Masculino;43;Belo Horizonte;NA;NA
+ 220;Feminino;40;Belo Horizonte;NA;NA
+ 221;Masculino;61;Belo Horizonte;NA;NA
+ 222;Masculino;43;Betim;NA;NA
+ 223;Masculino;30;Belo Horizonte;NA;NA
+ 224;Masculino;58;Belo Horizonte;NA;NA
+ 225;Masculino;44;Nova Lima;NÃO;NÃO
+ 226;Masculino;40;Belo Horizonte;NA;NA
+ 227;Feminino;35;Belo Horizonte;NA;NA
+ 228;Feminino;50;Muriaé;NÃO;NÃO
+ 229;Masculino;75;Poços de Caldas;SIM;SIM
+ 230;Feminino;20;Serra do Salitre;NÃO;NÃO
+ 231;Masculino;53;Contagem;NA;NA
+ 232;Feminino;63;Belo Horizonte;NA;NA
+ 233;Masculino;39;Belo Horizonte;NA;NA
+ 234;Masculino;43;Belo Horizonte;NA;NA
+ 235;Masculino;20;Belo Horizonte;NA;NA
+ 236;Masculino;34;Belo Horizonte;NA;NA
+ 237;Masculino;36;Belo Horizonte;NÃO;NÃO
+ 238;Feminino;70;Belo Horizonte;SIM;SIM
+ 239;Masculino;83;Belo Horizonte;NA;NA
+ 240;Feminino;53;Belo Horizonte;NA;NA
+ 241;Feminino;17;Belo Horizonte;NA;NA
+ 242;Feminino;46;Belo Horizonte;NA;NA
+ 243;Masculino;62;Belo Horizonte;NA;NA
+ 244;Feminino;77;Belo Horizonte;SIM;SIM
+ 245;Masculino;68;Belo Horizonte;SIM;SIM
+ 246;Masculino;60;Belo Horizonte;NA;NA
+ 247;Feminino;56;Belo Horizonte;NA;NA
+ 248;Masculino;70;Juiz de Fora;SIM;SIM
+ 249;Feminino;50;Uberlândia;NÃO;NÃO
+ 250;Feminino;55;Uberlândia;SIM;NÃO
+ 251;Masculino;52;Uberlândia;NÃO;NÃO
+ 252;Masculino;71;Nova Lima;NA;NA
+ 253;Masculino;38;Juiz de Fora;SIM;NÃO
+ 254;Feminino;53;Nova Lima;NÃO;NÃO
+ 255;Feminino;44;Divinópolis;NÃO;NÃO
+ 256;Masculino;65;Lagoa da Prata;SIM;SIM
+ 257;Masculino;42;Manhuaçu;SIM;NÃO
+ 258;Feminino;33;Belo Horizonte;NÃO;NÃO
+ 259;Masculino;22;Unaí;NÃO;NÃO
+ 260;Feminino;50;Belo Horizonte;NA;NA
+ 261;Masculino;80;Belo Horizonte;SIM;NÃO
+ 262;Masculino;35;Lagoa da Prata;NÃO;NÃO
+ 263;Feminino;65;Lagoa da Prata;NÃO;NÃO
+ 264;Masculino;23;Juiz de Fora;NÃO;NÃO
+ 265;Feminino;66;Juiz de Fora;NÃO;NÃO
+ 266;Masculino;36;Juiz de Fora;NÃO;NÃO
+ 267;Feminino;44;Juiz de Fora;NÃO;NÃO
+ 268;Feminino;10;Juiz de Fora;NÃO;NÃO
+ 269;Feminino;39;Juiz de Fora;NÃO;NÃO
+ 270;Feminino;32;Juiz de Fora;NÃO;NÃO
+ 271;Feminino;46;Juiz de Fora;NÃO;NÃO
+ 272;Feminino;58;Juiz de Fora;NÃO;NÃO
+ 273;Feminino;45;Juiz de Fora;NÃO;NÃO
+ 274;Masculino;57;Alfenas;SIM;NA
+ 275;Feminino;42;Divinópolis;NÃO;NÃO
+ 276;Masculino;61;Capitólio;SIM;SIM
+ 277;Feminino;42;Nova Lima;NA;NA
+ 278;Masculino;33;Belo Horizonte;NÃO;NÃO
+ 279;Masculino;66;Santo Antônio do Monte;SIM;NA
+ 280;Feminino;41;Belo Horizonte;NA;NA
+ 281;Feminino;61;Nova Lima;NA;NA
+ 282;Feminino;62;Santo Antônio do Monte;NÃO;NÃO
+ 283;Feminino;39;Nova Lima;NA;NA
+ 284;Feminino;38;Divinópolis;NÃO;NÃO
+ 285;Feminino;49;Belo Horizonte;NÃO;NÃO
+ 286;Masculino;33;Belo Horizonte;NA;NA
+ 287;Feminino;92;Belo Horizonte;SIM;NA
+ 288;Masculino;39;Belo Horizonte;NA;NA
+ 289;Feminino;35;Juiz de Fora;NÃO;NÃO
+ 290;Masculino;31;Contagem;NA;NA
+ 291;Feminino;25;Belo Horizonte;NA;NA
+ 292;Feminino;45;Belo Horizonte;SIM;NA
+ 293;Masculino;51;Belo Horizonte;NA;NA
+ 294;Feminino;34;Contagem;NA;NA
+ 295;Feminino;78;Belo Horizonte;SIM;NA
+ 296;Masculino;61;Belo Horizonte;SIM;NÃO
+ 297;Masculino;75;Belo Horizonte;NA;NA
+ 298;Feminino;94;Belo Horizonte;SIM;NÃO
+ 299;Feminino;43;Belo Horizonte;NÃO;NÃO
+ 300;Feminino;85;Belo Horizonte;NA;NA
+ 301;Masculino;66;Belo Horizonte;SIM;SIM
+ 302;Masculino;51;Belo Horizonte;SIM;NÃO
+ 303;Masculino;65;Belo Horizonte;SIM;NA
+ 304;Masculino;58;Lavras;SIM;NÃO
+ 305;Masculino;30;Pouso Alegre;SIM;NÃO
+ 306;Masculino;40;Belo Horizonte;NÃO;NÃO
+ 307;Masculino;54;Belo Horizonte;NÃO;NÃO
+ 308;Masculino;44;Sabará;NÃO;NÃO
+ 309;Masculino;29;Belo Horizonte;NA;NA
+ 310;Masculino;35;Araguari;SIM;SIM
+ 311;Feminino;45;Uberlândia;SIM;SIM
+ 312;Feminino;24;Uberlândia;NÃO;NÃO
+ 313;Masculino;28;Uberlândia;NÃO;NÃO
+ 314;Masculino;39;Uberlândia;NÃO;NÃO
+ 315;Feminino;59;Nova Lima;NA;NA
+ 316;Feminino;57;Belo Horizonte;NA;NA
+ 317;Masculino;43;Belo Horizonte;NÃO;NÃO
+ 318;Masculino;43;Belo Horizonte;NA;NA
+ 319;Feminino;76;Belo Horizonte;NA;NA
+ 320;Feminino;69;Uberaba;NÃO;NÃO
+ 321;Masculino;81;Belo Horizonte;NA;NA
+ 322;Feminino;57;Belo Horizonte;NA;NA
+ 323;Masculino;41;Timóteo;NÃO;NÃO
+ 324;Feminino;34;Belo Horizonte;NA;NA
+ 325;Masculino;33;Belo Horizonte;NA;NA
+ 326;Feminino;60;Belo Horizonte;NA;NA
+ 327;Feminino;38;Belo Horizonte;NA;NA
+ 328;Feminino;76;Belo Horizonte;SIM;SIM
+ 329;Masculino;56;Juiz de Fora;SIM;SIM
+ 330;Masculino;67;Juiz de Fora;NÃO;NÃO
+ 331;Masculino;31;Juiz de Fora;NÃO;NÃO
+ 332;Feminino;36;Juiz de Fora;NÃO;NÃO
+ 333;Feminino;59;Juiz de Fora;SIM;NÃO
+ 334;Feminino;84;Pouso Alegre;NÃO;NÃO
+ 335;Masculino;44;Mariana;SIM;SIM
+ 336;Masculino;30;Barbacena;NÃO;NÃO
+ 337;Masculino;32;São João del Rei;NÃO;NÃO
+ 338;Feminino;19;Patrocínio;NA;NA
+ 339;Feminino;19;Patrocínio;NA;NA
+ 340;Masculino;35;Ribeirão das Neves;NA;NA
+ 341;Masculino;56;Belo Horizonte;NA;NA
+ 342;Feminino;18;Contagem;NA;NA
+ 343;Masculino;58;Toledo;SIM;SIM
+ 344;Masculino;39;Nova Lima;NA;NA
+ 345;Feminino;35;Belo Horizonte;NA;NA
+ 346;Masculino;32;Uberlândia;SIM;NA
+ 347;Masculino;32;Belo Horizonte;NA;NA
+ 348;Masculino;71;Belo Horizonte;SIM;NA
+ 349;Masculino;80;Belo Horizonte;NA;NA
+ 350;Masculino;61;Pouso Alegre;SIM;NÃO
+ 351;Masculino;60;Muriaé;NÃO;NÃO
+ 352;Masculino;27;Uberlândia;NA;NA
+ 353;Masculino;35;Belo Horizonte;NA;NA
+ 354;Masculino;39;Belo Horizonte;NÃO;NÃO
+ 355;Feminino;67;Uberlândia;SIM;NA
+ 356;Feminino;30;Uberlândia;NA;NA
+ 357;Masculino;57;Uberlândia;NA;NA
+ 358;Masculino;37;Uberlândia;NA;NA
+ 359;Masculino;61;Uberlândia;NA;NA
+ 360;Feminino;61;Uberlândia;NA;NA
+ 364;Feminino;37;Belo Horizonte;NA;NA
+ 365;Masculino;58;Muriaé;NÃO;NÃO
+ 366;Feminino;20;Santana do Paraíso;NÃO;NÃO
+ 367;Masculino;34;Belo Horizonte;NA;NA
+ 369;Masculino;35;Belo Horizonte;NÃO;NÃO
+ 370;Masculino;42;Contagem;NA;NA
+ 371;Masculino;47;Esmeraldas;SIM;NA
+ 372;Masculino;62;Contagem;SIM;NA
+ 373;Masculino;36;Nova Lima;NA;NA
+ 374;Feminino;53;Nova Lima;NA;NA
+ 375;Feminino;58;Belo Horizonte;NA;NA
+ 376;Masculino;42;Belo Horizonte;NA;NA
+ 377;Feminino;41;Belo Horizonte;NÃO;NÃO
+ 378;Masculino;58;Belo Horizonte;NA;NA
+ 379;Feminino;38;Nova Lima;NA;NA
+ 380;Masculino;49;Divinópolis;SIM;NÃO
+ 381;Masculino;34;Belo Horizonte;NA;NA
+ 382;Masculino;56;Belo Horizonte;NA;NA
+ 383;Feminino;50;Belo Horizonte;NÃO;NÃO
+ 384;Feminino;33;Belo Horizonte;NÃO;NÃO
+ 385;Masculino;54;Belo Horizonte;NA;NA
+ 386;Feminino;53;Belo Horizonte;NA;NA
+ 387;Feminino;35;Belo Horizonte;NA;NA
+ 388;Feminino;38;Belo Horizonte;NA;NA
+ 389;Feminino;38;Belo Horizonte;NA;NA
+ 390;Feminino;43;Belo Horizonte;NA;NA
+ 391;Masculino;40;Belo Horizonte;NA;NA
+ 392;Masculino;60;Nova Lima;NA;NA
+ 393;Feminino;41;Belo Horizonte;NA;NA
+ 394;Masculino;63;Belo Horizonte;SIM;NA
+ 395;Masculino;28;Belo Horizonte;NA;NA
+ 396;Feminino;46;Divinópolis;SIM;SIM
+ 397;Feminino;38;Divinópolis;NÃO;NÃO
+ 398;Masculino;48;Nova Lima;NA;NA
+ 399;Masculino;31;Itabira;NÃO;NÃO
+ 400;Masculino;52;Belo Horizonte;SIM;NÃO
+ 401;Feminino;57;Belo Horizonte;SIM;NA
+ 402;Feminino;57;Belo Horizonte;SIM;NÃO
+ 403;Feminino;81;Belo Horizonte;NA;NA
+ 404;Masculino;62;Belo Horizonte;NA;NA
+ 405;Masculino;82;Belo Horizonte;SIM;NA
+ 406;Masculino;64;Belo Horizonte;NA;NA
+ 407;Feminino;82;Belo Horizonte;SIM;NA
+ 408;Masculino;27;Belo Horizonte;NA;NA
+ 409;Masculino;89;Belo Horizonte;SIM;NA
+ 410;Masculino;25;Sarzedo;NA;NA
+ 411;Masculino;84;Belo Horizonte;NA;NA
+ 412;Feminino;64;Belo Horizonte;SIM;NA
+ 413;Masculino;36;Contagem;NA;NA
+ 414;Masculino;79;Divinópolis;NÃO;NÃO
+ 415;Feminino;43;Divinópolis;NÃO;NÃO
+ 416;Feminino;42;Lavras;NÃO;NÃO
+ 417;Feminino;38;Nova Lima;NA;NA
+ 418;Masculino;61;Patos de Minas;SIM;NÃO
+ 419;Feminino;31;Uberlândia;NA;NA
+ 420;Feminino;15;Uberlândia;NA;NA
+ 421;Masculino;19;Varginha;NÃO;NÃO
+ 422;Masculino;74;Varginha;SIM;NÃO
+ 423;Feminino;52;Carmo da Cachoeira;SIM;SIM
+ 424;Masculino;62;Varginha;SIM;SIM
+ 425;Feminino;61;Uberlândia;SIM;SIM
+ 426;Masculino;80;Uberlândia;SIM;SIM
+ 427;Masculino;68;Nanuque;SIM;SIM
+ 428;Feminino;70;Nanuque;SIM;NÃO
+ 429;Masculino;45;OUTROS;NA;NA
+ 430;Masculino;34;OUTROS;NA;NA
+ 431;Feminino;21;OUTROS;NA;NA
+ 432;Feminino;32;OUTROS;NA;NA
+ 433;Feminino;85;OUTROS;NA;NA
+ 434;Masculino;49;OUTROS;NA;NA
+ 435;Masculino;44;Uberaba;NÃO;NÃO
+ 436;Masculino;64;Belo Horizonte;NA;NA
+ 437;Masculino;29;Uberlândia;NA;NA
+ 438;Feminino;80;Centralina;SIM;SIM
+ 439;Feminino;28;Uberaba;NA;NA
+ 440;Feminino;33;Uberaba;NA;NA
+ 441;Masculino;46;Belo Horizonte;NÃO;NÃO
+ 442;Feminino;24;Araguari;NA;NA
+ 443;Masculino;64;Belo Horizonte;NA;NA
+ 444;Masculino;42;Uberlândia;SIM;NA
+ 445;Masculino;45;Uberlândia;NA;NA
+ 446;Masculino;63;Belo Horizonte;NA;NA
+ 447;Masculino;58;Belo Horizonte;NA;NA
+ 448;Feminino;60;Uberaba;NA;NA
+ 449;Masculino;37;Uberlândia;NA;NA
+ 450;Masculino;32;Uberlândia;NA;NA
+ 451;Masculino;46;Uberlândia;NA;NA
+ 452;Masculino;59;Uberaba;NÃO;NÃO
+ 453;Masculino;49;Juiz de Fora;NÃO;NÃO
+ 454;Feminino;85;Juiz de Fora;NÃO;NÃO
+ 455;Masculino;69;Juiz de Fora;SIM;SIM
+ 456;Masculino;25;Nova Lima;NÃO;NÃO
+ 457;Masculino;44;OUTROS;NA;NA
+ 458;Masculino;53;Paraisópolis;SIM;SIM
+ 459;Feminino;51;Belo Horizonte;NA;NA
+ 460;Feminino;40;Sete Lagoas;NÃO;NÃO
+ 461;Feminino;45;Belo Horizonte;NA;NA
+ 462;Feminino; 1;Belo Horizonte;NA;NA
+ 463;Feminino;33;Belo Horizonte;NA;NA
+ 464;Feminino;53;Belo Horizonte;NA;NA
+ 465;Masculino;57;Contagem;NA;NA
+ 466;Feminino;54;Juiz de Fora;SIM;NÃO
+ 467;Feminino;48;Belo Horizonte;NA;NA
+ 468;Masculino;48;Belo Horizonte;NA;NA
+ 469;Feminino;64;Uberaba;SIM;NA
+ 470;Masculino;49;Juiz de Fora;SIM;SIM
+ 471;Feminino;35;Belo Horizonte;NA;NA
+ 472;Masculino;31;Belo Horizonte;NA;NA
+ 473;Feminino;40;Belo Horizonte;NA;NA
+ 474;Masculino;41;Nova Lima;NÃO;NÃO
+ 475;Masculino;78;Pouso Alegre;SIM;SIM
+ 476;Feminino;38;Patos de Minas;SIM;NÃO
+ 477;Masculino;60;Nova Lima;NA;NA
+ 478;Masculino;58;Nova Lima;NA;NA
+ 479;Feminino;60;Belo Horizonte;SIM;NA
+ 480;Masculino;62;Belo Horizonte;NA;NA
+ 482;Feminino;47;Ribeirão das Neves;SIM;NA
+ 483;Masculino;29;Belo Horizonte;NA;NA
+ 484;Feminino;25;Belo Horizonte;NA;NA
+ 485;Masculino;66;Belo Horizonte;NA;NA
+ 486;Feminino;58;Arcos;SIM;SIM
+ 487;Masculino;61;Vazante;SIM;NÃO
+ 488;Masculino;28;Belo Horizonte;NA;NA
+ 489;Feminino;84;Belo Horizonte;SIM;NA
+ 490;Feminino;28;Belo Horizonte;NA;NA
+ 491;Masculino;20;Belo Horizonte;NA;NA
+ 492;Feminino;30;Belo Horizonte;NA;NA
+ 493;Feminino;29;Nova Lima;NA;NA
+ 494;Feminino;72;Belo Horizonte;NA;NA
+ 495;Masculino;56;Contagem;SIM;NÃO
+ 496;Masculino;42;Muriaé;NÃO;NÃO
+ 497;Feminino;25;Janaúba;NÃO;NÃO
+ 498;Masculino;73;Uberaba;SIM;NA
+ 499;Masculino;29;Belo Horizonte;NA;NA
+ 500;Masculino;57;Paracatu;SIM;SIM
+ 501;Feminino;62;Juiz de Fora;SIM;NÃO
+ 502;Masculino;79;Juiz de Fora;SIM;NÃO
+ 503;Feminino;64;Belo Horizonte;SIM;NA
+ 504;Masculino;78;Piumhi;SIM;SIM
+ 505;Feminino;67;Juiz de Fora;SIM;NÃO
+ 506;Masculino;36;Patos de Minas;SIM;NÃO
+ 507;Masculino;82;Senador Amaral;SIM;NÃO
+ 508;Masculino;60;Uberlândia;NA;NA
+ 509;Feminino;56;Betim;NA;NA
+ 510;Masculino;48;Matozinhos;NA;NA
+ 511;Masculino;29;Janaúba;NÃO;NÃO
+ 512;Masculino;69;Montes Claros;SIM;SIM
+ 513;Feminino;64;Juiz de Fora;SIM;SIM
+ 514;Masculino;34;Divinésia;SIM;NÃO
+ 515;Feminino;32;Ubá;NÃO;NÃO
+ 516;Masculino;55;Pouso Alegre;NÃO;NÃO
+ 517;Masculino;27;Belo Horizonte;NA;NA
+ 518;Masculino;55;Lavras;SIM;NÃO
+ 519;Feminino;46;Varginha;NÃO;NÃO
+ 520;Masculino;52;Uberlândia;NA;NA
+ 521;Feminino;19;Patrocínio;NA;NA
+ 522;Masculino;46;Patrocínio;NA;NA
+ 523;Feminino;25;Frutal;NÃO;NÃO
+ 524;Masculino;53;Machado;SIM;NA
+ 525;Feminino;58;Guaranésia;NÃO;NÃO
+ 526;Masculino;38;Cambuí;NÃO;NÃO
+ 527;Feminino;39;Jeceaba;NÃO;NÃO
+ 528;Feminino;53;Campo Belo;SIM;SIM
+ 529;Masculino;72;Ouro Fino;SIM;SIM
+ 530;Masculino;67;Botelhos;SIM;NA
+ 531;Masculino;39;Belo Horizonte;SIM;NÃO
+ 532;Feminino;39;Belo Horizonte;NA;NA
+ 533;Feminino;34;Belo Horizonte;NA;NA
+ 534;Feminino;37;Belo Horizonte;NA;NA
+ 535;Masculino;41;Belo Horizonte;NA;NA
+ 536;Feminino;35;Belo Horizonte;NA;NA
+ 537;Feminino;19;Belo Horizonte;NA;NA
+ 538;Feminino;53;Belo Horizonte;SIM;NA
+ 539;Feminino;38;Sabará;NÃO;NÃO
+ 540;Masculino;42;Ipatinga;NÃO;NÃO
+ 541;Masculino;26;Coronel Fabriciano;NÃO;NÃO
+ 542;Masculino;47;Lagoa da Prata;NA;NA
+ 543;Feminino;34;Lagoa da Prata;NA;NA
+ 544;Feminino;75;Lagoa da Prata;NA;NA
+ 545;Feminino;49;Lagoa da Prata;NA;NA
+ 546;Feminino;46;Lagoa da Prata;SIM;NA
+ 547;Masculino;77;Lagoa da Prata;NA;NA
+ 548;Feminino;85;OUTROS;SIM;NÃO
+ 549;Masculino;46;Itapeva;NÃO;NÃO
+ 550;Masculino;52;Alpercata;SIM;SIM
+ 551;Masculino;51;Belo Horizonte;SIM;NA
+ 552;Feminino;51;Belo Horizonte;SIM;NA
+ 553;Masculino;82;Belo Horizonte;NA;NA
+ 556;Feminino;60;Timóteo;NÃO;NÃO
+ 557;Feminino;63;Pouso Alegre;NÃO;NÃO
+ 558;Masculino;62;Pouso Alegre;SIM;NÃO
+ 559;Masculino;31;Pouso Alegre;NÃO;NÃO
+ 560;Feminino;34;Divinópolis;NÃO;NÃO
+ 561;Masculino;54;Juiz de Fora;NÃO;NÃO
+ 562;Masculino;16;Juiz de Fora;NÃO;NÃO
+ 563;Feminino;36;Juiz de Fora;NÃO;NÃO
+ 564;Feminino;44;Belo Horizonte;NA;NA
+ 565;Masculino;31;Contagem;NA;NA
+ 566;Masculino;47;Belo Horizonte;SIM;NA
+ 567;Masculino;55;Extrema;SIM;NÃO
+ 568;Feminino;52;Belo Horizonte;NA;NA
+ 569;Masculino;31;Juiz de Fora;NÃO;NÃO
+ 570;Masculino;39;Belo Horizonte;NA;NA
+ 571;Feminino;71;Belo Horizonte;NA;NA
+ 572;Masculino;28;Belo Horizonte;NA;NA
+ 573;Masculino;40;Belo Horizonte;NA;NA
+ 574;Feminino;57;Belo Horizonte;NA;NA
+ 575;Feminino;58;Vazante;NÃO;NÃO
+ 576;Feminino;76;Belo Horizonte;NA;NA
+ 577;Masculino;40;Belo Horizonte;NA;NA
+ 578;Feminino;60;Belo Horizonte;SIM;NA
+ 579;Feminino;53;Belo Horizonte;NA;NA
+ 580;Masculino;89;Belo Horizonte;SIM;NA
+ 581;Masculino;48;Uberaba;SIM;NÃO
+ 582;Masculino;28;Uberaba;NÃO;NÃO
+ 583;Masculino;43;Uberlândia;SIM;NA
+ 584;Feminino;79;Patos de Minas;SIM;NÃO
+ 585;Masculino;56;Patos de Minas;SIM;NÃO
+ 586;Feminino;30;Belo Horizonte;NA;NA
+ 587;Masculino;59;Varginha;SIM;SIM
+ 588;Feminino;49;Carangola;NÃO;NÃO
+ 589;Masculino;68;Pouso Alegre;NÃO;NÃO
+ 590;Feminino;62;São João Nepomuceno;SIM;SIM
+ 591;Feminino;41;Belo Horizonte;SIM;NA
+ 592;Masculino;40;Belo Horizonte;NA;NA
+ 593;Masculino;29;Belo Horizonte;NA;NA
+ 594;Feminino;36;Belo Horizonte;NA;NA
+ 595;Feminino; 6;Belo Horizonte;NA;NA
+ 596;Feminino;24;Nova Lima;NA;NA
+ 597;Feminino;34;Belo Horizonte;NÃO;NÃO
+ 598;Feminino;35;Belo Horizonte;NA;NA
+ 599;Feminino;40;Belo Horizonte;NA;NA
+ 600;Feminino;38;Belo Horizonte;NA;NA
+ 601;Feminino;39;Boa Esperança;NÃO;NÃO
+ 602;Feminino;73;Carmo do Cajuru;NA;NA
+ 603;Feminino;39;Divinópolis;NA;NA
+ 604;Masculino;46;Juiz de Fora;NÃO;NÃO
+ 605;Masculino;35;OUTROS;NÃO;NÃO
+ 606;Feminino;64;Juiz de Fora;NÃO;NÃO
+ 607;Feminino;57;Juiz de Fora;NÃO;NÃO
+ 608;Masculino;62;Timóteo;NÃO;NÃO
+ 609;Masculino;76;Ipaba;SIM;SIM
+ 610;Feminino;35;Ipatinga;NÃO;NÃO
+ 611;Masculino;43;Uberlândia;SIM;NA
+ 612;Feminino;61;Uberlândia;SIM;NA
+ 613;Masculino;31;Uberlândia;NA;NA
+ 614;Masculino;80;Uberlândia;SIM;NA
+ 615;Feminino;52;Patrocínio;NA;NA
+ 616;Masculino;33;Uberlândia;NA;NA
+ 617;Masculino;NA;Uberlândia;NA;NA
+ 618;Masculino;37;Juiz de Fora;NÃO;NÃO
+ 619;Feminino;88;Paraisópolis;SIM;SIM
+ 620;Masculino;67;Poços de Caldas;SIM;SIM
+ 621;Feminino;72;Uberaba;SIM;NA
+ 622;Masculino;43;Belo Horizonte;SIM;NA
+ 623;Masculino;38;Belo Horizonte;NA;NA
+ 624;Feminino;57;Itapecerica;NÃO;NÃO
+ 625;Masculino;45;Belo Horizonte;NA;NA
+ 626;Feminino;53;Belo Horizonte;NA;NA
+ 627;Feminino;59;Itanhandu;SIM;SIM
+ 628;Masculino;40;Belo Horizonte;NA;NA
+ 629;Masculino;44;Belo Horizonte;NA;NA
+ 630;Masculino;64;Belo Horizonte;NA;NA
+ 631;Feminino;75;Divinópolis;NA;NA
+ 632;Masculino;78;Divinópolis;NA;NA
+ 633;Feminino;31;Divinópolis;NA;NA
+ 634;Feminino;27;Belo Horizonte;NA;NA
+ 635;Feminino;36;João Monlevade;NÃO;NÃO
+ 636;Feminino;41;Mário Campos;SIM;NA
+ 637;Masculino; 0;Santa Maria de Itabira;NÃO;NÃO
+ 638;Masculino;39;Belo Horizonte;NA;NA
+ 639;Masculino;43;Borda da Mata;SIM;NÃO
+ 640;Masculino;28;Belo Horizonte;NA;NA
+ 641;Feminino;56;Belo Horizonte;NA;NA
+ 642;Masculino;84;Belo Horizonte;NA;NA
+ 643;Masculino;38;Varginha;NÃO;NÃO
+ 644;Masculino;45;Nova Lima;NÃO;NÃO
+ 645;Feminino;31;Cambuí;NÃO;NÃO
+ 646;Masculino;15;Cambuí;NÃO;NÃO
+ 647;Feminino;40;Cambuí;NÃO;NÃO
+ 648;Feminino;64;Cambuí;NÃO;NÃO
+ 649;Masculino;80;Ipiaçu;SIM;NA
+ 650;Masculino;34;Uberlândia;NA;NA
+ 651;Feminino;55;Uberlândia;NA;NA
+ 652;Masculino;27;Uberlândia;NA;NA
+ 653;Feminino;45;Uberlândia;NA;NA
+ 654;Masculino;38;Juiz de Fora;NÃO;NÃO
+ 655;Masculino;39;Juiz de Fora;NÃO;NÃO
+ 656;Masculino;70;Juiz de Fora;SIM;SIM
+ 657;Masculino;41;Juiz de Fora;NÃO;NÃO
+ 658;Feminino; 3;Ipatinga;NÃO;NÃO
+ 659;Feminino;60;Uberaba;SIM;NÃO
+ 660;Masculino;29;Uberaba;NÃO;NÃO
+ 661;Feminino;38;Belo Horizonte;SIM;NA
+ 662;Feminino;29;Nova Lima;SIM;NA
+ 663;Masculino;56;Nova Lima;NA;NA
+ 664;Feminino;69;Belo Horizonte;SIM;NA
+ 665;Feminino;37;Governador Valadares;SIM;NÃO
+ 666;Feminino;68;São Lourenço;SIM;NÃO
+ 667;Masculino;54;Belo Horizonte;SIM;NA
+ 668;Feminino;37;Sabará;NA;NA
+ 669;Masculino;35;Sabará;NA;NA
+ 670;Masculino;40;Belo Horizonte;NA;NA
+ 671;Feminino;45;Belo Horizonte;NA;NA
+ 672;Masculino;78;Timóteo;NÃO;NÃO
+ 673;Masculino;27;Belo Horizonte;NA;NA
+ 674;Feminino;21;Belo Horizonte;NA;NA
+ 675;Feminino;33;Belo Horizonte;NA;NA
+ 676;Feminino;71;Belo Horizonte;NA;NA
+ 677;Feminino;36;Contagem;NA;NA
+ 678;Masculino;39;Belo Horizonte;NA;NA
+ 679;Feminino;60;Belo Horizonte;NA;NA
+ 680;Feminino;41;Belo Horizonte;NA;NA
+ 681;Feminino;20;Belo Horizonte;NA;NA
+ 682;Masculino;41;Contagem;SIM;NA
+ 683;Masculino;53;Juiz de Fora;SIM;SIM
+ 684;Masculino;47;Juiz de Fora;SIM;NÃO
+ 685;Feminino;79;Senador Amaral;SIM;NÃO
+ 686;Masculino;79;Patos de Minas;SIM;SIM
+ 687;Masculino;39;Belo Horizonte;NA;NA
+ 688;Masculino;42;Belo Horizonte;NA;NA
+ 689;Feminino;45;Belo Horizonte;NA;NA
+ 690;Masculino;29;Belo Horizonte;NA;NA
+ 691;Feminino;44;Belo Horizonte;NA;NA
+ 692;Feminino;40;Nova Lima;NA;NA
+ 693;Feminino;27;Belo Horizonte;NA;NA
+ 694;Masculino;30;Belo Horizonte;NA;NA
+ 695;Masculino;33;Pirapora;NÃO;NÃO
+ 696;Feminino;67;Toledo;NÃO;NÃO
+ 697;Feminino;54;Senador Amaral;NÃO;NÃO
+ 698;Feminino;23;Senador Amaral;NÃO;NÃO
+ 699;Feminino;68;Timóteo;NÃO;NÃO
+ 700;Masculino;40;Itajubá;SIM;NÃO
+ 701;Masculino;78;Uberlândia;SIM;NA
+ 702;Feminino;56;Uberlândia;SIM;NA
+ 703;Masculino;72;Uberlândia;SIM;NA
+ 704;Masculino;61;Belo Horizonte;NA;NA
+ 705;Feminino;41;Varginha;SIM;NÃO
+ 706;Masculino;39;Pouso Alegre;NÃO;NÃO
+ 707;Feminino;52;Ubá;SIM;NÃO
+ 708;Masculino;65;Pouso Alegre;SIM;NA
+ 709;Feminino;47;Belo Horizonte;NA;NA
+ 710;Masculino;45;Belo Horizonte;NA;NA
+ 711;Masculino;44;Nova Lima;NA;NA
+ 712;Feminino;74;Belo Horizonte;SIM;NA
+ 713;Masculino;58;Betim;NA;NA
+ 714;Masculino;89;Santo Antônio do Monte;SIM;NA
+ 715;Feminino;39;Betim;NA;NA
+ 716;Masculino;33;Borda da Mata;SIM;NÃO
+ 717;Feminino;49;Monte Carmelo;NÃO;NÃO
+ 718;Masculino;22;Monte Carmelo;NÃO;NÃO
+ 719;Feminino;45;Monte Carmelo;NÃO;NÃO
+ 720;Feminino;15;Monte Carmelo;NÃO;NÃO
+ 721;Masculino;26;Nova Lima;NA;NA
+ 722;Masculino;70;Belo Horizonte;SIM;NA
+ 723;Feminino;57;Jaboticatubas;SIM;NA
+ 724;Masculino;63;Divinópolis;NA;NA
+ 725;Feminino;47;Ferros;NA;NA
+ 726;Masculino;52;Araguari;NA;NA
+ 727;Feminino;49;Araguari;NA;NA
+ 728;Feminino;65;Uberlândia;NA;NA
+ 729;Masculino;22;Araguari;SIM;NA
+ 730;Masculino;54;Juiz de Fora;SIM;NÃO
+ 731;Masculino;34;São Gotardo;NÃO;NÃO
+ 732;Masculino;73;Itajubá;SIM;NÃO
+ 733;Masculino;59;Juiz de Fora;NÃO;NÃO
+ 734;Feminino;59;Juiz de Fora;SIM;NÃO
+ 735;Masculino;52;Ipuiúna;SIM;SIM
+ 736;Masculino;64;Uberaba;SIM;NA
+ 737;Masculino;40;Poços de Caldas;SIM;NÃO
+ 738;Masculino;60;Juiz de Fora;NÃO;NÃO
+ 739;Masculino;56;Contagem;SIM;NA
+ 740;Masculino;34;Ferros;NA;NA
+ 741;Feminino;89;Divinópolis;NÃO;NÃO
+ 742;Masculino;31;Barbacena;SIM;NÃO
+ 743;Masculino;76;São Brás do Suaçuí;SIM;NÃO
+ 744;Feminino;78;Paraisópolis;SIM;NÃO
+ 745;Masculino;71;Cambuquira;SIM;NÃO
+ 746;Masculino;23;Ituiutaba;NÃO;NÃO
+ 747;Feminino;65;Uberlândia;SIM;NA
+ 748;Feminino;46;Belo Horizonte;NA;NA
+ 749;Feminino;35;Belo Horizonte;NA;NA
+ 750;Masculino;52;Belo Horizonte;SIM;NA
+ 751;Feminino;61;Ibirité;SIM;NÃO
+ 752;Masculino;36;Belo Horizonte;SIM;NA
+ 753;Masculino;48;Ferros;NÃO;NÃO
+ 755;Masculino;58;Conceição das Alagoas;NA;NA
+ 756;Feminino;42;Uberlândia;NA;NA
+ 757;Feminino;77;Boa Esperança;SIM;NA
+ 758;Masculino;40;Belo Horizonte;NA;NA
+ 759;Masculino;41;Extrema;SIM;NA
+ 760;Feminino;82;Uberaba;SIM;NA
+ 761;Feminino;36;Juiz de Fora;SIM;NÃO
+ 762;Feminino;32;Santa Luzia;NA;NA
+ 763;Feminino;34;Abaeté;NÃO;NÃO
+ 764;Masculino;47;Ubá;NA;NA
+ 765;Masculino; 0;Juiz de Fora;SIM;NÃO
+ 766;Masculino;31;Belo Horizonte;NA;NA
+ 767;Feminino;68;Belo Horizonte;SIM;NA
+ 768;Feminino;72;Belo Horizonte;SIM;NA
+ 769;Masculino;86;OUTROS;SIM;NA
+ 770;Feminino;26;Arcos;NA;NA
+ 771;Masculino;44;Belo Horizonte;SIM;NA
+ 772;Feminino;68;Governador Valadares;SIM;SIM
+ 773;Feminino;22;Santa Luzia;NA;NA
+ 774;Feminino;41;Belo Horizonte;NA;NA
+ 775;Masculino;80;Belo Horizonte;NA;NA
+ 776;Feminino;46;Manhuaçu;NÃO;NÃO
+ 777;Masculino;71;Belo Horizonte;SIM;NA
+ 778;Masculino;76;Perdões;SIM;NÃO
+ 779;Feminino;43;Belo Horizonte;SIM;NA
+ 780;Feminino;56;Itapecerica;NA;NA
+ 781;Feminino;36;Belo Horizonte;NA;NA
+ 782;Masculino;52;Campo Belo;SIM;NA
+ 784;Feminino;60;Lagoa da Prata;SIM;NA
+ 785;Masculino;62;Governador Valadares;SIM;SIM
+ 786;Masculino;53;Arcos;SIM;NA
+ 787;Feminino;68;Araguari;SIM;NA
+ 788;Feminino;23;Belo Horizonte;NA;NA
+ 789;Masculino;24;Itabira;NÃO;NÃO
+ 790;Feminino;56;Campos Gerais;NÃO;NÃO
+ 791;Masculino;54;Belo Horizonte;NA;NA
+ 792;Feminino;42;Belo Horizonte;NA;NA
+ 793;Feminino;65;Araguari;SIM;NA
+ 794;Feminino;38;Belo Horizonte;NA;NA
+ 795;Masculino;69;Betim;SIM;NA
+ 796;Masculino;68;Bonfim;SIM;NA
+ 797;Feminino;82;Nova Serrana;SIM;NA
+ 798;Masculino;60;Ubá;NA;NA
+ 799;Feminino;58;Pirapetinga;SIM;NÃO
+ 800;Masculino;57;São Lourenço;NÃO;NÃO
+ 801;Feminino; 5;Marliéria;NÃO;NÃO
+ 802;Feminino;55;Conceição das Alagoas;NÃO;NÃO
+ 803;Feminino;62;Extrema;NÃO;NÃO
+ 804;Masculino;84;Pouso Alegre;SIM;SIM
+ 805;Masculino;38;Paraisópolis;SIM;NA
+ 806;Feminino;21;Extrema;NÃO;NÃO
+ 807;Feminino;24;Ibirité;NÃO;NÃO
+ 808;Masculino;32;Lagoa da Prata;NA;NA
+ 809;Feminino;35;Lagoa da Prata;NA;NA
+ 810;Masculino;52;Contagem;NA;NA
+ 811;Masculino;38;Belo Horizonte;NA;NA
+ 813;Masculino;31;Belo Horizonte;NA;NA
+ 814;Masculino;46;Belo Horizonte;NA;NA
+ 815;Masculino;71;Juiz de Fora;SIM;SIM
+ 816;Feminino;31;Uberlândia;SIM;NA
+ 818;Masculino;81;Patrocínio;SIM;NA
+ 819;Masculino;82;Uberlândia;SIM;NA
+ 820;Feminino;50;Machado;NÃO;NÃO
+ 821;Masculino;33;Pará de Minas;NA;NA
+ 822;Feminino;27;Pará de Minas;NA;NA
+ 823;Feminino;39;Ipaba;NA;NA
+ 824;Feminino;25;Belo Horizonte;NA;NA
+ 825;Feminino;46;Belo Horizonte;NA;NA
+ 826;Masculino;52;Belo Horizonte;SIM;NA
+ 827;Feminino;47;Contagem;NA;NA
+ 828;Feminino;35;Divinópolis;NÃO;NÃO
+ 829;Masculino;63;Juiz de Fora;NÃO;NA
+ 830;Feminino;89;Belo Horizonte;SIM;NA
+ 831;Feminino;36;Pouso Alegre;SIM;NA
+ 832;Feminino;43;Belo Horizonte;NA;NA
+ 833;Masculino;36;Belo Horizonte;NA;NA
+ 834;Feminino;50;Passos;NÃO;NÃO
+ 835;Feminino;33;Belo Horizonte;NA;NA
+ 836;Feminino;34;Belo Horizonte;NA;NA
+ 837;Feminino;50;Belo Horizonte;NA;NA
+ 838;Feminino;28;Contagem;NA;NA
+ 839;Masculino;41;Belo Horizonte;NA;NA
+ 840;Feminino;27;Belo Horizonte;NA;NA
+ 841;Feminino;28;Belo Horizonte;NA;NA
+ 842;Feminino;31;Belo Horizonte;NA;NA
+ 843;Feminino;17;Juiz de Fora;NÃO;NA
+ 844;Masculino;35;Pará de Minas;NA;NA
+ 845;Feminino;27;Goianá;NÃO;NA
+ 846;Masculino;52;Piumhi;SIM;NÃO
+ 847;Masculino;45;Frutal;SIM;NA
+ 848;Feminino;44;Belo Horizonte;NA;NA
+ 849;Masculino;41;Lavras;NÃO;NÃO
+ 850;Feminino;54;Sabará;SIM;SIM
+ 851;Feminino;59;Belo Horizonte;NA;NA
+ 852;Masculino;58;Belo Horizonte;NA;NA
+ 853;Masculino;43;Coronel Fabriciano;NA;NA
+ 854;Masculino;42;Belo Horizonte;SIM;NA
+ 855;Masculino;30;Cataguases;SIM;NÃO
+ 856;Masculino;59;Belo Horizonte;SIM;NA
+ 857;Feminino;24;Ipatinga;NÃO;NÃO
+ 858;Feminino;39;Ipatinga;NA;NA
+ 859;Masculino;48;Divinópolis;NÃO;NÃO
+ 860;Feminino;31;Divinópolis;NÃO;NÃO
+ 861;Masculino;42;Divinópolis;NÃO;NÃO
+ 863;Feminino;25;Divinópolis;NÃO;NÃO
+ 864;Feminino;78;Divinópolis;SIM;SIM
+ 865;Feminino;46;Divinópolis;NÃO;NÃO
+ 866;Feminino;34;Divinópolis;NÃO;NÃO
+ 867;Feminino;41;Divinópolis;NÃO;NÃO
+ 868;Feminino;33;Pouso Alegre;NÃO;NA
+ 869;Masculino;45;Juiz de Fora;NÃO;NÃO
+ 870;Masculino;34;Juiz de Fora;NÃO;NÃO
+ 871;Feminino;62;Juiz de Fora;SIM;NÃO
+ 872;Feminino;32;Juiz de Fora;NÃO;NÃO
+ 873;Masculino;35;Juiz de Fora;NÃO;NÃO
+ 874;Feminino;25;Pouso Alegre;NÃO;NÃO
+ 875;Feminino;35;Juiz de Fora;NÃO;NÃO
+ 876;Masculino;29;Juiz de Fora;NÃO;NÃO
+ 877;Feminino;40;Juiz de Fora;NÃO;NÃO
+ 878;Feminino;48;Juiz de Fora;NÃO;NÃO
+ 879;Feminino; 1;Juiz de Fora;NÃO;NÃO
+ 880;Masculino; 3;Juiz de Fora;NÃO;NÃO
+ 881;Feminino;45;Juiz de Fora;NÃO;NÃO
+ 882;Feminino;43;Juiz de Fora;NÃO;NÃO
+ 883;Feminino;37;Toledo;NÃO;NÃO
+ 884;Masculino;37;Uberlândia;NA;NA
+ 885;Feminino;47;Uberlândia;NA;NA
+ 886;Masculino;58;Uberlândia;NA;NA
+ 887;Feminino;43;Uberlândia;NA;NA
+ 888;Masculino;69;Uberlândia;NA;NA
+ 889;Masculino;41;Uberlândia;NA;NA
+ 890;Masculino;34;São Tomás de Aquino;SIM;SIM
+ 891;Masculino;30;Uberaba;NÃO;NÃO
+ 892;Feminino;31;Uberaba;NÃO;NÃO
+ 893;Masculino;38;Araxá;SIM;NÃO
+ 894;Masculino;71;Uberaba;SIM;NÃO
+ 895;Masculino;58;Belo Horizonte;NA;NA
+ 896;Feminino;31;Belo Horizonte;NA;NA
+ 897;Feminino;34;Belo Horizonte;NA;NA
+ 898;Feminino;43;Belo Horizonte;NA;NA
+ 899;Feminino;58;Lagoa Santa;SIM;NA
+ 900;Masculino;55;Pouso Alegre;SIM;SIM
+ 901;Masculino;34;Ibirité;SIM;NÃO
+ 902;Feminino;53;Contagem;NA;NA
+ 903;Masculino;35;Ibirité;NÃO;NÃO
+ 904;Masculino;30;Pirapora;NÃO;NÃO
+ 905;Feminino;60;Janaúba;NA;NA
+ 906;Masculino;82;Belo Horizonte;SIM;NA
+ 907;Masculino;43;Pouso Alegre;NÃO;NA
+ 908;Masculino;36;Leopoldina;SIM;NÃO
+ 909;Feminino;25;Arcos;NA;NA
+ 910;Feminino;52;Arcos;NA;NA
+ 912;Masculino;21;Almenara;NÃO;NÃO
+ 913;Feminino;89;Araxá;SIM;SIM
+ 914;Masculino;40;Montes Claros;NÃO;NA
+ 915;Masculino;33;Mariana;NÃO;NÃO
+ 916;Masculino;55;Mariana;NÃO;NÃO
+ 917;Feminino;44;Mariana;NÃO;NÃO
+ 918;Masculino;10;Contagem;NA;NA
+ 919;Feminino;26;Montes Claros;NÃO;NA
+ 920;Feminino;34;Itapecerica;NA;NA
+ 921;Feminino;38;Belo Horizonte;NA;NA
+ 922;Feminino;55;Belo Horizonte;NA;NA
+ 923;Feminino;67;Contagem;NA;NA
+ 924;Feminino;81;Nova Lima;NA;NA
+ 925;Feminino;46;Belo Horizonte;NA;NA
+ 926;Masculino;51;Belo Horizonte;NA;NA
+ 927;Feminino;68;Belo Horizonte;SIM;NA
+ 928;Feminino;49;Arcos;NA;NA
+ 929;Masculino;51;Contagem;NA;NA
+ 930;Feminino;65;Belo Horizonte;NA;NA
+ 931;Feminino;44;Belo Horizonte;NA;NA
+ 932;Feminino;19;Belo Horizonte;NA;NA
+ 933;Masculino;60;Belo Horizonte;SIM;NA
+ 934;Feminino;48;Patrocínio;SIM;NA
+ 935;Feminino;74;Belo Horizonte;NA;NA
+ 936;Feminino;79;Belo Horizonte;NA;NA
+ 938;Masculino;45;Poços de Caldas;NA;NA
+ 939;Feminino;53;Novo Cruzeiro;SIM;SIM
+ 940;Masculino;49;Divinópolis;NÃO;NÃO
+ 941;Masculino;50;Divinópolis;NÃO;NÃO
+ 942;Masculino;42;Divinópolis;NÃO;NÃO
+ 943;Masculino;37;Divinópolis;NÃO;NÃO
+ 944;Feminino;57;Divinópolis;NÃO;NÃO
+ 945;Masculino;36;Santa Luzia;NA;NA
+ 946;Masculino;36;Extrema;NÃO;NA
+ 947;Feminino;23;Extrema;NÃO;NA
+ 948;Masculino;39;Extrema;SIM;SIM
+ 949;Feminino;33;Cambuí;SIM;NÃO
+ 950;Feminino;53;Cambuí;NÃO;NA
+ 951;Feminino;48;Extrema;SIM;NA
+ 952;Feminino;45;Extrema;NÃO;NA
+ 953;Feminino;12;Uberlândia;NA;NA
+ 954;Feminino;33;Uberlândia;NA;NA
+ 955;Masculino;63;Uberlândia;SIM;NA
+ 956;Masculino;46;Varginha;NÃO;NÃO
+ 957;Feminino;39;Varginha;NÃO;NÃO
+ 958;Feminino;40;Itanhandu;NÃO;NÃO
+ 960;Masculino;66;Alfenas;SIM;NÃO
+ 961;Masculino;39;Juiz de Fora;NÃO;NA
+ 962;Feminino;48;Juiz de Fora;NÃO;NA
+ 963;Masculino;30;Juiz de Fora;NÃO;NA
+ 964;Feminino;21;Juiz de Fora;NÃO;NA
+ 965;Feminino;51;Juiz de Fora;NÃO;NA
+ 966;Masculino;25;Juiz de Fora;NÃO;NA
+ 967;Feminino;28;Juiz de Fora;NÃO;NA
+ 968;Masculino;30;Goianá;NÃO;NA
+ 970;Feminino;76;Belmiro Braga;SIM;SIM
+ 971;Feminino;33;Belo Horizonte;NA;NA
+ 972;Masculino;40;Contagem;NA;NA
+ 973;Feminino;66;Contagem;SIM;NA
+ 974;Masculino;27;Juiz de Fora;NA;NA
+ 975;Feminino;31;Contagem;NA;NA
+ 976;Masculino;28;Belo Horizonte;NA;NA
+ 977;Masculino;69;Coromandel;SIM;NA
+ 978;Masculino;51;Belo Horizonte;NA;NA
+ 979;Masculino;35;Belo Horizonte;NA;NA
+ 980;Feminino;84;Belo Horizonte;SIM;NA
+ 981;Masculino;74;Belo Horizonte;NA;NA
+ 982;Masculino;33;São João del Rei;NÃO;NÃO
+ 983;Masculino;71;Belo Horizonte;SIM;NA
+ 984;Feminino;30;Belo Horizonte;NA;NA
+ 985;Masculino;56;Patos de Minas;NA;NA
+ 986;Feminino;22;Itabira;NÃO;NA
+ 987;Feminino;25;Belo Horizonte;NA;NA
+ 988;Feminino;30;Belo Horizonte;NA;NA
+ 989;Masculino;37;Belo Horizonte;NA;NA
+ 990;Feminino;37;Patos de Minas;NA;NA
+ 991;Feminino;42;Belo Horizonte;NA;NA
+ 992;Masculino;57;Itabira;NÃO;NA
+ 993;Feminino;60;Belo Horizonte;NA;NA
+ 994;Feminino;63;Itabira;NÃO;NA
+ 995;Feminino;76;Belo Horizonte;NA;NA
+ 996;Feminino;76;Belo Horizonte;NA;NA
+ 997;Masculino;40;Belo Horizonte;NA;NA
+ 998;Feminino;38;Uberaba;NA;NA
+ 999;Feminino;28;Varginha;NÃO;NÃO
+1000;Feminino;31;Belo Horizonte;NÃO;NÃO
+1001;Masculino;49;Belo Horizonte;NÃO;NÃO
+1002;Masculino;69;Divinópolis;SIM;NA
+1003;Masculino;41;Monte Azul;SIM;NÃO
+1004;Feminino;53;Montes Claros;SIM;NÃO
+1005;Feminino;23;Sete Lagoas;NÃO;NÃO
+1006;Masculino;73;Patrocínio;SIM;NA
+1007;Feminino;73;Uberlândia;SIM;NA
+1008;Masculino;18;Contagem;NA;NA
+1009;Masculino;74;Contagem;SIM;NA
+1010;Feminino;33;Contagem;NA;NA
+1011;Feminino;39;Caeté;NA;NA
+1012;Masculino;55;OUTROS;SIM;NA
+1013;Feminino;76;Juiz de Fora;SIM;NA
+1014;Masculino;87;Conselheiro Lafaiete;SIM;SIM
+1015;Feminino;55;Camanducaia;SIM;NÃO
+1016;Masculino;50;Itaguara;SIM;NA
+1017;Feminino;24;Guaxupé;NÃO;NA
+1018;Masculino;75;Uberlândia;SIM;NA
+1019;Masculino;23;Timóteo;NÃO;NÃO
+1020;Feminino;72;São Sebastião do Paraíso;SIM;NÃO
+1021;Masculino;47;Munhoz;SIM;NÃO
+1022;Feminino;47;Munhoz;SIM;NÃO
+1023;Masculino;28;Munhoz;NÃO;NÃO
+1024;Masculino;66;Camanducaia;NÃO;NÃO
+1025;Masculino;17;Monte Carmelo;NÃO;NÃO
+1026;Feminino;59;Coromandel;NÃO;NÃO
+1027;Masculino;37;Paracatu;NÃO;NÃO
+1028;Masculino; 2;Paracatu;NÃO;NÃO
+1029;Feminino;39;Paracatu;NÃO;NÃO
+1030;Masculino;49;Boa Esperança;NÃO;NÃO
+1031;Feminino;36;Boa Esperança;NÃO;NÃO
+1032;Masculino;21;Boa Esperança;NÃO;NÃO
+1033;Feminino;29;Barbacena;SIM;SIM
+1034;Feminino;38;Belo Horizonte;NA;NA
+1035;Feminino;34;Uberlândia;NA;NA
+1036;Masculino;42;Belo Horizonte;SIM;NA
+1037;Feminino;32;Belo Horizonte;NA;NA
+1038;Feminino;89;Pará de Minas;NA;NA
+1039;Feminino;45;Santos Dumont;SIM;NÃO
+1040;Masculino;57;Lavras;NÃO;NA
+1041;Masculino;65;Belo Horizonte;NA;NA
+1042;Masculino;41;Belo Horizonte;NA;NA
+1043;Feminino;51;Itapecerica;NA;NA
+1044;Masculino;76;Belo Horizonte;NA;NA
+1045;Feminino;49;Belo Horizonte;NA;NA
+1046;Feminino;60;Belo Horizonte;NA;NA
+1047;Feminino;46;Contagem;NA;NA
+1048;Masculino;60;Patos de Minas;NA;NA
+1049;Masculino;79;Contagem;NA;NA
+1050;Masculino;50;Belo Horizonte;NA;NA
+1051;Masculino;45;Belo Horizonte;NA;NA
+1052;Feminino;70;Belo Horizonte;SIM;NA
+1053;Feminino;49;Cataguases;SIM;SIM
+1054;Feminino;72;Três Pontas;SIM;SIM
+1055;Masculino;84;Cataguases;SIM;SIM
+1056;Masculino;28;Belo Horizonte;SIM;NA
+1057;Masculino;26;Belo Horizonte;NA;NA
+1058;Masculino;39;Nazareno;SIM;NÃO
+1059;Feminino;34;Espera Feliz;NA;NA
+1060;Masculino;27;Itanhandu;SIM;NÃO
+1061;Feminino;26;Belo Horizonte;NA;NA
+1062;Masculino;45;Belo Horizonte;NA;NA
+1063;Feminino;69;Muriaé;SIM;SIM
+1064;Feminino;40;São Tomás de Aquino;NA;NA
+1065;Masculino;44;Mariana;NÃO;NA
+1067;Masculino;36;Coronel Fabriciano;NÃO;NA
+1068;Masculino;21;Coronel Fabriciano;NÃO;NA
+1069;Masculino;16;Coronel Fabriciano;NÃO;NA
+1070;Masculino;49;Governador Valadares;NÃO;NA
+1071;Masculino;84;Juiz de Fora;SIM;SIM
+1072;Masculino;46;Juiz de Fora;NÃO;NA
+1073;Masculino;39;Juiz de Fora;NÃO;NA
+1074;Masculino;53;Juiz de Fora;NÃO;NA
+1075;Feminino;47;Juiz de Fora;NÃO;NA
+1076;Feminino;28;Juiz de Fora;NÃO;NA
+1077;Masculino;30;Juiz de Fora;NÃO;NA
+1078;Feminino; 6;Juiz de Fora;NÃO;NA
+1079;Masculino;53;Juiz de Fora;NÃO;NA
+1080;Masculino;39;Espera Feliz;NÃO;NA
+1081;Feminino;NA;Manhuaçu;NÃO;NA
+1082;Feminino;45;Montes Claros;NÃO;NA
+1083;Feminino;44;Extrema;SIM;NÃO
+1084;Feminino;37;Extrema;NÃO;NA
+1085;Masculino;44;Poços de Caldas;SIM;SIM
+1086;Feminino; 5;Poços de Caldas;NÃO;NA
+1087;Masculino;10;Poços de Caldas;NÃO;NA
+1088;Feminino;37;Poços de Caldas;NÃO;NA
+1089;Feminino;38;Pouso Alegre;NÃO;NA
+1090;Masculino;49;Varginha;NÃO;NA
+1091;Feminino;65;Paracatu;SIM;NÃO
+1092;Masculino;60;Paracatu;SIM;NÃO
+1093;Feminino;73;Paracatu;NÃO;NÃO
+1094;Masculino;59;Unaí;SIM;NA
+1095;Masculino;75;Paracatu;NÃO;NÃO
+1096;Masculino;40;Uberlândia;SIM;NA
+1097;Masculino;37;Uberlândia;NÃO;NA
+1098;Feminino;74;Uberlândia;SIM;NA
+1099;Masculino;46;Uberlândia;NÃO;NA
+1100;Masculino;27;Araxá;NÃO;NA
+1101;Feminino;37;Belo Horizonte;NA;NA
+1102;Masculino;29;Belo Horizonte;NA;NA
+1103;Feminino;25;Belo Horizonte;NA;NA
+1104;Masculino;17;Belo Horizonte;NA;NA
+1105;Masculino;25;Belo Horizonte;NA;NA
+1106;Feminino;37;Belo Horizonte;NA;NA
+1107;Feminino;27;Belo Horizonte;NA;NA
+1108;Masculino;29;Belo Horizonte;NA;NA
+1109;Masculino;32;Belo Horizonte;NA;NA
+1110;Feminino;44;Belo Horizonte;NA;NA
+1111;Feminino;38;Belo Horizonte;NA;NA
+1112;Feminino;21;Belo Horizonte;NA;NA
+1113;Masculino;40;Belo Horizonte;NA;NA
+1114;Feminino;33;Belo Horizonte;NA;NA
+1115;Feminino;24;Belo Horizonte;NA;NA
+1116;Masculino;42;Belo Horizonte;NA;NA
+1117;Feminino;27;Belo Horizonte;NA;NA
+1118;Masculino;36;Belo Horizonte;NA;NA
+1119;Masculino;31;Belo Horizonte;NA;NA
+1120;Feminino;40;Belo Horizonte;NA;NA
+1121;Feminino;41;Itabira;NÃO;NA
+1122;Feminino;51;Contagem;NA;NA
+1123;Masculino;38;Extrema;NÃO;NÃO
+1124;Masculino;34;Itapecerica;NA;NA
+1125;Masculino;45;Juiz de Fora;SIM;NÃO
+1126;Masculino;51;Juiz de Fora;SIM;NÃO
+1127;Feminino;55;Patos de Minas;NA;NA
+1128;Feminino;35;Patos de Minas;NA;NA
+1129;Masculino;31;Patos de Minas;NA;NA
+1130;Feminino;70;Porto Firme;NA;NA
+1131;Masculino;46;Divinópolis;NA;NA
+1132;Masculino;48;Pouso Alegre;NÃO;NÃO
+1133;Feminino;29;São Sebastião do Paraíso;NA;NA
+1134;Masculino;40;Belo Horizonte;NA;NA
+1135;Masculino;30;Arceburgo;NÃO;NÃO
+1136;Feminino;56;Conselheiro Lafaiete;NÃO;NÃO
+1137;Masculino;26;Conselheiro Lafaiete;NÃO;NÃO
+1138;Masculino;26;Conselheiro Lafaiete;NÃO;NÃO
+1139;Masculino;53;Conselheiro Lafaiete;NÃO;NÃO
+1140;Feminino;21;Conselheiro Lafaiete;NÃO;NÃO
+1141;Feminino;89;Conselheiro Lafaiete;NÃO;NÃO
+1142;Feminino;27;Conselheiro Lafaiete;NÃO;NÃO
+1143;Masculino;58;Conselheiro Lafaiete;NÃO;NÃO
+1144;Feminino;54;Conselheiro Lafaiete;NÃO;NÃO
+1145;Feminino;27;Conselheiro Lafaiete;NÃO;NÃO
+1146;Masculino;39;Três Pontas;NÃO;NÃO
+1147;Feminino;37;Lavras;NÃO;NÃO
+1148;Masculino;69;Sobrália;SIM;SIM
+1149;Masculino;43;Belo Horizonte;NA;NA
+1150;Feminino;38;Belo Horizonte;NA;NA
+1151;Feminino;39;São José da Lapa;NA;NA
+1152;Feminino;36;Lagoa Santa;NA;NA
+1153;Feminino;75;Varzelândia;SIM;NA
+1154;Masculino;55;Espinosa;SIM;SIM
+1155;Feminino;40;Almenara;SIM;NA
+1156;Masculino;60;Itaobim;SIM;NA
+1157;Feminino;45;Sete Lagoas;NÃO;NÃO
+1158;Feminino;35;Sete Lagoas;NÃO;NÃO
+1159;Masculino;37;São Gotardo;SIM;NA
+1160;Feminino;48;Belo Horizonte;SIM;NA
+1161;Feminino;76;Belo Horizonte;SIM;NA
+1162;Masculino;47;Contagem;SIM;NA
+1163;Feminino;46;Belo Horizonte;SIM;NA
+1164;Feminino;75;Carlos Chagas;SIM;NA
+1165;Feminino;23;Belo Horizonte;NA;NA
+1167;Feminino;31;Belo Horizonte;NA;NA
+1168;Feminino;28;Belo Horizonte;NA;NA
+1169;Masculino;49;Ipatinga;NA;NA
+1170;Masculino;39;Governador Valadares;NÃO;NÃO
+1171;Feminino;29;Ipatinga;NA;NA
+1172;Feminino;52;Extrema;NÃO;NÃO
+1173;Feminino;48;Pouso Alegre;NÃO;NÃO
+1174;Feminino;58;Governador Valadares;NÃO;NÃO
+1175;Masculino;54;Extrema;SIM;SIM
+1176;Masculino;14;Uberaba;NA;NA
+1177;Masculino;53;Santana do Paraíso;SIM;SIM
+1178;Masculino;47;Betim;NA;NA
+1179;Feminino;40;São José da Lapa;NA;NA
+1180;Feminino;41;Santa Luzia;NA;NA
+1181;Masculino;37;Sabará;NA;NA
+1182;Feminino;38;Sabará;NA;NA
+1183;Feminino;48;Mariana;NÃO;NÃO
+1184;Feminino;35;Lagoa Santa;NA;NA
+1185;Masculino;82;Belo Horizonte;NA;NA
+1186;Feminino;85;Belo Horizonte;NA;NA
+1187;Feminino;38;Belo Horizonte;NA;NA
+1188;Masculino;60;Belo Horizonte;NA;NA
+1189;Masculino;27;Belo Horizonte;NA;NA
+1190;Masculino;63;Belo Horizonte;NA;NA
+1191;Feminino;64;Belo Horizonte;NA;NA
+1192;Feminino;91;Belo Horizonte;NA;NA
+1193;Feminino;58;Divinópolis;NA;NA
+1194;Masculino;60;Belo Horizonte;NA;NA
+1195;Feminino;34;Belo Horizonte;NA;NA
+1196;Masculino;58;Morro da Garça;SIM;SIM
+1197;Feminino;43;Divinópolis;NA;NA
+1198;Masculino;57;Belo Horizonte;NA;NA
+1199;Masculino;49;Espírito Santo do Dourado;SIM;NÃO
+1200;Feminino;72;Guaxupé;SIM;SIM
+1201;Feminino;24;Itanhandu;NÃO;NA
+1202;Feminino;44;Pouso Alegre;NÃO;NÃO
+1203;Feminino;32;Belo Horizonte;SIM;NA
+1204;Masculino;58;Extrema;SIM;SIM
+1205;Masculino;38;Extrema;NÃO;NÃO
+1206;Masculino;70;Extrema;SIM;SIM
+1207;Masculino;58;João Monlevade;NÃO;NÃO
+1208;Feminino;56;Lavras;NÃO;NÃO
+1209;Feminino;43;Belo Horizonte;NA;NA
+1210;Masculino;69;Maripá de Minas;SIM;NÃO
+1211;Feminino;43;Juiz de Fora;NÃO;NÃO
+1212;Feminino;35;Patos de Minas;NA;NA
+1213;Masculino;50;Contagem;NA;NA
+1214;Masculino;43;Contagem;NA;NA
+1215;Masculino;25;Belo Horizonte;NA;NA
+1216;Feminino;28;Belo Horizonte;NA;NA
+1217;Masculino;32;Belo Horizonte;NA;NA
+1218;Feminino;49;Divinópolis;NA;NA
+1219;Masculino;42;Divinópolis;NA;NA
+1220;Masculino;45;Belo Horizonte;NA;NA
+1221;Masculino;70;Uberaba;SIM;SIM
+1222;Feminino;35;Uberaba;NA;NA
+1223;Masculino;37;Juiz de Fora;NÃO;NÃO
+1224;Masculino;35;Juiz de Fora;NÃO;NÃO
+1225;Masculino;36;Juiz de Fora;SIM;NÃO
+1226;Feminino;39;Formiga;NA;NA
+1227;Feminino;62;Mariana;NÃO;NÃO
+1228;Feminino;30;Muriaé;NÃO;NÃO
+1229;Masculino;73;Belo Horizonte;NA;NA
+1230;Feminino;38;Extrema;SIM;NA
+1231;Feminino;20;Muriaé;NÃO;NÃO
+1232;Masculino;61;Barbacena;SIM;SIM
+1233;Masculino;31;Santana do Paraíso;NÃO;NA
+1234;Feminino;30;Ipatinga;NÃO;NA
+1235;Feminino;72;Santos Dumont;SIM;SIM
+1236;Masculino;75;Santos Dumont;SIM;SIM
+1237;Feminino;37;Ferros;NÃO;NÃO
+1238;Masculino; 7;Mariana;NÃO;NÃO
+1238;Masculino;36;Ferros;SIM;NÃO
+1239;Feminino;25;Belo Horizonte;NA;NA
+1241;Feminino;75;Governador Valadares;SIM;SIM
+1242;Masculino;72;Uberaba;NA;NA
+1243;Feminino;48;Belo Horizonte;NA;NA
+1244;Masculino;75;São Francisco;SIM;NÃO
+1245;Feminino;55;Juiz de Fora;SIM;NA
+1246;Feminino;54;Juiz de Fora;NÃO;NÃO
+1247;Masculino;48;Juiz de Fora;NÃO;NÃO
+1248;Masculino;52;Patos de Minas;NA;NA
+1249;Feminino;38;Uberlândia;SIM;NA
+1250;Masculino;70;Contagem;SIM;NA
+1251;Feminino;64;Contagem;SIM;NA
+1252;Masculino;95;Belo Vale;SIM;NA
+1253;Feminino;64;Contagem;NA;NA
+1254;Feminino;85;Contagem;NA;NA
+1255;Feminino;31;Itapecerica;NA;NA
+1256;Feminino;38;Nova Lima;NA;NA
+1257;Feminino;21;Itapecerica;NA;NA
+1258;Masculino;87;Belo Horizonte;NA;NA
+1259;Feminino;43;Contagem;NA;NA
+1260;Feminino;32;Belo Horizonte;NA;NA
+1261;Feminino;47;Belo Horizonte;NA;NA
+1262;Feminino;57;Belo Horizonte;NA;NA
+1263;Masculino;40;Belo Horizonte;NA;NA
+1264;Feminino;54;Belo Horizonte;NA;NA
+1265;Masculino;31;Belo Horizonte;NA;NA
+1266;Masculino;25;Belo Horizonte;NA;NA
+1267;Feminino;46;Belo Horizonte;NA;NA
+1268;Feminino;45;Belo Horizonte;NA;NA
+1270;Masculino;22;Belo Horizonte;NA;NA
+1271;Masculino;22;Belo Horizonte;NA;NA
+1272;Feminino;23;Belo Horizonte;NA;NA
+1273;Feminino;34;Jaboticatubas;NA;NA
+1274;Masculino;54;São Geraldo da Piedade;SIM;NA
+1275;Feminino;86;Belo Horizonte;SIM;NA
+1276;Masculino;73;Belo Horizonte;SIM;NA
+1277;Feminino;61;Mariana;NÃO;NÃO
+1278;Feminino;52;Mariana;NÃO;NÃO
+1279;Feminino;46;Toledo;NÃO;NÃO
+1280;Masculino;55;Extrema;NÃO;NÃO
+1281;Feminino;34;São Brás do Suaçuí;NÃO;NÃO
+1282;Masculino;71;Conselheiro Lafaiete;NÃO;NÃO
+1283;Masculino;59;Boa Esperança;NÃO;NÃO
+1284;Masculino;44;Governador Valadares;NÃO;NÃO
+1285;Masculino;26;OUTROS;NA;NA
+1286;Feminino;13;Nova Lima;NA;NA
+1287;Masculino;35;Nova Lima;NA;NA
+1288;Feminino;61;Nova Lima;NA;NA
+1289;Feminino;39;Nova Lima;NA;NA
+1290;Feminino;63;São João del Rei;SIM;NÃO
+1291;Feminino;37;Teófilo Otoni;NÃO;NÃO
+1292;Feminino;53;Santa Luzia;NA;NA
+1293;Feminino;26;Belo Horizonte;NA;NA
+1294;Masculino;27;Espera Feliz;NA;NA
+1295;Feminino;59;Belo Horizonte;SIM;NA
+1296;Feminino;42;Belo Horizonte;NA;NA
+1297;Masculino;39;João Monlevade;SIM;NÃO
+1298;Masculino;34;Belo Horizonte;NA;NA
+1299;Masculino;39;Uberlândia;NA;NA
+1300;Masculino;56;Belo Horizonte;NA;NA
+1301;Masculino;55;Uberlândia;NA;NA
+1302;Masculino;60;Belo Horizonte;NA;NA
+1303;Masculino;51;Ituiutaba;NA;NA
+1304;Feminino;36;João Monlevade;SIM;NÃO
+1305;Masculino;32;Uberlândia;NA;NA
+1306;Feminino;37;Uberaba;NA;NA
+1307;Feminino;53;Santa Luzia;NA;NA
+1308;Feminino;28;Lagoa da Prata;NA;NA
+1309;Feminino;54;Uberaba;NA;NA
+1310;Masculino;78;Uberaba;NA;NA
+1311;Feminino;49;Três Marias;SIM;NÃO
+1312;Masculino;46;Uberlândia;NA;NA
+1313;Masculino;52;Brasília de Minas;NA;NA
+1314;Masculino;41;Brasília de Minas;NA;NA
+1315;Masculino;85;Belo Horizonte;NA;NA
+1316;Feminino;46;Belo Horizonte;NA;NA
+1317;Feminino;48;Ipatinga;NÃO;NÃO
+1318;Feminino;24;Espera Feliz;NÃO;NÃO
+1319;Feminino;11;Itajubá;NÃO;NÃO
+1320;Feminino;35;Itajubá;NÃO;NÃO
+1321;Masculino;52;Itajubá;NÃO;NÃO
+1322;Masculino;48;OUTROS;NÃO;NÃO
+1323;Masculino;41;Poços de Caldas;NÃO;NÃO
+1324;Masculino;35;Poços de Caldas;NÃO;NÃO
+1325;Masculino;49;Cambuquira;SIM;SIM
+1326;Masculino;42;Boa Esperança;NÃO;NÃO
+1327;Feminino;38;Nova Lima;NA;NA
+1328;Feminino;37;Belo Horizonte;NA;NA
+1329;Feminino;52;Belo Horizonte;NA;NA
+1330;Masculino;39;Belo Horizonte;NA;NA
+1331;Masculino;54;Belo Horizonte;NA;NA
+1332;Feminino;29;Belo Horizonte;NA;NA
+1333;Feminino;27;Belo Horizonte;NA;NA
+1334;Masculino;20;Belo Horizonte;NA;NA
+1335;Masculino;39;Belo Horizonte;NA;NA
+1336;Masculino;29;Belo Horizonte;NA;NA
+1337;Masculino;27;Contagem;NA;NA
+1338;Feminino;29;Contagem;NA;NA
+1339;Feminino;82;Tupaciguara;NA;NA
+1340;Masculino;12;Tupaciguara;NA;NA
+1341;Feminino;57;Tupaciguara;NA;NA
+1342;Feminino;41;Paracatu;NÃO;NÃO
+1343;Masculino;66;OUTROS;SIM;NÃO
+1344;Masculino;43;Ribeirão das Neves;NA;NA
+1345;Feminino;42;Nova Lima;NA;NA
+1346;Feminino;43;Extrema;NA;NA
+1347;Feminino;62;Belo Horizonte;NA;NA
+1348;Masculino;25;Pouso Alegre;NÃO;NÃO
+1349;Feminino;42;Belo Horizonte;NA;NA
+1350;Feminino;85;Nova Lima;NA;NA
+1351;Masculino;60;Nova Lima;NA;NA
+1352;Masculino;66;Belo Horizonte;NA;NA
+1353;Feminino;38;Belo Horizonte;NA;NA
+1354;Feminino;43;Santa Luzia;NA;NA
+1355;Masculino;48;Betim;NA;NA
+1356;Masculino;30;Belo Horizonte;NA;NA
+1357;Feminino;80;Belo Horizonte;NA;NA
+1358;Masculino;59;Belo Horizonte;NA;NA
+1359;Masculino;35;Belo Horizonte;NA;NA
+1360;Feminino;44;Belo Horizonte;NA;NA
+1361;Masculino;19;Belo Horizonte;NA;NA
+1362;Feminino;43;Belo Horizonte;NA;NA
+1363;Masculino;66;Belo Horizonte;NA;NA
+1364;Masculino;53;Betim;NA;NA
+1365;Masculino;46;Belo Horizonte;NA;NA
+1366;Masculino;41;Juiz de Fora;SIM;NA
+1367;Feminino;40;Belo Horizonte;NA;NA
+1368;Feminino;30;Caeté;NA;NA
+1369;Feminino;91;Juiz de Fora;NA;NA
+1370;Feminino;53;Governador Valadares;SIM;SIM
+1371;Masculino;38;Belo Horizonte;NA;NA
+1372;Masculino;50;Belo Horizonte;NA;NA
+1373;Masculino;45;Patrocínio;NA;NA
+1374;Feminino;29;Uberlândia;NA;NA
+1375;Masculino;53;Coromandel;NA;NA
+1376;Feminino;33;Patrocínio;NA;NA
+1377;Feminino;42;Uberlândia;NA;NA
+1378;Feminino;73;Coromandel;NA;NA
+1379;Masculino;40;Uberlândia;NA;NA
+1380;Feminino;53;Uberlândia;NA;NA
+1381;Feminino;30;Patrocínio;NA;NA
+1382;Masculino;21;Uberlândia;NA;NA
+1383;Feminino;21;Patrocínio;NA;NA
+1384;Masculino;NA;Patrocínio;NA;NA
+1385;Feminino;38;Patrocínio;NA;NA
+1386;Masculino;55;Uberlândia;NA;NA
+1387;Feminino;24;Uberlândia;NA;NA
+1388;Feminino;50;Uberlândia;NA;NA
+1389;Feminino;77;Patrocínio;NA;NA
+1390;Feminino;46;Patrocínio;NA;NA
+1391;Feminino;36;Uberlândia;NA;NA
+1392;Masculino;41;Uberlândia;NA;NA
+1393;Feminino;36;Uberlândia;NA;NA
+1394;Masculino;14;Patrocínio;NA;NA
+1395;Masculino;47;Uberlândia;NA;NA
+1396;Feminino;77;Patrocínio;NA;NA
+1397;Feminino;74;Juiz de Fora;SIM;NA
+1398;Masculino;47;Belo Horizonte;SIM;NA
+1399;Masculino;83;Belo Horizonte;SIM;NA
+1400;Masculino;60;Mariana;NÃO;NÃO
+1401;Feminino;63;Mariana;NA;NA
+1402;Masculino;40;Divinópolis;NA;NA
+1403;Masculino;46;Divinópolis;NA;NA
+1404;Masculino;69;Divinópolis;NA;NA
+1405;Masculino;40;Divinópolis;NA;NA
+1406;Feminino;36;Divinópolis;NA;NA
+1407;Feminino;64;Divinópolis;NA;NA
+1408;Masculino;56;Divinópolis;NA;NA
+1409;Feminino;50;Coromandel;NA;NA
+1410;Feminino;31;Divinópolis;NA;NA
+1411;Feminino;42;Uberlândia;NA;NA
+1412;Masculino; 5;Divinópolis;NÃO;NÃO
+1413;Masculino;59;Divinópolis;NA;NA
+1414;Masculino;84;Além Paraíba;NA;NA
+1415;Masculino;81;Belo Horizonte;NA;NA
+1416;Feminino;21;Ipatinga;NÃO;NÃO
+1417;Feminino;29;Belo Oriente;NÃO;NÃO
+1418;Masculino;39;Itabira;NÃO;NÃO
+1419;Masculino;28;Senhora do Porto;NÃO;NÃO
+1420;Masculino;39;Itabira;NÃO;NÃO
+1421;Feminino;57;Espera Feliz;SIM;SIM
+1422;Masculino;68;Montes Claros;NÃO;NÃO
+1423;Masculino;53;Estiva;NÃO;NÃO
+1424;Feminino;42;Itajubá;NÃO;NÃO
+1425;Feminino;23;Itajubá;NÃO;NÃO
+1426;Masculino;30;Ouro Fino;NÃO;NÃO
+1427;Feminino;29;Poços de Caldas;NÃO;NÃO
+1428;Masculino;24;Poços de Caldas;NÃO;NÃO
+1429;Feminino;39;Poços de Caldas;NÃO;NÃO
+1430;Feminino;30;Uberaba;NÃO;NÃO
+1431;Feminino;60;Uberaba;SIM;SIM
+1432;Feminino;34;Uberaba;NÃO;NÃO
+1433;Masculino;49;Uberaba;SIM;SIM
+1434;Masculino;73;Uberlândia;NA;NA
+1435;Feminino;15;Uberlândia;NA;NA
+1436;Feminino;69;Uberlândia;NA;NA
+1437;Masculino;62;Uberlândia;NA;NA
+1438;Masculino;27;OUTROS;NA;NA

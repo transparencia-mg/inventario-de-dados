@@ -8,17 +8,17 @@ cols_spec <- c(
   "Data do óbito",
   "Comorbidade")
 
-RNG <- "A2:F93"
-INPUT <- "obitos-covid19/data-raw/OBITOS_CONF_COVID_04.05.2020.xlsx"
-URL <- "http://www.transparencia.dadosabertos.mg.gov.br/dataset/d869e025-9a83-4c64-8d3a-20238786279a/resource/61efcf59-d87a-42c0-97ad-b21eeac797f3/download/obitosconfcovid19mg20200503.csv"
-N <- 89 # número de casos do dia anterior 
-OUTPUT <- "obitos-covid19/data/obitosconfcovid19mg20200504.csv"
+RNG <- "A3:F97"
+INPUT <- "obitos-covid19/data-raw/OBITOS_CONF_COVID-19_MG_05.05.2020.xlsx"
+URL <- "http://www.transparencia.dadosabertos.mg.gov.br/dataset/d869e025-9a83-4c64-8d3a-20238786279a/resource/34e89aaa-6780-4d0f-a5e0-f759acab89a0/download/obitosconfcovid19mg20200504.csv"
+N <- 90 # número de casos do dia anterior 
+OUTPUT <- "obitos-covid19/data/obitosconfcovid19mg20200505.csv"
 
 dt_raw <- read_excel(INPUT, range = RNG)
 
 infer_spec <- lapply(dt_raw, class)
 
-stopifnot(all(names(infer_spec) == toupper(cols_spec)))
+stopifnot(all(names(infer_spec) == cols_spec))
 
 dt <- dt_raw %>% 
       set_names(cols_spec) %>% 

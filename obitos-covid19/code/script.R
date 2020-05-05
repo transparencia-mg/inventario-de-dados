@@ -8,11 +8,11 @@ cols_spec <- c(
   "Data do óbito",
   "Comorbidade")
 
-RNG <- "A3:F85"
-INPUT <- "obitos-covid19/data-raw/OBITOS_CONF_COVID-19_MG_30.04.2020.xlsx"
-URL <- "http://www.transparencia.dadosabertos.mg.gov.br/dataset/d869e025-9a83-4c64-8d3a-20238786279a/resource/ff2e9e92-1832-4380-b78b-6d372ed9d9bb/download/obitosconfcovid19mg20200429.csv.csv"
-N <- 80 # número de casos do dia anterior 
-OUTPUT <- "obitos-covid19/data/obitosconfcovid19mg20200430.csv"
+RNG <- "A3:F97"
+INPUT <- "obitos-covid19/data-raw/OBITOS_CONF_COVID-19_MG_05.05.2020.xlsx"
+URL <- "http://www.transparencia.dadosabertos.mg.gov.br/dataset/d869e025-9a83-4c64-8d3a-20238786279a/resource/34e89aaa-6780-4d0f-a5e0-f759acab89a0/download/obitosconfcovid19mg20200504.csv"
+N <- 90 # número de casos do dia anterior 
+OUTPUT <- "obitos-covid19/data/obitosconfcovid19mg20200505.csv"
 
 dt_raw <- read_excel(INPUT, range = RNG)
 
@@ -21,6 +21,7 @@ infer_spec <- lapply(dt_raw, class)
 stopifnot(all(names(infer_spec) == cols_spec))
 
 dt <- dt_raw %>% 
+      set_names(cols_spec) %>% 
       mutate(`Data do óbito` = as.numeric(format(`Data do óbito`, "%Y%m%d")))
 
 previous <- read_csv2(URL, 

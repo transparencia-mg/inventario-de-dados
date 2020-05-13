@@ -1,0 +1,8 @@
+Ordem;Campo;Tipo;Conceituação
+1;PACIENTE;Número;Cada paciente é identificado com um único número para preservação de sua identidade
+2;SEXO;Texto;Masculino ou Feminino
+3;IDADE;Número;Idade do paciente na data do óbito
+4;MUNICIPIO_RESIDENCIA;Texto;Município do Estado de Minas Gerais onde residia o paciente que veio a óbito
+5;DATA_OBITO;Data;Data do óbito, no formato YYYY-MM-DD.
+6;COMORBIDADE ;Texto;Presença de doenças preexistentes/ comorbidades (diabetes, hipertensão, etc.)
+7;DATA_ATUALIZACAO;Data;Data do upload do arquivo, no formato YYYY-MM-DD.

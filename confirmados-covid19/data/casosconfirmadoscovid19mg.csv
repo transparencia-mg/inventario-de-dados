@@ -1,0 +1,3321 @@
+﻿ID;SEXO;IDADE;MUNICIPIO_RESIDENCIA;INTERNACAO;INTERNACAO_UTI;DATA_ATUALIZACAO
+   1;Feminino;38;Ipatinga;NÃO;NÃO;2020-05-11
+   2;Feminino;47;Divinópolis;NÃO;NÃO;2020-05-11
+   3;Masculino;65;Juiz de Fora;SIM;SIM;2020-05-11
+   4;Feminino;37;Patrocínio;NÃO;NÃO;2020-05-11
+   5;Masculino;45;Belo Horizonte;NÃO;NÃO;2020-05-11
+   6;Masculino;30;Juiz de Fora;NÃO;NÃO;2020-05-11
+   7;Feminino;32;Coronel Fabriciano;NÃO;NÃO;2020-05-11
+   8;Feminino;34;Belo Horizonte;NÃO;NÃO;2020-05-11
+   9;Masculino;48;Nova Lima;NÃO;NÃO;2020-05-11
+  10;Masculino;34;Belo Horizonte;NÃO;NÃO;2020-05-11
+  11;Masculino;33;Belo Horizonte;NA;NA;2020-05-11
+  12;Feminino;44;Sete Lagoas;NÃO;NÃO;2020-05-11
+  13;Masculino;39;Uberlândia;NÃO;NÃO;2020-05-11
+  14;Masculino;71;Nova Lima;NÃO;NÃO;2020-05-11
+  15;Masculino;26;Nova Lima;NÃO;NÃO;2020-05-11
+  16;Masculino;24;Belo Horizonte;NÃO;NÃO;2020-05-11
+  17;Masculino;38;Belo Horizonte;NÃO;NÃO;2020-05-11
+  17;Masculino;59;Uberaba;NÃO;NÃO;2020-05-11
+  18;Masculino;51;Belo Horizonte;NÃO;NÃO;2020-05-11
+  19;Masculino;28;Belo Horizonte;NÃO;NÃO;2020-05-11
+  20;Masculino;35;Belo Horizonte;NÃO;NÃO;2020-05-11
+  21;Masculino;32;Nova Lima;NÃO;NÃO;2020-05-11
+  22;Feminino;71;Belo Horizonte;SIM;SIM;2020-05-11
+  23;Masculino;40;Nova Lima;SIM;NÃO;2020-05-11
+  24;Masculino;69;Belo Horizonte;SIM;SIM;2020-05-11
+  25;Masculino;52;Belo Horizonte;NÃO;NÃO;2020-05-11
+  26;Masculino;35;Belo Horizonte;SIM;SIM;2020-05-11
+  27;Feminino;20;Belo Horizonte;NÃO;NÃO;2020-05-11
+  28;Masculino;42;Belo Horizonte;NÃO;NÃO;2020-05-11
+  29;Feminino;37;Juiz de Fora;NÃO;NÃO;2020-05-11
+  30;Masculino;40;Nova Lima;NÃO;NÃO;2020-05-11
+  31;Masculino;45;Belo Horizonte;NÃO;NÃO;2020-05-11
+  32;Feminino;23;Uberaba;NÃO;NÃO;2020-05-11
+  33;Feminino;33;Belo Horizonte;NÃO;NÃO;2020-05-11
+  34;Feminino;40;Mariana;NÃO;NÃO;2020-05-11
+  35;Masculino;56;Belo Horizonte;NÃO;NÃO;2020-05-11
+  36;Masculino;29;Juiz de Fora;NÃO;NÃO;2020-05-11
+  37;Masculino;44;Juiz de Fora;SIM;NÃO;2020-05-11
+  38;Masculino;22;Belo Horizonte;NA;NA;2020-05-11
+  39;Feminino;34;Poços de Caldas;NÃO;NÃO;2020-05-11
+  40;Feminino;63;Nova Lima;NÃO;NÃO;2020-05-11
+  41;Masculino;41;Belo Horizonte;NÃO;NÃO;2020-05-11
+  42;Masculino;33;Belo Horizonte;NÃO;NÃO;2020-05-11
+  43;Feminino;20;Belo Horizonte;NÃO;NÃO;2020-05-11
+  44;Masculino;59;Contagem;SIM;SIM;2020-05-11
+  45;Masculino;28;Uberaba;NÃO;NÃO;2020-05-11
+  46;Feminino;64;Nova Lima;NÃO;NÃO;2020-05-11
+  47;Masculino; 0;Belo Horizonte;NÃO;NÃO;2020-05-11
+  48;Masculino;31;Belo Horizonte;NA;NA;2020-05-11
+  49;Feminino;43;Belo Horizonte;NÃO;NÃO;2020-05-11
+  50;Masculino;41;Belo Horizonte;NA;NA;2020-05-11
+  51;Masculino;29;Belo Horizonte;NA;NA;2020-05-11
+  52;Masculino;21;Belo Horizonte;NA;NA;2020-05-11
+  53;Feminino;31;Belo Horizonte;NA;NA;2020-05-11
+  54;Masculino;38;Juiz de Fora;NÃO;NÃO;2020-05-11
+  55;Masculino;35;Betim;SIM;NA;2020-05-11
+  56;Masculino;41;Belo Horizonte;NA;NA;2020-05-11
+  57;Feminino;28;Belo Horizonte;NÃO;NÃO;2020-05-11
+  58;Feminino;47;Belo Horizonte;NA;NA;2020-05-11
+  59;Masculino;28;Belo Horizonte;NÃO;NÃO;2020-05-11
+  60;Masculino;41;Belo Horizonte;NÃO;NÃO;2020-05-11
+  61;Feminino;24;Belo Horizonte;NA;NA;2020-05-11
+  62;Masculino;44;Uberlândia;SIM;NÃO;2020-05-11
+  63;Feminino;40;Nova Lima;NÃO;NÃO;2020-05-11
+  64;Masculino;39;Uberaba;NÃO;NÃO;2020-05-11
+  65;Masculino;49;Belo Horizonte;NÃO;NÃO;2020-05-11
+  66;Feminino;34;Belo Horizonte;NÃO;NÃO;2020-05-11
+  67;Masculino;37;Belo Horizonte;NÃO;NÃO;2020-05-11
+  68;Feminino;33;Timóteo;NÃO;NÃO;2020-05-11
+  69;Masculino;35;Juiz de Fora;NÃO;NÃO;2020-05-11
+  70;Masculino;25;Belo Horizonte;NA;NA;2020-05-11
+  71;Feminino;39;Belo Horizonte;NÃO;NÃO;2020-05-11
+  72;Feminino;35;Belo Horizonte;NA;NA;2020-05-11
+  73;Feminino;62;Uberlândia;SIM;SIM;2020-05-11
+  74;Masculino;67;Belo Horizonte;NÃO;NÃO;2020-05-11
+  75;Masculino;33;Belo Horizonte;NÃO;NÃO;2020-05-11
+  76;Feminino;64;Belo Horizonte;NÃO;NÃO;2020-05-11
+  77;Masculino;38;Belo Horizonte;NA;NA;2020-05-11
+  78;Masculino;41;Belo Horizonte;NÃO;NÃO;2020-05-11
+  79;Masculino;38;Belo Horizonte;NA;NA;2020-05-11
+  80;Masculino;31;Belo Horizonte;NÃO;NÃO;2020-05-11
+  81;Feminino;39;Belo Horizonte;NA;NA;2020-05-11
+  82;Masculino;37;Belo Horizonte;NÃO;NÃO;2020-05-11
+  83;Masculino;37;Lagoa da Prata;NÃO;NÃO;2020-05-11
+  84;Feminino;36;Belo Horizonte;NA;NA;2020-05-11
+  85;Masculino;40;Belo Horizonte;NA;NA;2020-05-11
+  86;Masculino;30;Belo Horizonte;NA;NA;2020-05-11
+  87;Feminino;26;Betim;NÃO;NÃO;2020-05-11
+  88;Feminino;60;Belo Horizonte;NA;NA;2020-05-11
+  89;Masculino;38;Belo Horizonte;NA;NA;2020-05-11
+  90;Feminino;20;Uberlândia;NÃO;NÃO;2020-05-11
+  91;Feminino;30;Belo Horizonte;NÃO;NÃO;2020-05-11
+  92;Feminino;25;Belo Horizonte;NA;NA;2020-05-11
+  93;Masculino;61;Belo Horizonte;NA;NA;2020-05-11
+  94;Masculino;67;Belo Horizonte;NÃO;NÃO;2020-05-11
+  95;Feminino;35;Belo Horizonte;NA;NA;2020-05-11
+  96;Feminino;35;Contagem;NÃO;NÃO;2020-05-11
+  97;Masculino;53;Belo Horizonte;NÃO;NÃO;2020-05-11
+  98;Masculino;39;Nova Lima;NÃO;NÃO;2020-05-11
+  99;Masculino;78;Belo Horizonte;NA;NA;2020-05-11
+ 100;Masculino;53;Juiz de Fora;NÃO;NÃO;2020-05-11
+ 101;Masculino;33;Nova Lima;NÃO;NÃO;2020-05-11
+ 102;Feminino;30;Belo Horizonte;NÃO;NÃO;2020-05-11
+ 103;Masculino;37;Belo Horizonte;NÃO;NÃO;2020-05-11
+ 104;Masculino;46;Belo Horizonte;NA;NA;2020-05-11
+ 105;Masculino;48;Belo Horizonte;NA;NA;2020-05-11
+ 106;Masculino;52;Belo Horizonte;NÃO;NÃO;2020-05-11
+ 107;Masculino;22;Belo Horizonte;NA;NA;2020-05-11
+ 108;Masculino;34;Belo Horizonte;NA;NA;2020-05-11
+ 109;Feminino;55;Campos Altos;NÃO;NÃO;2020-05-11
+ 110;Masculino;64;Belo Horizonte;SIM;SIM;2020-05-11
+ 111;Feminino;47;Belo Horizonte;NÃO;NÃO;2020-05-11
+ 112;Masculino;76;Belo Horizonte;NA;NA;2020-05-11
+ 113;Feminino;20;Mariana;NÃO;NÃO;2020-05-11
+ 114;Feminino;70;Belo Horizonte;NÃO;NÃO;2020-05-11
+ 115;Masculino;65;Belo Horizonte;SIM;SIM;2020-05-11
+ 116;Masculino;61;Sete Lagoas;NÃO;NÃO;2020-05-11
+ 117;Masculino;41;Timóteo;NÃO;NÃO;2020-05-11
+ 118;Feminino;56;Bom Despacho;NÃO;NÃO;2020-05-11
+ 119;Feminino;37;Belo Horizonte;NÃO;NÃO;2020-05-11
+ 120;Feminino;70;Belo Horizonte;NA;NA;2020-05-11
+ 121;Feminino;56;Uberlândia;NÃO;NÃO;2020-05-11
+ 122;Masculino;37;Contagem;NÃO;NÃO;2020-05-11
+ 123;Masculino;40;Uberlândia;NÃO;NÃO;2020-05-11
+ 124;Feminino;41;Belo Horizonte;NA;NA;2020-05-11
+ 125;Feminino;30;Belo Horizonte;NÃO;NÃO;2020-05-11
+ 126;Feminino;59;Belo Horizonte;NA;NA;2020-05-11
+ 127;Feminino;30;Pará de Minas;NÃO;NÃO;2020-05-11
+ 128;Masculino;55;Belo Horizonte;NA;NA;2020-05-11
+ 129;Masculino;59;Belo Horizonte;SIM;SIM;2020-05-11
+ 130;Masculino;27;Belo Horizonte;NA;NA;2020-05-11
+ 131;Feminino;33;Belo Horizonte;NA;NA;2020-05-11
+ 132;Feminino;51;Nova Lima;NÃO;NÃO;2020-05-11
+ 133;Feminino;22;Uberlândia;NÃO;NÃO;2020-05-11
+ 134;Masculino;33;Divinópolis;NÃO;NÃO;2020-05-11
+ 135;Masculino;41;Nova Lima;NÃO;NÃO;2020-05-11
+ 136;Masculino;54;Belo Horizonte;NA;NA;2020-05-11
+ 137;Masculino;71;Belo Horizonte;NA;NA;2020-05-11
+ 138;Masculino;30;Belo Horizonte;NA;NA;2020-05-11
+ 139;Feminino;40;Belo Horizonte;NA;NA;2020-05-11
+ 140;Masculino;28;Belo Horizonte;NA;NA;2020-05-11
+ 141;Feminino;37;Lagoa da Prata;NÃO;NÃO;2020-05-11
+ 142;Feminino;66;Governador Valadares;SIM;NÃO;2020-05-11
+ 143;Feminino;37;Juiz de Fora;SIM;NÃO;2020-05-11
+ 144;Masculino;38;Belo Horizonte;NA;NA;2020-05-11
+ 145;Feminino;69;Belo Horizonte;NA;NA;2020-05-11
+ 146;Masculino;44;Belo Horizonte;NÃO;NÃO;2020-05-11
+ 147;Feminino;46;São João Del Rei;NÃO;NÃO;2020-05-11
+ 148;Feminino;60;Boa Esperança;SIM;SIM;2020-05-11
+ 149;Masculino;27;Betim;NÃO;NÃO;2020-05-11
+ 150;Feminino;31;Belo Horizonte;NA;NA;2020-05-11
+ 151;Feminino;33;Belo Horizonte;NA;NA;2020-05-11
+ 152;Masculino;29;Belo Horizonte;NA;NA;2020-05-11
+ 153;Masculino;38;Belo Horizonte;NA;NA;2020-05-11
+ 154;Feminino;41;Belo Horizonte;NA;NA;2020-05-11
+ 155;Feminino;46;Belo Horizonte;NA;NA;2020-05-11
+ 156;Masculino; 7;Belo Horizonte;NÃO;NÃO;2020-05-11
+ 157;Masculino;13;Belo Horizonte;NÃO;NÃO;2020-05-11
+ 158;Feminino;36;Belo Horizonte;NÃO;NÃO;2020-05-11
+ 159;Feminino;51;Guimarânia;NÃO;NÃO;2020-05-11
+ 160;Masculino;29;Betim;NA;NA;2020-05-11
+ 161;Masculino;35;Sabará;NÃO;NÃO;2020-05-11
+ 162;Feminino;48;Belo Horizonte;NA;NA;2020-05-11
+ 163;Masculino;56;Belo Horizonte;SIM;NÃO;2020-05-11
+ 164;Feminino;31;Nova Lima;NÃO;NÃO;2020-05-11
+ 165;Masculino;41;Belo Horizonte;NA;NA;2020-05-11
+ 166;Feminino;60;Contagem;SIM;SIM;2020-05-11
+ 167;Masculino;55;Belo Horizonte;NÃO;NÃO;2020-05-11
+ 168;Feminino;27;Belo Horizonte;NA;NA;2020-05-11
+ 169;Feminino;48;Campo Belo;NÃO;NÃO;2020-05-11
+ 170;Masculino;59;Contagem;NA;NA;2020-05-11
+ 171;Masculino;40;Belo Horizonte;NA;NA;2020-05-11
+ 172;Feminino;40;Divinópolis;NÃO;NÃO;2020-05-11
+ 173;Feminino;34;Divinópolis;NÃO;NÃO;2020-05-11
+ 174;Masculino;36;Divinópolis;NÃO;NÃO;2020-05-11
+ 175;Feminino;48;Belo Horizonte;SIM;NÃO;2020-05-11
+ 176;Masculino;37;Carmo do Cajuru;NÃO;NÃO;2020-05-11
+ 177;Masculino;39;Belo Horizonte;SIM;NÃO;2020-05-11
+ 178;Feminino;66;Belo Horizonte;SIM;NÃO;2020-05-11
+ 179;Feminino;82;Belo Horizonte;SIM;SIM;2020-05-11
+ 180;Masculino;35;Nova Lima;NÃO;NÃO;2020-05-11
+ 181;Masculino;36;Belo Horizonte;NA;NA;2020-05-11
+ 182;Masculino;62;Nova Lima;NÃO;NÃO;2020-05-11
+ 183;Feminino;52;Belo Horizonte;NA;NA;2020-05-11
+ 184;Masculino;53;Belo Horizonte;SIM;NA;2020-05-11
+ 185;Masculino;40;Juiz de Fora;NÃO;NÃO;2020-05-11
+ 186;Feminino;32;Juiz de Fora;NÃO;NÃO;2020-05-11
+ 187;Masculino;40;Santa Luzia;SIM;NÃO;2020-05-11
+ 188;Masculino;37;Juiz de Fora;NÃO;NÃO;2020-05-11
+ 189;Masculino;39;Belo Horizonte;NÃO;NÃO;2020-05-11
+ 190;Masculino;29;Belo Horizonte;NA;NA;2020-05-11
+ 191;Masculino;41;Belo Horizonte;NÃO;NÃO;2020-05-11
+ 192;Masculino;27;Belo Horizonte;NA;NA;2020-05-11
+ 193;Feminino;26;Sabará;SIM;NA;2020-05-11
+ 194;Feminino;48;Belo Horizonte;NA;NA;2020-05-11
+ 195;Masculino;74;Belo Horizonte;NÃO;NÃO;2020-05-11
+ 196;Masculino;55;Contagem;SIM;SIM;2020-05-11
+ 197;Masculino;67;São João Del Rei;SIM;NÃO;2020-05-11
+ 198;Masculino;36;Nova Lima;NÃO;NÃO;2020-05-11
+ 199;Masculino;23;Belo Horizonte;NA;NA;2020-05-11
+ 200;Masculino;49;Belo Horizonte;NA;NA;2020-05-11
+ 201;Masculino;43;Belo Horizonte;NA;NA;2020-05-11
+ 202;Masculino;52;Nova Lima;SIM;NÃO;2020-05-11
+ 203;Masculino;36;Sabará;SIM;SIM;2020-05-11
+ 204;Masculino;55;Belo Horizonte;NÃO;NÃO;2020-05-11
+ 205;Feminino;28;Governador Valadares;NÃO;NÃO;2020-05-11
+ 206;Masculino;30;Belo Horizonte;NA;NA;2020-05-11
+ 207;Masculino;39;Belo Horizonte;SIM;NA;2020-05-11
+ 208;Masculino;55;Extrema;SIM;NÃO;2020-05-11
+ 209;Masculino;44;Divinópolis;NÃO;NÃO;2020-05-11
+ 210;Feminino;46;Belo Horizonte;NA;NA;2020-05-11
+ 211;Masculino;34;Belo Horizonte;NA;NA;2020-05-11
+ 212;Masculino;26;Belo Horizonte;SIM;NA;2020-05-11
+ 213;Masculino;82;Belo Horizonte;NÃO;NÃO;2020-05-11
+ 214;Feminino;39;Belo Horizonte;SIM;SIM;2020-05-11
+ 215;Masculino;13;Nova Lima;NÃO;NÃO;2020-05-11
+ 216;Masculino;72;Belo Horizonte;SIM;NÃO;2020-05-11
+ 217;Feminino;38;Belo Horizonte;NA;NA;2020-05-11
+ 218;Masculino;66;Arcos;SIM;SIM;2020-05-11
+ 219;Masculino;43;Belo Horizonte;NA;NA;2020-05-11
+ 220;Feminino;40;Belo Horizonte;NA;NA;2020-05-11
+ 221;Masculino;61;Belo Horizonte;NA;NA;2020-05-11
+ 222;Masculino;43;Betim;NA;NA;2020-05-11
+ 223;Masculino;30;Belo Horizonte;NA;NA;2020-05-11
+ 224;Masculino;58;Belo Horizonte;NA;NA;2020-05-11
+ 225;Masculino;44;Nova Lima;NÃO;NÃO;2020-05-11
+ 226;Masculino;40;Belo Horizonte;NA;NA;2020-05-11
+ 227;Feminino;35;Belo Horizonte;NA;NA;2020-05-11
+ 228;Feminino;50;Muriaé;NÃO;NÃO;2020-05-11
+ 229;Masculino;75;Poços de Caldas;SIM;SIM;2020-05-11
+ 230;Feminino;20;Serra do Salitre;NÃO;NÃO;2020-05-11
+ 231;Masculino;53;Contagem;NA;NA;2020-05-11
+ 232;Feminino;63;Belo Horizonte;NA;NA;2020-05-11
+ 233;Masculino;39;Belo Horizonte;NA;NA;2020-05-11
+ 234;Masculino;43;Belo Horizonte;NA;NA;2020-05-11
+ 235;Masculino;20;Belo Horizonte;NA;NA;2020-05-11
+ 236;Masculino;34;Belo Horizonte;NA;NA;2020-05-11
+ 237;Masculino;36;Belo Horizonte;NÃO;NÃO;2020-05-11
+ 238;Feminino;70;Belo Horizonte;SIM;SIM;2020-05-11
+ 239;Masculino;83;Belo Horizonte;NA;NA;2020-05-11
+ 240;Feminino;53;Belo Horizonte;NA;NA;2020-05-11
+ 241;Feminino;17;Belo Horizonte;NA;NA;2020-05-11
+ 242;Feminino;46;Belo Horizonte;NA;NA;2020-05-11
+ 243;Masculino;62;Belo Horizonte;NA;NA;2020-05-11
+ 244;Feminino;77;Belo Horizonte;SIM;SIM;2020-05-11
+ 245;Masculino;68;Belo Horizonte;SIM;SIM;2020-05-11
+ 246;Masculino;60;Belo Horizonte;NA;NA;2020-05-11
+ 247;Feminino;56;Belo Horizonte;NA;NA;2020-05-11
+ 248;Masculino;70;Juiz de Fora;SIM;SIM;2020-05-11
+ 249;Feminino;50;Uberlândia;NÃO;NÃO;2020-05-11
+ 250;Feminino;55;Uberlândia;SIM;NÃO;2020-05-11
+ 251;Masculino;52;Uberlândia;NÃO;NÃO;2020-05-11
+ 252;Masculino;71;Nova Lima;NÃO;NÃO;2020-05-11
+ 253;Masculino;38;Juiz de Fora;SIM;NÃO;2020-05-11
+ 254;Feminino;53;Nova Lima;NÃO;NÃO;2020-05-11
+ 255;Feminino;44;Divinópolis;NÃO;NÃO;2020-05-11
+ 256;Masculino;65;Lagoa da Prata;SIM;SIM;2020-05-11
+ 257;Masculino;42;Manhuaçu;SIM;NÃO;2020-05-11
+ 258;Feminino;33;Belo Horizonte;NÃO;NÃO;2020-05-11
+ 259;Masculino;22;Unaí;NÃO;NÃO;2020-05-11
+ 260;Feminino;50;Belo Horizonte;NA;NA;2020-05-11
+ 261;Masculino;80;Belo Horizonte;SIM;NÃO;2020-05-11
+ 262;Masculino;35;Lagoa da Prata;NÃO;NÃO;2020-05-11
+ 263;Feminino;65;Lagoa da Prata;NÃO;NÃO;2020-05-11
+ 264;Masculino;23;Juiz de Fora;NÃO;NÃO;2020-05-11
+ 265;Feminino;66;Juiz de Fora;NÃO;NÃO;2020-05-11
+ 266;Masculino;36;Juiz de Fora;NÃO;NÃO;2020-05-11
+ 267;Feminino;44;Juiz de Fora;NÃO;NÃO;2020-05-11
+ 268;Feminino;10;Juiz de Fora;NÃO;NÃO;2020-05-11
+ 269;Feminino;39;Juiz de Fora;NÃO;NÃO;2020-05-11
+ 270;Feminino;32;Juiz de Fora;NÃO;NÃO;2020-05-11
+ 271;Feminino;46;Juiz de Fora;NÃO;NÃO;2020-05-11
+ 272;Feminino;58;Juiz de Fora;NÃO;NÃO;2020-05-11
+ 273;Feminino;45;Juiz de Fora;NÃO;NÃO;2020-05-11
+ 274;Masculino;57;Alfenas;SIM;NÃO;2020-05-11
+ 275;Feminino;42;Divinópolis;NÃO;NÃO;2020-05-11
+ 276;Masculino;61;Capitólio;SIM;SIM;2020-05-11
+ 277;Feminino;42;Nova Lima;NÃO;NÃO;2020-05-11
+ 278;Masculino;33;Belo Horizonte;NÃO;NÃO;2020-05-11
+ 279;Masculino;66;Santo Antônio do Monte;SIM;NA;2020-05-11
+ 280;Feminino;41;Belo Horizonte;NA;NA;2020-05-11
+ 281;Feminino;61;Nova Lima;NÃO;NÃO;2020-05-11
+ 282;Feminino;62;Santo Antônio do Monte;NÃO;NÃO;2020-05-11
+ 283;Feminino;39;Nova Lima;NÃO;NÃO;2020-05-11
+ 284;Feminino;38;Divinópolis;NÃO;NÃO;2020-05-11
+ 285;Feminino;49;Belo Horizonte;NÃO;NÃO;2020-05-11
+ 287;Feminino;92;Belo Horizonte;SIM;NÃO;2020-05-11
+ 288;Masculino;39;Belo Horizonte;NA;NA;2020-05-11
+ 289;Feminino;35;Juiz de Fora;NÃO;NÃO;2020-05-11
+ 290;Masculino;31;Contagem;NA;NA;2020-05-11
+ 291;Feminino;25;Belo Horizonte;NA;NA;2020-05-11
+ 292;Feminino;45;Belo Horizonte;SIM;NÃO;2020-05-11
+ 293;Masculino;51;Belo Horizonte;SIM;SIM;2020-05-11
+ 294;Feminino;34;Contagem;NA;NA;2020-05-11
+ 295;Feminino;78;Nova Lima;SIM;NA;2020-05-11
+ 296;Masculino;61;Belo Horizonte;SIM;NÃO;2020-05-11
+ 297;Masculino;75;Belo Horizonte;NA;NA;2020-05-11
+ 298;Feminino;94;Belo Horizonte;SIM;NÃO;2020-05-11
+ 299;Feminino;43;Belo Horizonte;NÃO;NÃO;2020-05-11
+ 300;Feminino;85;Belo Horizonte;NA;NA;2020-05-11
+ 301;Masculino;66;Belo Horizonte;SIM;SIM;2020-05-11
+ 302;Masculino;51;Belo Horizonte;SIM;NÃO;2020-05-11
+ 303;Masculino;65;Belo Horizonte;SIM;SIM;2020-05-11
+ 304;Masculino;58;Lavras;SIM;NÃO;2020-05-11
+ 305;Masculino;30;Pouso Alegre;SIM;NÃO;2020-05-11
+ 306;Masculino;40;Belo Horizonte;NÃO;NÃO;2020-05-11
+ 307;Masculino;54;Belo Horizonte;NÃO;NÃO;2020-05-11
+ 308;Masculino;44;Sabará;NÃO;NÃO;2020-05-11
+ 309;Masculino;29;Belo Horizonte;NA;NA;2020-05-11
+ 310;Masculino;35;Araguari;SIM;SIM;2020-05-11
+ 311;Feminino;45;Uberlândia;SIM;SIM;2020-05-11
+ 312;Feminino;24;Uberlândia;NÃO;NÃO;2020-05-11
+ 313;Masculino;28;Uberlândia;NÃO;NÃO;2020-05-11
+ 314;Masculino;39;Uberlândia;NÃO;NÃO;2020-05-11
+ 315;Feminino;59;Nova Lima;NA;NA;2020-05-11
+ 316;Feminino;57;Belo Horizonte;NA;NA;2020-05-11
+ 317;Masculino;43;Belo Horizonte;NÃO;NÃO;2020-05-11
+ 318;Masculino;43;Belo Horizonte;NA;NA;2020-05-11
+ 319;Feminino;76;Belo Horizonte;NA;NA;2020-05-11
+ 320;Feminino;69;Uberaba;NÃO;NÃO;2020-05-11
+ 321;Masculino;81;Belo Horizonte;NA;NA;2020-05-11
+ 322;Feminino;57;Belo Horizonte;NA;NA;2020-05-11
+ 323;Masculino;41;Timóteo;NÃO;NÃO;2020-05-11
+ 324;Feminino;34;Belo Horizonte;NA;NA;2020-05-11
+ 325;Masculino;33;Belo Horizonte;NA;NA;2020-05-11
+ 326;Feminino;60;Belo Horizonte;NA;NA;2020-05-11
+ 327;Feminino;38;Belo Horizonte;NA;NA;2020-05-11
+ 328;Feminino;76;Belo Horizonte;SIM;SIM;2020-05-11
+ 329;Masculino;56;Juiz de Fora;SIM;SIM;2020-05-11
+ 330;Masculino;67;Juiz de Fora;NÃO;NÃO;2020-05-11
+ 331;Masculino;31;Juiz de Fora;NÃO;NÃO;2020-05-11
+ 332;Feminino;36;Juiz de Fora;NÃO;NÃO;2020-05-11
+ 333;Feminino;59;Juiz de Fora;SIM;NÃO;2020-05-11
+ 334;Feminino;84;Pouso Alegre;NÃO;NÃO;2020-05-11
+ 335;Masculino;44;Mariana;SIM;SIM;2020-05-11
+ 336;Masculino;30;Barbacena;NÃO;NÃO;2020-05-11
+ 337;Masculino;32;São João Del Rei;NÃO;NÃO;2020-05-11
+ 338;Feminino;19;Patrocínio;NA;NA;2020-05-11
+ 339;Feminino;19;Patrocínio;NA;NA;2020-05-11
+ 340;Masculino;35;Ribeirão das Neves;NA;NA;2020-05-11
+ 341;Masculino;56;Belo Horizonte;NA;NA;2020-05-11
+ 342;Feminino;18;Contagem;NA;NA;2020-05-11
+ 343;Masculino;58;Toledo;SIM;SIM;2020-05-11
+ 344;Masculino;39;Nova Lima;NÃO;NÃO;2020-05-11
+ 345;Feminino;35;Belo Horizonte;NA;NA;2020-05-11
+ 346;Masculino;32;Uberlândia;SIM;SIM;2020-05-11
+ 347;Masculino;32;Belo Horizonte;NA;NA;2020-05-11
+ 348;Masculino;71;Belo Horizonte;SIM;NA;2020-05-11
+ 349;Masculino;80;Belo Horizonte;SIM;SIM;2020-05-11
+ 350;Masculino;61;Pouso Alegre;SIM;NÃO;2020-05-11
+ 351;Masculino;60;Muriaé;NÃO;NÃO;2020-05-11
+ 352;Masculino;27;Uberlândia;NA;NA;2020-05-11
+ 353;Masculino;35;Belo Horizonte;NA;NA;2020-05-11
+ 354;Masculino;39;Belo Horizonte;NÃO;NÃO;2020-05-11
+ 355;Feminino;67;Uberlândia;SIM;NÃO;2020-05-11
+ 356;Feminino;30;Uberlândia;NA;NA;2020-05-11
+ 357;Masculino;57;Uberlândia;NA;NA;2020-05-11
+ 358;Masculino;37;Uberlândia;NA;NA;2020-05-11
+ 359;Masculino;61;Uberlândia;SIM;NÃO;2020-05-11
+ 360;Feminino;61;Uberlândia;NA;NA;2020-05-11
+ 364;Feminino;37;Belo Horizonte;NA;NA;2020-05-11
+ 365;Masculino;58;Muriaé;NÃO;NÃO;2020-05-11
+ 366;Feminino;20;Santana do Paraíso;NÃO;NÃO;2020-05-11
+ 367;Masculino;34;Belo Horizonte;NA;NA;2020-05-11
+ 369;Masculino;35;Belo Horizonte;NÃO;NÃO;2020-05-11
+ 370;Masculino;42;Contagem;NA;NA;2020-05-11
+ 371;Masculino;47;Esmeraldas;SIM;NA;2020-05-11
+ 372;Masculino;62;Contagem;SIM;NA;2020-05-11
+ 373;Masculino;36;Nova Lima;NÃO;NÃO;2020-05-11
+ 374;Feminino;53;Nova Lima;NÃO;NÃO;2020-05-11
+ 375;Feminino;58;Belo Horizonte;SIM;NA;2020-05-11
+ 376;Masculino;42;Belo Horizonte;NA;NA;2020-05-11
+ 377;Feminino;41;Belo Horizonte;NÃO;NÃO;2020-05-11
+ 378;Masculino;58;Belo Horizonte;NA;NA;2020-05-11
+ 379;Feminino;38;Belo Horizonte;NA;NA;2020-05-11
+ 380;Masculino;49;Divinópolis;SIM;NÃO;2020-05-11
+ 381;Masculino;34;Belo Horizonte;NA;NA;2020-05-11
+ 382;Masculino;56;Belo Horizonte;NA;NA;2020-05-11
+ 383;Feminino;50;Belo Horizonte;NÃO;NÃO;2020-05-11
+ 384;Feminino;33;Belo Horizonte;NÃO;NÃO;2020-05-11
+ 385;Masculino;54;Belo Horizonte;NA;NA;2020-05-11
+ 386;Feminino;53;Belo Horizonte;NA;NA;2020-05-11
+ 387;Feminino;35;Belo Horizonte;NA;NA;2020-05-11
+ 388;Feminino;38;Belo Horizonte;NA;NA;2020-05-11
+ 389;Feminino;38;Belo Horizonte;NA;NA;2020-05-11
+ 390;Feminino;43;Belo Horizonte;NA;NA;2020-05-11
+ 391;Masculino;40;Belo Horizonte;NA;NA;2020-05-11
+ 392;Masculino;60;Nova Lima;NÃO;NÃO;2020-05-11
+ 393;Feminino;41;Belo Horizonte;NA;NA;2020-05-11
+ 394;Masculino;63;Belo Horizonte;SIM;SIM;2020-05-11
+ 395;Masculino;28;Belo Horizonte;NA;NA;2020-05-11
+ 396;Feminino;46;Divinópolis;SIM;SIM;2020-05-11
+ 397;Feminino;38;Divinópolis;NÃO;NÃO;2020-05-11
+ 398;Masculino;48;Nova Lima;NÃO;NÃO;2020-05-11
+ 399;Masculino;31;Itabira;NÃO;NÃO;2020-05-11
+ 400;Masculino;52;Belo Horizonte;SIM;NÃO;2020-05-11
+ 401;Feminino;57;Belo Horizonte;SIM;NÃO;2020-05-11
+ 402;Feminino;57;Belo Horizonte;SIM;NÃO;2020-05-11
+ 403;Feminino;81;Belo Horizonte;NA;NA;2020-05-11
+ 404;Masculino;62;Belo Horizonte;SIM;NÃO;2020-05-11
+ 405;Masculino;82;Belo Horizonte;SIM;NA;2020-05-11
+ 406;Masculino;64;Belo Horizonte;NA;NA;2020-05-11
+ 407;Feminino;82;Belo Horizonte;SIM;NÃO;2020-05-11
+ 408;Masculino;27;Belo Horizonte;NA;NA;2020-05-11
+ 409;Masculino;89;Belo Horizonte;SIM;SIM;2020-05-11
+ 410;Masculino;25;Sarzedo;NA;NA;2020-05-11
+ 411;Masculino;84;Belo Horizonte;NA;NA;2020-05-11
+ 412;Feminino;64;Belo Horizonte;SIM;NÃO;2020-05-11
+ 413;Masculino;36;Contagem;NA;NA;2020-05-11
+ 414;Masculino;79;Divinópolis;NÃO;NÃO;2020-05-11
+ 415;Feminino;43;Divinópolis;NÃO;NÃO;2020-05-11
+ 416;Feminino;42;Lavras;NÃO;NÃO;2020-05-11
+ 417;Feminino;38;Ribeirão das Neves;SIM;SIM;2020-05-11
+ 418;Masculino;61;Patos de Minas;SIM;NÃO;2020-05-11
+ 419;Feminino;31;Uberlândia;NA;NA;2020-05-11
+ 420;Feminino;15;Uberlândia;NA;NA;2020-05-11
+ 421;Masculino;19;Varginha;NÃO;NÃO;2020-05-11
+ 422;Masculino;74;Varginha;SIM;NÃO;2020-05-11
+ 423;Feminino;52;Carmo da Cachoeira;SIM;SIM;2020-05-11
+ 424;Masculino;62;Varginha;SIM;SIM;2020-05-11
+ 425;Feminino;61;Uberlândia;SIM;SIM;2020-05-11
+ 426;Masculino;80;Uberlândia;SIM;SIM;2020-05-11
+ 427;Masculino;68;Nanuque;SIM;SIM;2020-05-11
+ 428;Feminino;70;Nanuque;SIM;NÃO;2020-05-11
+ 429;Masculino;45;OUTROS;NA;NA;2020-05-11
+ 430;Masculino;34;OUTROS;NA;NA;2020-05-11
+ 431;Feminino;21;OUTROS;NA;NA;2020-05-11
+ 432;Feminino;32;OUTROS;NA;NA;2020-05-11
+ 433;Feminino;85;OUTROS;NA;NA;2020-05-11
+ 434;Masculino;49;OUTROS;NA;NA;2020-05-11
+ 435;Masculino;44;Uberaba;NÃO;NÃO;2020-05-11
+ 436;Masculino;64;Belo Horizonte;NA;NA;2020-05-11
+ 437;Masculino;29;Uberlândia;NA;NA;2020-05-11
+ 438;Feminino;80;Centralina;SIM;SIM;2020-05-11
+ 439;Feminino;28;Uberaba;NA;NA;2020-05-11
+ 440;Feminino;33;Uberaba;NA;NA;2020-05-11
+ 441;Masculino;46;Belo Horizonte;NÃO;NÃO;2020-05-11
+ 442;Feminino;24;Araguari;NA;NA;2020-05-11
+ 443;Masculino;64;Belo Horizonte;NA;NA;2020-05-11
+ 444;Masculino;42;Uberlândia;SIM;NÃO;2020-05-11
+ 445;Masculino;45;Uberlândia;NA;NA;2020-05-11
+ 446;Masculino;63;Belo Horizonte;SIM;NÃO;2020-05-11
+ 447;Masculino;58;Belo Horizonte;NA;NA;2020-05-11
+ 448;Feminino;60;Uberaba;NA;NA;2020-05-11
+ 449;Masculino;37;Uberlândia;NA;NA;2020-05-11
+ 450;Masculino;32;Uberlândia;NA;NA;2020-05-11
+ 451;Masculino;46;Uberlândia;NA;NA;2020-05-11
+ 453;Masculino;49;Juiz de Fora;NÃO;NÃO;2020-05-11
+ 454;Feminino;85;Juiz de Fora;NÃO;NÃO;2020-05-11
+ 455;Masculino;69;Juiz de Fora;SIM;SIM;2020-05-11
+ 456;Masculino;25;Nova Lima;NÃO;NÃO;2020-05-11
+ 457;Masculino;44;OUTROS;NA;NA;2020-05-11
+ 458;Masculino;53;Paraisópolis;SIM;SIM;2020-05-11
+ 459;Feminino;51;Belo Horizonte;SIM;NÃO;2020-05-11
+ 460;Feminino;40;Sete Lagoas;NÃO;NÃO;2020-05-11
+ 461;Feminino;45;Belo Horizonte;NA;NA;2020-05-11
+ 462;Feminino; 1;Belo Horizonte;NA;NA;2020-05-11
+ 463;Feminino;33;Belo Horizonte;NA;NA;2020-05-11
+ 464;Feminino;53;Belo Horizonte;NA;NA;2020-05-11
+ 465;Masculino;57;Contagem;NA;NA;2020-05-11
+ 466;Feminino;54;Juiz de Fora;SIM;NÃO;2020-05-11
+ 467;Feminino;48;Belo Horizonte;NA;NA;2020-05-11
+ 468;Masculino;48;Belo Horizonte;NA;NA;2020-05-11
+ 469;Feminino;64;Uberaba;SIM;NÃO;2020-05-11
+ 470;Masculino;49;Juiz de Fora;SIM;SIM;2020-05-11
+ 471;Feminino;35;Belo Horizonte;NA;NA;2020-05-11
+ 472;Masculino;31;Belo Horizonte;NA;NA;2020-05-11
+ 473;Feminino;40;Belo Horizonte;NA;NA;2020-05-11
+ 474;Masculino;41;Nova Lima;NÃO;NÃO;2020-05-11
+ 475;Masculino;78;Pouso Alegre;SIM;SIM;2020-05-11
+ 476;Feminino;38;Patos de Minas;SIM;NÃO;2020-05-11
+ 477;Masculino;60;Nova Lima;NA;NA;2020-05-11
+ 478;Masculino;58;Nova Lima;NA;NA;2020-05-11
+ 479;Feminino;60;Belo Horizonte;SIM;NÃO;2020-05-11
+ 480;Masculino;62;Belo Horizonte;NA;NA;2020-05-11
+ 481;Masculino;46;Uberlândia;NA;NA;2020-05-11
+ 482;Feminino;47;Ribeirão das Neves;SIM;NÃO;2020-05-11
+ 483;Masculino;29;Belo Horizonte;NA;NA;2020-05-11
+ 484;Feminino;25;Belo Horizonte;NA;NA;2020-05-11
+ 485;Masculino;66;Belo Horizonte;NA;NA;2020-05-11
+ 486;Feminino;58;Arcos;SIM;SIM;2020-05-11
+ 487;Masculino;61;Vazante;SIM;NÃO;2020-05-11
+ 488;Masculino;28;Belo Horizonte;NA;NA;2020-05-11
+ 489;Feminino;84;Belo Horizonte;SIM;NA;2020-05-11
+ 490;Feminino;28;Belo Horizonte;NA;NA;2020-05-11
+ 491;Masculino;20;Belo Horizonte;NA;NA;2020-05-11
+ 492;Feminino;30;Belo Horizonte;NA;NA;2020-05-11
+ 493;Feminino;29;Nova Lima;NA;NA;2020-05-11
+ 494;Feminino;72;Belo Horizonte;SIM;NÃO;2020-05-11
+ 495;Masculino;56;Contagem;SIM;NÃO;2020-05-11
+ 496;Masculino;42;Muriaé;NÃO;NÃO;2020-05-11
+ 497;Feminino;25;Janaúba;NÃO;NÃO;2020-05-11
+ 498;Masculino;73;Uberaba;SIM;SIM;2020-05-11
+ 499;Masculino;29;Belo Horizonte;NA;NA;2020-05-11
+ 500;Masculino;57;Paracatu;SIM;SIM;2020-05-11
+ 501;Feminino;62;Juiz de Fora;SIM;NÃO;2020-05-11
+ 502;Masculino;79;Juiz de Fora;SIM;NÃO;2020-05-11
+ 503;Feminino;64;Belo Horizonte;SIM;NÃO;2020-05-11
+ 504;Masculino;78;Piumhi;SIM;SIM;2020-05-11
+ 505;Feminino;67;Juiz de Fora;SIM;NÃO;2020-05-11
+ 506;Masculino;36;Patos de Minas;SIM;NÃO;2020-05-11
+ 507;Masculino;82;Senador Amaral;SIM;NÃO;2020-05-11
+ 508;Masculino;60;Uberlândia;NA;NA;2020-05-11
+ 509;Feminino;56;Betim;NA;NA;2020-05-11
+ 510;Masculino;48;Matozinhos;NA;NA;2020-05-11
+ 511;Masculino;29;Janaúba;NÃO;NÃO;2020-05-11
+ 512;Masculino;69;Montes Claros;SIM;SIM;2020-05-11
+ 513;Feminino;64;Juiz de Fora;SIM;SIM;2020-05-11
+ 514;Masculino;34;Divinésia;SIM;NÃO;2020-05-11
+ 515;Feminino;32;Ubá;NÃO;NÃO;2020-05-11
+ 516;Masculino;55;Pouso Alegre;NÃO;NÃO;2020-05-11
+ 517;Masculino;27;Belo Horizonte;NA;NA;2020-05-11
+ 518;Masculino;55;Lavras;SIM;NÃO;2020-05-11
+ 519;Feminino;46;Varginha;NÃO;NÃO;2020-05-11
+ 520;Masculino;52;Uberlândia;NA;NA;2020-05-11
+ 521;Feminino;19;Patrocínio;NA;NA;2020-05-11
+ 522;Masculino;46;Patrocínio;NA;NA;2020-05-11
+ 523;Feminino;25;Frutal;NÃO;NÃO;2020-05-11
+ 524;Masculino;53;Machado;SIM;NA;2020-05-11
+ 525;Feminino;58;Guaranésia;NÃO;NÃO;2020-05-11
+ 526;Masculino;38;Cambuí;NÃO;NÃO;2020-05-11
+ 527;Feminino;39;Jeceaba;NÃO;NÃO;2020-05-11
+ 528;Feminino;53;Campo Belo;SIM;SIM;2020-05-11
+ 529;Masculino;72;Ouro Fino;SIM;SIM;2020-05-11
+ 530;Masculino;67;Botelhos;SIM;NA;2020-05-11
+ 531;Masculino;39;Belo Horizonte;SIM;NÃO;2020-05-11
+ 532;Feminino;39;Belo Horizonte;NA;NA;2020-05-11
+ 533;Feminino;34;Belo Horizonte;NA;NA;2020-05-11
+ 534;Feminino;37;Belo Horizonte;NA;NA;2020-05-11
+ 535;Masculino;41;Belo Horizonte;NA;NA;2020-05-11
+ 536;Feminino;35;Belo Horizonte;NA;NA;2020-05-11
+ 537;Feminino;19;Belo Horizonte;NA;NA;2020-05-11
+ 538;Feminino;53;Brumadinho;SIM;NÃO;2020-05-11
+ 539;Feminino;38;Sabará;NÃO;NÃO;2020-05-11
+ 540;Masculino;42;Ipatinga;NÃO;NÃO;2020-05-11
+ 541;Masculino;26;Coronel Fabriciano;NÃO;NÃO;2020-05-11
+ 542;Masculino;47;Lagoa da Prata;NÃO;NÃO;2020-05-11
+ 543;Feminino;34;Lagoa da Prata;NÃO;NÃO;2020-05-11
+ 544;Feminino;75;Lagoa da Prata;NÃO;NÃO;2020-05-11
+ 545;Feminino;49;Lagoa da Prata;NÃO;NÃO;2020-05-11
+ 546;Feminino;46;Lagoa da Prata;NÃO;NÃO;2020-05-11
+ 547;Masculino;77;Lagoa da Prata;NÃO;NÃO;2020-05-11
+ 548;Feminino;85;OUTROS;SIM;NÃO;2020-05-11
+ 549;Masculino;46;Itapeva;NÃO;NÃO;2020-05-11
+ 550;Masculino;52;Alpercata;SIM;SIM;2020-05-11
+ 551;Masculino;51;Belo Horizonte;SIM;SIM;2020-05-11
+ 552;Feminino;51;Belo Horizonte;SIM;NÃO;2020-05-11
+ 553;Masculino;82;Belo Horizonte;NA;NA;2020-05-11
+ 556;Feminino;60;Timóteo;NÃO;NÃO;2020-05-11
+ 557;Feminino;63;Pouso Alegre;NÃO;NÃO;2020-05-11
+ 558;Masculino;62;Pouso Alegre;SIM;NÃO;2020-05-11
+ 559;Masculino;31;Pouso Alegre;NÃO;NÃO;2020-05-11
+ 560;Feminino;34;Divinópolis;NÃO;NÃO;2020-05-11
+ 561;Masculino;54;Juiz de Fora;NÃO;NÃO;2020-05-11
+ 562;Masculino;16;Juiz de Fora;NÃO;NÃO;2020-05-11
+ 563;Feminino;36;Juiz de Fora;NÃO;NÃO;2020-05-11
+ 564;Feminino;44;Belo Horizonte;NA;NA;2020-05-11
+ 565;Masculino;31;Contagem;NA;NA;2020-05-11
+ 566;Masculino;47;Belo Horizonte;SIM;NÃO;2020-05-11
+ 567;Masculino;55;Extrema;SIM;NÃO;2020-05-11
+ 568;Feminino;52;Belo Horizonte;NA;NA;2020-05-11
+ 569;Masculino;31;Juiz de Fora;NÃO;NÃO;2020-05-11
+ 570;Masculino;39;Belo Horizonte;NA;NA;2020-05-11
+ 571;Feminino;71;Belo Horizonte;NA;NA;2020-05-11
+ 572;Masculino;28;Belo Horizonte;NA;NA;2020-05-11
+ 573;Masculino;40;Belo Horizonte;NA;NA;2020-05-11
+ 574;Feminino;57;Belo Horizonte;NA;NA;2020-05-11
+ 575;Feminino;58;Vazante;NÃO;NÃO;2020-05-11
+ 576;Feminino;76;Belo Horizonte;SIM;NÃO;2020-05-11
+ 577;Masculino;40;Belo Horizonte;NA;NA;2020-05-11
+ 578;Feminino;60;Belo Horizonte;SIM;NA;2020-05-11
+ 579;Feminino;53;Belo Horizonte;NA;NA;2020-05-11
+ 580;Masculino;89;Belo Horizonte;SIM;NÃO;2020-05-11
+ 581;Masculino;48;Uberaba;SIM;NÃO;2020-05-11
+ 582;Masculino;28;Uberaba;NÃO;NÃO;2020-05-11
+ 583;Masculino;43;Uberlândia;SIM;NÃO;2020-05-11
+ 584;Feminino;79;Patos de Minas;SIM;NÃO;2020-05-11
+ 585;Masculino;56;Patos de Minas;SIM;NÃO;2020-05-11
+ 586;Feminino;30;Belo Horizonte;NA;NA;2020-05-11
+ 587;Masculino;59;Varginha;SIM;SIM;2020-05-11
+ 588;Feminino;49;Carangola;NÃO;NÃO;2020-05-11
+ 589;Masculino;68;Pouso Alegre;NÃO;NÃO;2020-05-11
+ 590;Feminino;62;São João Nepomuceno;SIM;SIM;2020-05-11
+ 591;Feminino;41;Belo Horizonte;SIM;NA;2020-05-11
+ 592;Masculino;40;Belo Horizonte;NA;NA;2020-05-11
+ 593;Masculino;29;Belo Horizonte;NA;NA;2020-05-11
+ 594;Feminino;36;Belo Horizonte;NA;NA;2020-05-11
+ 595;Feminino; 6;Belo Horizonte;NA;NA;2020-05-11
+ 596;Feminino;24;Nova Lima;NÃO;NÃO;2020-05-11
+ 597;Feminino;34;Belo Horizonte;NÃO;NÃO;2020-05-11
+ 598;Feminino;35;Belo Horizonte;NA;NA;2020-05-11
+ 599;Feminino;40;Belo Horizonte;NA;NA;2020-05-11
+ 600;Feminino;38;Belo Horizonte;NA;NA;2020-05-11
+ 601;Feminino;39;Boa Esperança;NÃO;NÃO;2020-05-11
+ 602;Feminino;73;Carmo do Cajuru;NA;NA;2020-05-11
+ 603;Feminino;39;Divinópolis;NA;NA;2020-05-11
+ 604;Masculino;46;Juiz de Fora;NÃO;NÃO;2020-05-11
+ 605;Masculino;35;OUTROS;NÃO;NÃO;2020-05-11
+ 606;Feminino;64;Juiz de Fora;NÃO;NÃO;2020-05-11
+ 607;Feminino;57;Juiz de Fora;NÃO;NÃO;2020-05-11
+ 608;Masculino;62;Timóteo;NÃO;NÃO;2020-05-11
+ 609;Masculino;76;Ipaba;SIM;SIM;2020-05-11
+ 610;Feminino;35;Ipatinga;NÃO;NÃO;2020-05-11
+ 611;Masculino;43;Uberlândia;SIM;NA;2020-05-11
+ 612;Feminino;61;Uberlândia;SIM;SIM;2020-05-11
+ 613;Masculino;31;Uberlândia;NA;NA;2020-05-11
+ 614;Masculino;80;Uberlândia;SIM;NÃO;2020-05-11
+ 615;Feminino;52;Patrocínio;NA;NA;2020-05-11
+ 616;Masculino;33;Uberlândia;NA;NA;2020-05-11
+ 617;Masculino;40;Uberlândia;NA;NA;2020-05-11
+ 618;Masculino;37;Juiz de Fora;NÃO;NÃO;2020-05-11
+ 619;Feminino;88;Paraisópolis;SIM;SIM;2020-05-11
+ 620;Masculino;67;Poços de Caldas;SIM;SIM;2020-05-11
+ 621;Feminino;72;Uberaba;SIM;NA;2020-05-11
+ 622;Masculino;43;Belo Horizonte;SIM;NÃO;2020-05-11
+ 623;Masculino;38;Belo Horizonte;NA;NA;2020-05-11
+ 624;Feminino;57;Itapecerica;NÃO;NÃO;2020-05-11
+ 625;Masculino;45;Belo Horizonte;NA;NA;2020-05-11
+ 626;Feminino;53;Belo Horizonte;NA;NA;2020-05-11
+ 627;Feminino;59;Itanhandu;SIM;SIM;2020-05-11
+ 628;Masculino;40;Belo Horizonte;NA;NA;2020-05-11
+ 629;Masculino;44;Belo Horizonte;NA;NA;2020-05-11
+ 630;Masculino;64;Belo Horizonte;NA;NA;2020-05-11
+ 631;Feminino;75;Divinópolis;NA;NA;2020-05-11
+ 632;Masculino;78;Divinópolis;NA;NA;2020-05-11
+ 633;Feminino;31;Divinópolis;NA;NA;2020-05-11
+ 634;Feminino;27;Belo Horizonte;NA;NA;2020-05-11
+ 635;Feminino;36;João Monlevade;NÃO;NÃO;2020-05-11
+ 636;Feminino;41;Mário Campos;SIM;NA;2020-05-11
+ 637;Masculino; 0;Santa Maria de Itabira;NÃO;NÃO;2020-05-11
+ 638;Masculino;39;Belo Horizonte;NA;NA;2020-05-11
+ 639;Masculino;43;Borda da Mata;SIM;NÃO;2020-05-11
+ 640;Masculino;28;Belo Horizonte;NA;NA;2020-05-11
+ 641;Feminino;56;Belo Horizonte;NA;NA;2020-05-11
+ 642;Masculino;84;Belo Horizonte;NA;NA;2020-05-11
+ 643;Masculino;38;Varginha;NÃO;NÃO;2020-05-11
+ 644;Masculino;45;Nova Lima;NÃO;NÃO;2020-05-11
+ 645;Feminino;31;Cambuí;NÃO;NÃO;2020-05-11
+ 646;Masculino;15;Cambuí;NÃO;NÃO;2020-05-11
+ 647;Feminino;40;Cambuí;NÃO;NÃO;2020-05-11
+ 648;Feminino;64;Cambuí;NÃO;NÃO;2020-05-11
+ 649;Masculino;80;Ipiaçu;SIM;SIM;2020-05-11
+ 650;Masculino;34;Uberlândia;NA;NA;2020-05-11
+ 651;Feminino;55;Uberlândia;NA;NA;2020-05-11
+ 652;Masculino;27;Uberlândia;NA;NA;2020-05-11
+ 653;Feminino;45;Uberlândia;NA;NA;2020-05-11
+ 654;Masculino;38;Juiz de Fora;NÃO;NÃO;2020-05-11
+ 655;Masculino;39;Juiz de Fora;NÃO;NÃO;2020-05-11
+ 656;Masculino;70;Juiz de Fora;SIM;SIM;2020-05-11
+ 657;Masculino;41;Juiz de Fora;NÃO;NÃO;2020-05-11
+ 658;Feminino; 3;Ipatinga;NÃO;NÃO;2020-05-11
+ 659;Feminino;60;Uberaba;SIM;NÃO;2020-05-11
+ 660;Masculino;29;Uberaba;NÃO;NÃO;2020-05-11
+ 661;Feminino;38;Belo Horizonte;SIM;NA;2020-05-11
+ 662;Feminino;29;Nova Lima;SIM;NÃO;2020-05-11
+ 663;Masculino;56;Nova Lima;NÃO;NÃO;2020-05-11
+ 664;Feminino;69;Belo Horizonte;SIM;NÃO;2020-05-11
+ 665;Feminino;37;Governador Valadares;SIM;NÃO;2020-05-11
+ 666;Feminino;68;São Lourenço;SIM;NÃO;2020-05-11
+ 667;Masculino;54;Belo Horizonte;SIM;NA;2020-05-11
+ 668;Feminino;37;Sabará;NA;NA;2020-05-11
+ 669;Masculino;35;Sabará;NA;NA;2020-05-11
+ 670;Masculino;40;Belo Horizonte;NA;NA;2020-05-11
+ 671;Feminino;45;Belo Horizonte;NA;NA;2020-05-11
+ 672;Masculino;78;Timóteo;NÃO;NÃO;2020-05-11
+ 673;Masculino;27;Belo Horizonte;NA;NA;2020-05-11
+ 674;Feminino;21;Belo Horizonte;NA;NA;2020-05-11
+ 675;Feminino;33;Belo Horizonte;NA;NA;2020-05-11
+ 676;Feminino;71;Belo Horizonte;NA;NA;2020-05-11
+ 677;Feminino;36;Contagem;NA;NA;2020-05-11
+ 678;Masculino;39;Belo Horizonte;NA;NA;2020-05-11
+ 679;Feminino;60;Belo Horizonte;NA;NA;2020-05-11
+ 680;Feminino;41;Belo Horizonte;NA;NA;2020-05-11
+ 681;Feminino;20;Belo Horizonte;NA;NA;2020-05-11
+ 682;Masculino;41;Contagem;SIM;NA;2020-05-11
+ 683;Masculino;53;Juiz de Fora;SIM;SIM;2020-05-11
+ 684;Masculino;47;Juiz de Fora;SIM;NÃO;2020-05-11
+ 685;Feminino;79;Senador Amaral;SIM;NÃO;2020-05-11
+ 686;Masculino;79;Patos de Minas;SIM;SIM;2020-05-11
+ 687;Masculino;39;Belo Horizonte;NA;NA;2020-05-11
+ 688;Masculino;42;Belo Horizonte;NA;NA;2020-05-11
+ 689;Feminino;45;Belo Horizonte;NA;NA;2020-05-11
+ 690;Masculino;29;Belo Horizonte;NA;NA;2020-05-11
+ 691;Feminino;44;Belo Horizonte;SIM;SIM;2020-05-11
+ 692;Feminino;40;Nova Lima;NÃO;NÃO;2020-05-11
+ 693;Feminino;27;Belo Horizonte;NA;NA;2020-05-11
+ 694;Masculino;30;Belo Horizonte;NA;NA;2020-05-11
+ 695;Masculino;33;Pirapora;NÃO;NÃO;2020-05-11
+ 696;Feminino;67;Toledo;NÃO;NÃO;2020-05-11
+ 697;Feminino;54;Senador Amaral;NÃO;NÃO;2020-05-11
+ 698;Feminino;23;Senador Amaral;NÃO;NÃO;2020-05-11
+ 699;Feminino;68;Timóteo;NÃO;NÃO;2020-05-11
+ 700;Masculino;40;Itajubá;SIM;NÃO;2020-05-11
+ 701;Masculino;78;Uberlândia;SIM;NÃO;2020-05-11
+ 702;Feminino;56;Uberlândia;SIM;NÃO;2020-05-11
+ 703;Masculino;72;Uberlândia;SIM;NA;2020-05-11
+ 704;Masculino;61;Belo Horizonte;NA;NA;2020-05-11
+ 705;Feminino;41;Varginha;SIM;NÃO;2020-05-11
+ 706;Masculino;39;Pouso Alegre;NÃO;NÃO;2020-05-11
+ 707;Feminino;52;Ubá;Sim;NÃO;2020-05-11
+ 708;Masculino;65;Pouso Alegre;SIM;NA;2020-05-11
+ 709;Feminino;47;Belo Horizonte;NA;NA;2020-05-11
+ 710;Masculino;45;Belo Horizonte;NA;NA;2020-05-11
+ 711;Masculino;44;Nova Lima;NÃO;NÃO;2020-05-11
+ 712;Feminino;74;Belo Horizonte;SIM;NA;2020-05-11
+ 713;Masculino;58;Betim;SIM;NA;2020-05-11
+ 714;Masculino;89;Santo Antônio do Monte;SIM;NÃO;2020-05-11
+ 715;Feminino;39;Betim;NA;NA;2020-05-11
+ 716;Masculino;33;Borda da Mata;SIM;NÃO;2020-05-11
+ 717;Feminino;49;Monte Carmelo;NÃO;NÃO;2020-05-11
+ 718;Masculino;22;Monte Carmelo;NÃO;NÃO;2020-05-11
+ 719;Feminino;45;Monte Carmelo;NÃO;NÃO;2020-05-11
+ 720;Feminino;15;Monte Carmelo;NÃO;NÃO;2020-05-11
+ 721;Masculino;26;Nova Lima;NÃO;NÃO;2020-05-11
+ 722;Masculino;70;Belo Horizonte;SIM;NÃO;2020-05-11
+ 723;Feminino;57;Jaboticatubas;SIM;NÃO;2020-05-11
+ 724;Masculino;63;Divinópolis;NA;NA;2020-05-11
+ 725;Feminino;47;Ferros;NÃO;NÃO;2020-05-11
+ 726;Masculino;52;Araguari;SIM;NÃO;2020-05-11
+ 727;Feminino;49;Araguari;NA;NA;2020-05-11
+ 728;Feminino;65;Uberlândia;NA;NA;2020-05-11
+ 729;Masculino;22;Araguari;SIM;NA;2020-05-11
+ 730;Masculino;54;Juiz de Fora;SIM;NÃO;2020-05-11
+ 731;Masculino;34;São Gotardo;NÃO;NÃO;2020-05-11
+ 732;Masculino;73;Itajubá;SIM;NÃO;2020-05-11
+ 733;Masculino;59;Juiz de Fora;NÃO;NÃO;2020-05-11
+ 734;Feminino;59;Juiz de Fora;SIM;NÃO;2020-05-11
+ 735;Masculino;52;Ipuiúna;SIM;SIM;2020-05-11
+ 736;Masculino;64;Uberaba;SIM;NA;2020-05-11
+ 737;Masculino;40;Poços de Caldas;SIM;NÃO;2020-05-11
+ 738;Masculino;60;Juiz de Fora;NÃO;NÃO;2020-05-11
+ 739;Masculino;56;Contagem;SIM;NA;2020-05-11
+ 740;Masculino;34;Ferros;NÃO;NÃO;2020-05-11
+ 741;Feminino;89;Divinópolis;NÃO;NÃO;2020-05-11
+ 742;Masculino;31;Barbacena;SIM;NÃO;2020-05-11
+ 743;Masculino;76;São Brás do Suaçuí;SIM;NÃO;2020-05-11
+ 744;Feminino;78;Paraisópolis;SIM;NÃO;2020-05-11
+ 745;Masculino;71;Cambuquira;SIM;NÃO;2020-05-11
+ 746;Masculino;23;Ituiutaba;NÃO;NÃO;2020-05-11
+ 747;Feminino;65;Uberlândia;SIM;NA;2020-05-11
+ 748;Feminino;46;Belo Horizonte;NA;NA;2020-05-11
+ 749;Feminino;35;Belo Horizonte;NA;NA;2020-05-11
+ 750;Masculino;52;Belo Horizonte;SIM;NA;2020-05-11
+ 751;Feminino;61;Ibirité;SIM;NÃO;2020-05-11
+ 752;Masculino;36;Belo Horizonte;SIM;NA;2020-05-11
+ 753;Masculino;48;Ferros;NÃO;NÃO;2020-05-11
+ 755;Masculino;58;Conceição das Alagoas;NA;NA;2020-05-11
+ 756;Feminino;42;Uberlândia;NA;NA;2020-05-11
+ 757;Feminino;77;Boa Esperança;SIM;NA;2020-05-11
+ 758;Masculino;40;Belo Horizonte;NA;NA;2020-05-11
+ 759;Masculino;41;Extrema;SIM;NA;2020-05-11
+ 760;Feminino;82;Uberaba;SIM;NA;2020-05-11
+ 761;Feminino;36;Juiz de Fora;SIM;NÃO;2020-05-11
+ 762;Feminino;32;Santa Luzia;NA;NA;2020-05-11
+ 763;Feminino;34;Abaeté;NÃO;NÃO;2020-05-11
+ 764;Masculino;47;Ubá;NA;NA;2020-05-11
+ 765;Masculino; 0;Juiz de Fora;SIM;NÃO;2020-05-11
+ 766;Masculino;31;Belo Horizonte;NA;NA;2020-05-11
+ 767;Feminino;68;Belo Horizonte;SIM;NA;2020-05-11
+ 768;Feminino;72;Belo Horizonte;SIM;NA;2020-05-11
+ 769;Masculino;86;OUTROS;SIM;NA;2020-05-11
+ 770;Feminino;26;Arcos;NA;NA;2020-05-11
+ 771;Masculino;44;Belo Horizonte;SIM;NA;2020-05-11
+ 772;Feminino;68;Governador Valadares;SIM;SIM;2020-05-11
+ 773;Feminino;22;Santa Luzia;NA;NA;2020-05-11
+ 774;Feminino;41;Belo Horizonte;NA;NA;2020-05-11
+ 775;Masculino;80;Belo Horizonte;NA;NA;2020-05-11
+ 776;Feminino;46;Manhuaçu;NÃO;NÃO;2020-05-11
+ 777;Masculino;71;Belo Horizonte;SIM;NA;2020-05-11
+ 778;Masculino;76;Perdões;SIM;NÃO;2020-05-11
+ 779;Feminino;43;Belo Horizonte;SIM;NA;2020-05-11
+ 780;Feminino;56;Itapecerica;NÃO;NÃO;2020-05-11
+ 781;Feminino;36;Belo Horizonte;NA;NA;2020-05-11
+ 782;Masculino;52;Campo Belo;SIM;NA;2020-05-11
+ 784;Feminino;60;Lagoa da Prata;SIM;NA;2020-05-11
+ 785;Masculino;62;Governador Valadares;SIM;SIM;2020-05-11
+ 786;Masculino;53;Arcos;SIM;SIM;2020-05-11
+ 787;Feminino;68;Araguari;SIM;NÃO;2020-05-11
+ 788;Feminino;23;Belo Horizonte;NA;NA;2020-05-11
+ 789;Masculino;24;Itabira;NÃO;NÃO;2020-05-11
+ 790;Feminino;56;Campos Gerais;NÃO;NÃO;2020-05-11
+ 791;Masculino;54;Belo Horizonte;NA;NA;2020-05-11
+ 792;Feminino;42;Belo Horizonte;NA;NA;2020-05-11
+ 793;Feminino;67;Araguari;SIM;NA;2020-05-11
+ 794;Feminino;38;Belo Horizonte;NA;NA;2020-05-11
+ 795;Masculino;69;Contagem;SIM;NÃO;2020-05-11
+ 796;Masculino;68;Bonfim;SIM;NÃO;2020-05-11
+ 797;Feminino;82;Nova Serrana;SIM;NA;2020-05-11
+ 798;Masculino;60;Ubá;NA;NA;2020-05-11
+ 799;Feminino;58;Pirapetinga;SIM;NÃO;2020-05-11
+ 800;Masculino;57;São Lourenço;NÃO;NÃO;2020-05-11
+ 801;Feminino; 5;Marliéria;NÃO;NÃO;2020-05-11
+ 802;Feminino;55;Conceição das Alagoas;NÃO;NÃO;2020-05-11
+ 803;Feminino;62;Extrema;NÃO;NÃO;2020-05-11
+ 804;Masculino;84;Pouso Alegre;SIM;SIM;2020-05-11
+ 805;Masculino;38;Paraisópolis;SIM;NÃO;2020-05-11
+ 806;Feminino;21;Extrema;NÃO;NÃO;2020-05-11
+ 807;Feminino;24;Ibirité;NÃO;NÃO;2020-05-11
+ 808;Masculino;32;Lagoa da Prata;NA;NA;2020-05-11
+ 809;Feminino;35;Lagoa da Prata;NA;NA;2020-05-11
+ 810;Masculino;52;Belo Horizonte;NA;NA;2020-05-11
+ 811;Masculino;38;Belo Horizonte;NA;NA;2020-05-11
+ 813;Masculino;31;Belo Horizonte;NA;NA;2020-05-11
+ 814;Masculino;46;Belo Horizonte;NA;NA;2020-05-11
+ 815;Masculino;71;Juiz de Fora;SIM;SIM;2020-05-11
+ 816;Feminino;31;Uberlândia;SIM;NA;2020-05-11
+ 818;Masculino;81;Patrocínio;SIM;NÃO;2020-05-11
+ 819;Masculino;82;Uberlândia;SIM;NÃO;2020-05-11
+ 820;Feminino;50;Machado;NÃO;NÃO;2020-05-11
+ 821;Masculino;33;Pará de Minas;NÃO;NÃO;2020-05-11
+ 822;Feminino;27;Pará de Minas;NÃO;NÃO;2020-05-11
+ 823;Feminino;39;Ipaba;NA;NA;2020-05-11
+ 824;Feminino;25;Belo Horizonte;NA;NA;2020-05-11
+ 825;Feminino;46;Belo Horizonte;NA;NA;2020-05-11
+ 826;Masculino;52;Belo Horizonte;SIM;NA;2020-05-11
+ 827;Feminino;47;Contagem;NA;NA;2020-05-11
+ 828;Feminino;35;Cláudio;NÃO;NÃO;2020-05-11
+ 829;Masculino;63;Juiz de Fora;NÃO;NÃO;2020-05-11
+ 830;Feminino;89;Belo Horizonte;SIM;SIM;2020-05-11
+ 831;Feminino;36;Pouso Alegre;SIM;NÃO;2020-05-11
+ 832;Feminino;43;Belo Horizonte;SIM;NÃO;2020-05-11
+ 833;Masculino;36;Belo Horizonte;NA;NA;2020-05-11
+ 834;Feminino;50;Passos;NÃO;NÃO;2020-05-11
+ 835;Feminino;33;Divinópolis;NA;NA;2020-05-11
+ 836;Feminino;34;Belo Horizonte;NA;NA;2020-05-11
+ 837;Feminino;50;Contagem;NA;NA;2020-05-11
+ 838;Feminino;28;Contagem;NA;NA;2020-05-11
+ 839;Masculino;41;Belo Horizonte;NA;NA;2020-05-11
+ 840;Feminino;27;Belo Horizonte;NA;NA;2020-05-11
+ 841;Feminino;28;Belo Horizonte;NA;NA;2020-05-11
+ 842;Feminino;31;Belo Horizonte;NA;NA;2020-05-11
+ 843;Feminino;17;Juiz de Fora;NÃO;NÃO;2020-05-11
+ 844;Masculino;35;Pará de Minas;NÃO;NÃO;2020-05-11
+ 845;Feminino;27;Goianá;NÃO;NÃO;2020-05-11
+ 846;Masculino;52;Piumhi;SIM;NÃO;2020-05-11
+ 847;Masculino;45;Frutal;SIM;NÃO;2020-05-11
+ 848;Feminino;44;Belo Horizonte;NA;NA;2020-05-11
+ 849;Masculino;41;Lavras;NÃO;NÃO;2020-05-11
+ 850;Feminino;54;Sabará;SIM;SIM;2020-05-11
+ 851;Feminino;59;Belo Horizonte;NA;NA;2020-05-11
+ 852;Masculino;58;Belo Horizonte;NA;NA;2020-05-11
+ 853;Masculino;43;Coronel Fabriciano;NA;NA;2020-05-11
+ 854;Masculino;42;Belo Horizonte;SIM;NÃO;2020-05-11
+ 855;Masculino;30;Cataguases;SIM;NÃO;2020-05-11
+ 856;Masculino;59;Belo Horizonte;SIM;NA;2020-05-11
+ 857;Feminino;24;Ipatinga;NÃO;NÃO;2020-05-11
+ 858;Feminino;39;Ipatinga;NA;NA;2020-05-11
+ 859;Masculino;48;Divinópolis;NÃO;NÃO;2020-05-11
+ 860;Feminino;31;Divinópolis;NÃO;NÃO;2020-05-11
+ 861;Masculino;42;Divinópolis;NÃO;NÃO;2020-05-11
+ 863;Feminino;25;Divinópolis;NÃO;NÃO;2020-05-11
+ 864;Feminino;78;Divinópolis;SIM;SIM;2020-05-11
+ 865;Feminino;46;Divinópolis;NÃO;NÃO;2020-05-11
+ 866;Feminino;34;Divinópolis;NÃO;NÃO;2020-05-11
+ 867;Feminino;41;Divinópolis;NÃO;NÃO;2020-05-11
+ 868;Feminino;33;Pouso Alegre;NÃO;NÃO;2020-05-11
+ 869;Masculino;45;Juiz de Fora;NÃO;NÃO;2020-05-11
+ 870;Masculino;34;Juiz de Fora;NÃO;NÃO;2020-05-11
+ 871;Feminino;62;Juiz de Fora;SIM;NÃO;2020-05-11
+ 872;Feminino;32;Juiz de Fora;NÃO;NÃO;2020-05-11
+ 873;Masculino;35;Juiz de Fora;NÃO;NÃO;2020-05-11
+ 874;Feminino;25;Pouso Alegre;NÃO;NÃO;2020-05-11
+ 875;Feminino;35;Juiz de Fora;NÃO;NÃO;2020-05-11
+ 876;Masculino;29;Juiz de Fora;NÃO;NÃO;2020-05-11
+ 877;Feminino;40;Juiz de Fora;NÃO;NÃO;2020-05-11
+ 878;Feminino;48;Juiz de Fora;NÃO;NÃO;2020-05-11
+ 879;Feminino; 1;Juiz de Fora;NÃO;NÃO;2020-05-11
+ 880;Masculino; 3;Juiz de Fora;NÃO;NÃO;2020-05-11
+ 881;Feminino;45;Juiz de Fora;NÃO;NÃO;2020-05-11
+ 882;Feminino;43;Juiz de Fora;NÃO;NÃO;2020-05-11
+ 883;Feminino;37;Toledo;NÃO;NÃO;2020-05-11
+ 884;Masculino;37;Uberlândia;NA;NA;2020-05-11
+ 885;Feminino;47;Uberlândia;NA;NA;2020-05-11
+ 886;Masculino;58;Uberlândia;NA;NA;2020-05-11
+ 887;Feminino;43;Uberlândia;SIM;NÃO;2020-05-11
+ 888;Masculino;69;Uberlândia;NA;NA;2020-05-11
+ 889;Masculino;41;Uberlândia;NA;NA;2020-05-11
+ 890;Masculino;34;São Tomás de Aquino;SIM;SIM;2020-05-11
+ 891;Masculino;30;Uberaba;NÃO;NÃO;2020-05-11
+ 892;Feminino;31;Uberaba;NÃO;NÃO;2020-05-11
+ 893;Masculino;38;Araxá;SIM;NÃO;2020-05-11
+ 894;Masculino;71;Uberaba;SIM;NÃO;2020-05-11
+ 895;Masculino;58;Belo Horizonte;NA;NA;2020-05-11
+ 896;Feminino;31;Belo Horizonte;NA;NA;2020-05-11
+ 897;Feminino;34;Belo Horizonte;NA;NA;2020-05-11
+ 898;Feminino;43;Belo Horizonte;NA;NA;2020-05-11
+ 899;Feminino;58;Lagoa Santa;SIM;NÃO;2020-05-11
+ 900;Masculino;55;Pouso Alegre;SIM;SIM;2020-05-11
+ 901;Masculino;34;Ibirité;SIM;NÃO;2020-05-11
+ 902;Feminino;53;Contagem;SIM;SIM;2020-05-11
+ 903;Masculino;35;Ibirité;NÃO;NÃO;2020-05-11
+ 904;Masculino;30;Pirapora;NÃO;NÃO;2020-05-11
+ 905;Feminino;60;Janaúba;NA;NA;2020-05-11
+ 906;Masculino;82;Belo Horizonte;SIM;SIM;2020-05-11
+ 907;Masculino;43;Pouso Alegre;NÃO;NÃO;2020-05-11
+ 908;Masculino;36;Leopoldina;SIM;NÃO;2020-05-11
+ 909;Feminino;25;Arcos;NÃO;NÃO;2020-05-11
+ 910;Feminino;52;Arcos;NÃO;NÃO;2020-05-11
+ 912;Masculino;21;Almenara;NÃO;NÃO;2020-05-11
+ 913;Feminino;89;Araxá;SIM;SIM;2020-05-11
+ 914;Masculino;40;Montes Claros;NÃO;NÃO;2020-05-11
+ 915;Masculino;33;Mariana;NÃO;NÃO;2020-05-11
+ 916;Masculino;55;Mariana;NÃO;NÃO;2020-05-11
+ 917;Feminino;44;Mariana;NÃO;NÃO;2020-05-11
+ 918;Masculino;10;Contagem;NA;NA;2020-05-11
+ 919;Feminino;26;Montes Claros;NÃO;NÃO;2020-05-11
+ 920;Feminino;34;Itapecerica;NÃO;NÃO;2020-05-11
+ 921;Feminino;38;Belo Horizonte;NA;NA;2020-05-11
+ 922;Feminino;55;Belo Horizonte;NA;NA;2020-05-11
+ 923;Feminino;67;Contagem;SIM;NA;2020-05-11
+ 924;Feminino;81;Belo Horizonte;SIM;NÃO;2020-05-11
+ 925;Feminino;46;Belo Horizonte;NA;NA;2020-05-11
+ 926;Masculino;51;Belo Horizonte;NA;NA;2020-05-11
+ 927;Feminino;68;Belo Horizonte;SIM;NA;2020-05-11
+ 928;Feminino;49;Arcos;NÃO;NÃO;2020-05-11
+ 929;Masculino;51;Contagem;NA;NA;2020-05-11
+ 930;Feminino;65;Belo Horizonte;NA;NA;2020-05-11
+ 931;Feminino;44;Belo Horizonte;NA;NA;2020-05-11
+ 932;Feminino;19;Belo Horizonte;NA;NA;2020-05-11
+ 933;Masculino;60;Belo Horizonte;SIM;NA;2020-05-11
+ 934;Feminino;48;Patrocínio;SIM;NÃO;2020-05-11
+ 935;Feminino;74;Belo Horizonte;SIM;NÃO;2020-05-11
+ 936;Feminino;79;Belo Horizonte;NA;NA;2020-05-11
+ 938;Masculino;45;Poços de Caldas;NA;NA;2020-05-11
+ 939;Feminino;53;Novo Cruzeiro;SIM;SIM;2020-05-11
+ 940;Masculino;49;Divinópolis;NÃO;NÃO;2020-05-11
+ 941;Masculino;50;Divinópolis;NÃO;NÃO;2020-05-11
+ 942;Masculino;42;Divinópolis;NÃO;NÃO;2020-05-11
+ 943;Masculino;37;Divinópolis;NÃO;NÃO;2020-05-11
+ 944;Feminino;57;Divinópolis;NÃO;NÃO;2020-05-11
+ 945;Masculino;36;Santa Luzia;NA;NA;2020-05-11
+ 946;Masculino;36;Extrema;NÃO;NÃO;2020-05-11
+ 947;Feminino;23;Extrema;NÃO;NÃO;2020-05-11
+ 948;Masculino;39;Extrema;SIM;SIM;2020-05-11
+ 949;Feminino;33;Cambuí;SIM;NÃO;2020-05-11
+ 950;Feminino;53;Cambuí;NÃO;NÃO;2020-05-11
+ 951;Feminino;48;Extrema;SIM;NA;2020-05-11
+ 952;Feminino;45;Extrema;NÃO;NÃO;2020-05-11
+ 953;Feminino;12;Uberlândia;NA;NA;2020-05-11
+ 954;Feminino;33;Uberlândia;NA;NA;2020-05-11
+ 955;Masculino;63;Uberlândia;SIM;NA;2020-05-11
+ 956;Masculino;46;Varginha;NÃO;NÃO;2020-05-11
+ 957;Feminino;39;Varginha;NÃO;NÃO;2020-05-11
+ 958;Feminino;40;Itanhandu;NÃO;NÃO;2020-05-11
+ 960;Masculino;66;Alfenas;SIM;NÃO;2020-05-11
+ 961;Masculino;39;Juiz de Fora;NÃO;NÃO;2020-05-11
+ 962;Feminino;48;Juiz de Fora;NÃO;NÃO;2020-05-11
+ 963;Masculino;30;Juiz de Fora;NÃO;NÃO;2020-05-11
+ 964;Feminino;21;Juiz de Fora;NÃO;NÃO;2020-05-11
+ 965;Feminino;51;Juiz de Fora;NÃO;NÃO;2020-05-11
+ 966;Masculino;25;Juiz de Fora;NÃO;NÃO;2020-05-11
+ 967;Feminino;28;Juiz de Fora;NÃO;NÃO;2020-05-11
+ 968;Masculino;30;Goianá;NÃO;NÃO;2020-05-11
+ 970;Feminino;76;Belmiro Braga;SIM;SIM;2020-05-11
+ 971;Feminino;33;Belo Horizonte;NA;NA;2020-05-11
+ 972;Masculino;40;Contagem;SIM;NÃO;2020-05-11
+ 973;Feminino;66;Contagem;SIM;NA;2020-05-11
+ 974;Masculino;27;Juiz de Fora;NÃO;NÃO;2020-05-11
+ 975;Feminino;31;Contagem;NA;NA;2020-05-11
+ 976;Masculino;28;Belo Horizonte;NA;NA;2020-05-11
+ 977;Masculino;69;Coromandel;SIM;SIM;2020-05-11
+ 978;Masculino;51;Belo Horizonte;NA;NA;2020-05-11
+ 979;Masculino;35;Belo Horizonte;NA;NA;2020-05-11
+ 980;Feminino;84;Belo Horizonte;SIM;SIM;2020-05-11
+ 981;Masculino;74;Belo Horizonte;NA;NA;2020-05-11
+ 982;Masculino;33;São João Del Rei;NÃO;NÃO;2020-05-11
+ 983;Masculino;71;Belo Horizonte;SIM;NA;2020-05-11
+ 984;Feminino;30;Belo Horizonte;SIM;NÃO;2020-05-11
+ 985;Masculino;56;Patos de Minas;NA;NA;2020-05-11
+ 986;Feminino;22;Itabira;NÃO;NÃO;2020-05-11
+ 987;Feminino;25;Belo Horizonte;NA;NA;2020-05-11
+ 988;Feminino;30;Belo Horizonte;NA;NA;2020-05-11
+ 989;Masculino;37;Belo Horizonte;NA;NA;2020-05-11
+ 990;Feminino;37;Patos de Minas;NA;NA;2020-05-11
+ 991;Feminino;42;Belo Horizonte;NA;NA;2020-05-11
+ 992;Masculino;56;Itabira;NÃO;NÃO;2020-05-11
+ 993;Feminino;60;Belo Horizonte;NA;NA;2020-05-11
+ 994;Feminino;63;Itabira;NÃO;NÃO;2020-05-11
+ 995;Feminino;76;Belo Horizonte;NA;NA;2020-05-11
+ 996;Feminino;76;Belo Horizonte;NA;NA;2020-05-11
+ 997;Masculino;40;Belo Horizonte;NA;NA;2020-05-11
+ 998;Feminino;38;Uberaba;NA;NA;2020-05-11
+ 999;Feminino;28;Varginha;NÃO;NÃO;2020-05-11
+1000;Feminino;31;Belo Horizonte;NÃO;NÃO;2020-05-11
+1001;Masculino;49;Belo Horizonte;NÃO;NÃO;2020-05-11
+1002;Masculino;69;Divinópolis;SIM;SIM;2020-05-11
+1003;Masculino;41;Monte Azul;SIM;NÃO;2020-05-11
+1004;Feminino;53;Montes Claros;SIM;NÃO;2020-05-11
+1005;Feminino;23;Sete Lagoas;NÃO;NÃO;2020-05-11
+1006;Masculino;73;Patrocínio;SIM;SIM;2020-05-11
+1007;Feminino;73;Uberlândia;SIM;NA;2020-05-11
+1008;Masculino;18;Contagem;NA;NA;2020-05-11
+1009;Masculino;74;Contagem;SIM;NÃO;2020-05-11
+1010;Feminino;33;Contagem;NA;NA;2020-05-11
+1011;Feminino;39;Caeté;NA;NA;2020-05-11
+1012;Masculino;55;Itaúna;SIM;NA;2020-05-11
+1013;Feminino;76;Juiz de Fora;SIM;NÃO;2020-05-11
+1014;Masculino;87;Conselheiro Lafaiete;SIM;SIM;2020-05-11
+1015;Feminino;55;Camanducaia;SIM;NÃO;2020-05-11
+1016;Masculino;50;Itaguara;SIM;NÃO;2020-05-11
+1017;Feminino;24;Guaxupé;NÃO;NÃO;2020-05-11
+1018;Masculino;75;Uberlândia;SIM;NÃO;2020-05-11
+1019;Masculino;23;Timóteo;NÃO;NÃO;2020-05-11
+1020;Feminino;72;São Sebastião do Paraíso;SIM;SIM;2020-05-11
+1021;Masculino;47;Munhoz;SIM;NÃO;2020-05-11
+1022;Feminino;47;Munhoz;SIM;NÃO;2020-05-11
+1023;Masculino;28;Munhoz;NÃO;NÃO;2020-05-11
+1024;Masculino;66;Camanducaia;NÃO;NÃO;2020-05-11
+1025;Masculino;17;Monte Carmelo;NÃO;NÃO;2020-05-11
+1026;Feminino;59;Coromandel;NÃO;NÃO;2020-05-11
+1027;Masculino;37;Paracatu;NÃO;NÃO;2020-05-11
+1028;Masculino; 2;Paracatu;NÃO;NÃO;2020-05-11
+1029;Feminino;39;Paracatu;NÃO;NÃO;2020-05-11
+1030;Masculino;49;Boa Esperança;NÃO;NÃO;2020-05-11
+1031;Feminino;36;Boa Esperança;NÃO;NÃO;2020-05-11
+1032;Masculino;21;Boa Esperança;NÃO;NÃO;2020-05-11
+1033;Feminino;29;Barbacena;SIM;SIM;2020-05-11
+1034;Feminino;38;Belo Horizonte;NA;NA;2020-05-11
+1035;Feminino;34;Uberlândia;NA;NA;2020-05-11
+1036;Masculino;42;Belo Horizonte;SIM;NÃO;2020-05-11
+1037;Feminino;32;Belo Horizonte;NA;NA;2020-05-11
+1038;Feminino;89;Pará de Minas;SIM;NÃO;2020-05-11
+1039;Feminino;45;Santos Dumont;SIM;NÃO;2020-05-11
+1040;Masculino;57;Lavras;NÃO;NÃO;2020-05-11
+1041;Masculino;65;Belo Horizonte;NA;NA;2020-05-11
+1042;Masculino;41;Belo Horizonte;NA;NA;2020-05-11
+1043;Feminino;51;Itapecerica;NÃO;NÃO;2020-05-11
+1044;Masculino;76;Belo Horizonte;SIM;NÃO;2020-05-11
+1045;Feminino;49;Belo Horizonte;NA;NA;2020-05-11
+1046;Feminino;60;Belo Horizonte;NA;NA;2020-05-11
+1047;Feminino;46;Belo Horizonte;NA;NA;2020-05-11
+1048;Masculino;60;Patos de Minas;NA;NA;2020-05-11
+1049;Masculino;79;Contagem;SIM;NÃO;2020-05-11
+1050;Masculino;50;Belo Horizonte;SIM;NÃO;2020-05-11
+1051;Masculino;45;Belo Horizonte;NA;NA;2020-05-11
+1052;Feminino;70;Belo Horizonte;SIM;NA;2020-05-11
+1053;Feminino;49;Cataguases;SIM;SIM;2020-05-11
+1054;Feminino;72;Três Pontas;SIM;SIM;2020-05-11
+1055;Masculino;84;Cataguases;SIM;SIM;2020-05-11
+1056;Masculino;28;Belo Horizonte;SIM;NÃO;2020-05-11
+1057;Masculino;26;Belo Horizonte;NA;NA;2020-05-11
+1058;Masculino;39;Nazareno;SIM;NA;2020-05-11
+1059;Feminino;34;Espera Feliz;NA;NA;2020-05-11
+1060;Masculino;27;Itanhandu;SIM;NÃO;2020-05-11
+1061;Feminino;26;Belo Horizonte;NA;NA;2020-05-11
+1062;Masculino;45;Belo Horizonte;NA;NA;2020-05-11
+1063;Feminino;69;Muriaé;SIM;SIM;2020-05-11
+1064;Feminino;40;São Tomás de Aquino;NÃO;NÃO;2020-05-11
+1065;Masculino;44;Mariana;NÃO;NÃO;2020-05-11
+1066;Feminino;50;Mariana;SIM;NÃO;2020-05-11
+1067;Masculino;36;Coronel Fabriciano;NÃO;NÃO;2020-05-11
+1068;Masculino;21;Coronel Fabriciano;NÃO;NÃO;2020-05-11
+1069;Masculino;16;Coronel Fabriciano;NÃO;NÃO;2020-05-11
+1070;Masculino;49;Governador Valadares;NÃO;NÃO;2020-05-11
+1071;Masculino;84;Juiz de Fora;SIM;SIM;2020-05-11
+1072;Masculino;46;Juiz de Fora;NÃO;NÃO;2020-05-11
+1073;Masculino;39;Juiz de Fora;NÃO;NÃO;2020-05-11
+1074;Masculino;53;Juiz de Fora;NÃO;NÃO;2020-05-11
+1075;Feminino;47;Juiz de Fora;NÃO;NÃO;2020-05-11
+1076;Feminino;28;Juiz de Fora;NÃO;NÃO;2020-05-11
+1077;Masculino;30;Juiz de Fora;NÃO;NÃO;2020-05-11
+1078;Feminino; 6;Juiz de Fora;NÃO;NÃO;2020-05-11
+1079;Masculino;53;Juiz de Fora;NÃO;NÃO;2020-05-11
+1080;Masculino;39;Espera Feliz;NÃO;NÃO;2020-05-11
+1081;Feminino;33;Manhuaçu;NÃO;NÃO;2020-05-11
+1082;Feminino;45;Montes Claros;NÃO;NÃO;2020-05-11
+1083;Feminino;44;Extrema;SIM;NÃO;2020-05-11
+1084;Feminino;37;Extrema;NÃO;NÃO;2020-05-11
+1085;Masculino;44;Poços de Caldas;SIM;SIM;2020-05-11
+1086;Feminino; 5;Poços de Caldas;NÃO;NÃO;2020-05-11
+1087;Masculino;10;Poços de Caldas;NÃO;NÃO;2020-05-11
+1088;Feminino;37;Poços de Caldas;NÃO;NÃO;2020-05-11
+1089;Feminino;38;Pouso Alegre;NÃO;NÃO;2020-05-11
+1090;Masculino;49;Varginha;NÃO;NÃO;2020-05-11
+1091;Feminino;65;Paracatu;SIM;NÃO;2020-05-11
+1092;Masculino;60;Paracatu;SIM;NÃO;2020-05-11
+1093;Feminino;73;Paracatu;NÃO;NÃO;2020-05-11
+1094;Masculino;59;Unaí;SIM;NA;2020-05-11
+1095;Masculino;75;Paracatu;SIM;NÃO;2020-05-11
+1096;Masculino;40;Uberlândia;SIM;NÃO;2020-05-11
+1097;Masculino;37;Uberlândia;NÃO;NÃO;2020-05-11
+1098;Feminino;74;Uberlândia;SIM;NÃO;2020-05-11
+1100;Masculino;27;Araxá;NÃO;NÃO;2020-05-11
+1101;Feminino;37;Belo Horizonte;NA;NA;2020-05-11
+1102;Masculino;29;Belo Horizonte;NA;NA;2020-05-11
+1103;Feminino;25;Belo Horizonte;NA;NA;2020-05-11
+1104;Masculino;17;Belo Horizonte;NA;NA;2020-05-11
+1105;Masculino;25;Belo Horizonte;SIM;SIM;2020-05-11
+1106;Feminino;37;Belo Horizonte;NA;NA;2020-05-11
+1107;Feminino;27;Belo Horizonte;NA;NA;2020-05-11
+1108;Masculino;29;Belo Horizonte;NA;NA;2020-05-11
+1109;Masculino;32;Belo Horizonte;NA;NA;2020-05-11
+1110;Feminino;44;Belo Horizonte;NA;NA;2020-05-11
+1111;Feminino;38;Belo Horizonte;NA;NA;2020-05-11
+1112;Feminino;21;Belo Horizonte;NA;NA;2020-05-11
+1113;Masculino;40;Belo Horizonte;NA;NA;2020-05-11
+1114;Feminino;33;Belo Horizonte;NA;NA;2020-05-11
+1115;Feminino;24;Belo Horizonte;NA;NA;2020-05-11
+1116;Masculino;42;Belo Horizonte;NA;NA;2020-05-11
+1117;Feminino;27;Belo Horizonte;NA;NA;2020-05-11
+1118;Masculino;36;Belo Horizonte;NA;NA;2020-05-11
+1119;Masculino;31;Formiga;NA;NA;2020-05-11
+1120;Feminino;40;Belo Horizonte;NA;NA;2020-05-11
+1121;Feminino;41;Itabira;NÃO;NÃO;2020-05-11
+1122;Feminino;51;Contagem;NA;NA;2020-05-11
+1123;Masculino;38;Extrema;NÃO;NÃO;2020-05-11
+1124;Masculino;34;Itapecerica;NÃO;NÃO;2020-05-11
+1125;Masculino;45;Juiz de Fora;SIM;NÃO;2020-05-11
+1126;Masculino;51;Juiz de Fora;SIM;NÃO;2020-05-11
+1127;Feminino;55;Patos de Minas;NA;NA;2020-05-11
+1128;Feminino;35;Patos de Minas;NA;NA;2020-05-11
+1129;Masculino;31;Patos de Minas;NA;NA;2020-05-11
+1130;Feminino;70;Porto Firme;NA;NA;2020-05-11
+1131;Masculino;46;Divinópolis;NA;NA;2020-05-11
+1132;Masculino;48;Pouso Alegre;NÃO;NÃO;2020-05-11
+1133;Feminino;29;São Sebastião do Paraíso;NÃO;NÃO;2020-05-11
+1134;Masculino;40;Belo Horizonte;NA;NA;2020-05-11
+1135;Masculino;30;Arceburgo;NÃO;NÃO;2020-05-11
+1136;Feminino;56;Conselheiro Lafaiete;NÃO;NÃO;2020-05-11
+1137;Masculino;26;Conselheiro Lafaiete;NÃO;NÃO;2020-05-11
+1138;Masculino;26;Conselheiro Lafaiete;NÃO;NÃO;2020-05-11
+1139;Masculino;53;Conselheiro Lafaiete;NÃO;NÃO;2020-05-11
+1140;Feminino;21;Conselheiro Lafaiete;NÃO;NÃO;2020-05-11
+1141;Feminino;89;Conselheiro Lafaiete;NÃO;NÃO;2020-05-11
+1142;Feminino;27;Conselheiro Lafaiete;NÃO;NÃO;2020-05-11
+1143;Masculino;58;Conselheiro Lafaiete;NÃO;NÃO;2020-05-11
+1144;Feminino;54;Conselheiro Lafaiete;NÃO;NÃO;2020-05-11
+1145;Feminino;27;Conselheiro Lafaiete;NÃO;NÃO;2020-05-11
+1146;Masculino;39;Três Pontas;NÃO;NÃO;2020-05-11
+1147;Feminino;37;Lavras;NÃO;NÃO;2020-05-11
+1148;Masculino;69;Sobrália;SIM;SIM;2020-05-11
+1149;Masculino;43;Belo Horizonte;NA;NA;2020-05-11
+1150;Feminino;38;Belo Horizonte;NA;NA;2020-05-11
+1151;Feminino;39;São José da Lapa;NA;NA;2020-05-11
+1152;Feminino;36;Lagoa Santa;NA;NA;2020-05-11
+1153;Feminino;75;Varzelândia;SIM;NA;2020-05-11
+1154;Masculino;55;Espinosa;SIM;SIM;2020-05-11
+1155;Feminino;40;Almenara;SIM;NÃO;2020-05-11
+1156;Masculino;60;Itaobim;SIM;NA;2020-05-11
+1157;Feminino;45;Sete Lagoas;NÃO;NÃO;2020-05-11
+1158;Feminino;35;Sete Lagoas;NÃO;NÃO;2020-05-11
+1159;Masculino;37;São Gotardo;SIM;NÃO;2020-05-11
+1160;Feminino;48;Belo Horizonte;SIM;NÃO;2020-05-11
+1161;Feminino;76;Belo Horizonte;SIM;NÃO;2020-05-11
+1162;Masculino;47;Contagem;SIM;NÃO;2020-05-11
+1163;Feminino;46;Belo Horizonte;SIM;NÃO;2020-05-11
+1164;Feminino;75;Carlos Chagas;SIM;NÃO;2020-05-11
+1165;Feminino;23;Belo Horizonte;NA;NA;2020-05-11
+1167;Feminino;31;Belo Horizonte;NA;NA;2020-05-11
+1168;Feminino;28;Belo Horizonte;NA;NA;2020-05-11
+1169;Masculino;49;Ipatinga;NA;NA;2020-05-11
+1170;Masculino;39;Governador Valadares;NÃO;NÃO;2020-05-11
+1171;Feminino;29;Ipatinga;NA;NA;2020-05-11
+1172;Feminino;52;Extrema;NÃO;NÃO;2020-05-11
+1173;Feminino;48;Pouso Alegre;NÃO;NÃO;2020-05-11
+1174;Feminino;58;Governador Valadares;NÃO;NÃO;2020-05-11
+1175;Masculino;54;Extrema;SIM;SIM;2020-05-11
+1176;Masculino;14;Uberaba;NA;NA;2020-05-11
+1177;Masculino;53;Santana do Paraíso;SIM;SIM;2020-05-11
+1178;Masculino;47;Betim;NÃO;NÃO;2020-05-11
+1179;Feminino;40;São José da Lapa;NA;NA;2020-05-11
+1180;Feminino;41;Santa Luzia;NA;NA;2020-05-11
+1181;Masculino;37;Sabará;NA;NA;2020-05-11
+1182;Feminino;38;Sabará;NA;NA;2020-05-11
+1183;Feminino;48;Mariana;NÃO;NÃO;2020-05-11
+1184;Feminino;35;Lagoa Santa;NA;NA;2020-05-11
+1185;Masculino;82;Belo Horizonte;SIM;NA;2020-05-11
+1186;Feminino;85;Belo Horizonte;SIM;SIM;2020-05-11
+1187;Feminino;38;Belo Horizonte;NA;NA;2020-05-11
+1188;Masculino;60;Belo Horizonte;SIM;SIM;2020-05-11
+1189;Masculino;27;Belo Horizonte;SIM;SIM;2020-05-11
+1190;Masculino;63;Belo Horizonte;NA;NA;2020-05-11
+1191;Feminino;64;Belo Horizonte;SIM;SIM;2020-05-11
+1192;Feminino;91;Belo Horizonte;SIM;SIM;2020-05-11
+1193;Feminino;58;Divinópolis;NA;NA;2020-05-11
+1194;Masculino;60;Belo Horizonte;SIM;SIM;2020-05-11
+1195;Feminino;34;Belo Horizonte;NA;NA;2020-05-11
+1196;Masculino;58;Morro da Garça;SIM;SIM;2020-05-11
+1197;Feminino;43;Divinópolis;NA;NA;2020-05-11
+1198;Masculino;57;Belo Horizonte;SIM;NA;2020-05-11
+1199;Masculino;49;Espírito Santo do Dourado;SIM;NÃO;2020-05-11
+1200;Feminino;72;Guaxupé;SIM;SIM;2020-05-11
+1201;Feminino;24;Itanhandu;NÃO;NÃO;2020-05-11
+1202;Feminino;44;Pouso Alegre;NÃO;NÃO;2020-05-11
+1203;Feminino;32;Belo Horizonte;SIM;NA;2020-05-11
+1204;Masculino;58;Extrema;SIM;SIM;2020-05-11
+1205;Masculino;38;Extrema;NÃO;NÃO;2020-05-11
+1206;Masculino;80;Extrema;SIM;SIM;2020-05-11
+1207;Masculino;58;João Monlevade;NÃO;NÃO;2020-05-11
+1208;Feminino;56;Lavras;NÃO;NÃO;2020-05-11
+1209;Feminino;43;Belo Horizonte;NA;NA;2020-05-11
+1210;Masculino;69;Maripá de Minas;SIM;NÃO;2020-05-11
+1211;Feminino;43;Juiz de Fora;NÃO;NÃO;2020-05-11
+1212;Feminino;35;Patos de Minas;NA;NA;2020-05-11
+1213;Masculino;50;Contagem;NA;NA;2020-05-11
+1214;Masculino;43;Contagem;NA;NA;2020-05-11
+1215;Masculino;25;Belo Horizonte;NA;NA;2020-05-11
+1216;Feminino;28;Belo Horizonte;NA;NA;2020-05-11
+1217;Masculino;32;Belo Horizonte;NA;NA;2020-05-11
+1218;Feminino;49;Divinópolis;NA;NA;2020-05-11
+1219;Masculino;42;Divinópolis;NA;NA;2020-05-11
+1220;Masculino;45;Belo Horizonte;SIM;NA;2020-05-11
+1221;Masculino;70;Uberaba;SIM;SIM;2020-05-11
+1222;Feminino;35;Uberaba;NA;NA;2020-05-11
+1223;Masculino;37;Juiz de Fora;NÃO;NÃO;2020-05-11
+1224;Masculino;35;Juiz de Fora;NÃO;NÃO;2020-05-11
+1225;Masculino;36;Juiz de Fora;SIM;NÃO;2020-05-11
+1226;Feminino;39;Formiga;NA;NA;2020-05-11
+1227;Feminino;62;Mariana;NÃO;NÃO;2020-05-11
+1228;Feminino;30;Muriaé;NÃO;NÃO;2020-05-11
+1229;Masculino;73;Belo Horizonte;NA;NA;2020-05-11
+1230;Feminino;38;Extrema;SIM;NA;2020-05-11
+1231;Feminino;20;Muriaé;NÃO;NÃO;2020-05-11
+1232;Masculino;61;Barbacena;SIM;SIM;2020-05-11
+1233;Masculino;31;Santana do Paraíso;NÃO;NÃO;2020-05-11
+1234;Feminino;30;Ipatinga;NÃO;NÃO;2020-05-11
+1235;Feminino;72;Santos Dumont;SIM;SIM;2020-05-11
+1236;Masculino;75;Santos Dumont;SIM;SIM;2020-05-11
+1237;Feminino;37;Ferros;NÃO;NÃO;2020-05-11
+1238;Masculino; 7;Mariana;NÃO;NÃO;2020-05-11
+1239;Feminino;25;Belo Horizonte;NA;NA;2020-05-11
+1240;Masculino;36;Ferros;SIM;NÃO;2020-05-11
+1241;Feminino;75;Governador Valadares;SIM;SIM;2020-05-11
+1242;Masculino;72;Uberaba;SIM;SIM;2020-05-11
+1243;Feminino;48;Belo Horizonte;NA;NA;2020-05-11
+1244;Masculino;75;São Francisco;SIM;NÃO;2020-05-11
+1245;Feminino;55;Juiz de Fora;SIM;NÃO;2020-05-11
+1246;Feminino;54;Juiz de Fora;NÃO;NÃO;2020-05-11
+1247;Masculino;48;Juiz de Fora;NÃO;NÃO;2020-05-11
+1248;Masculino;52;Patos de Minas;NA;NA;2020-05-11
+1249;Feminino;38;Uberlândia;SIM;NA;2020-05-11
+1250;Masculino;70;Contagem;SIM;SIM;2020-05-11
+1251;Feminino;64;Contagem;SIM;NA;2020-05-11
+1252;Masculino;95;Belo Vale;SIM;SIM;2020-05-11
+1253;Feminino;64;Contagem;SIM;NA;2020-05-11
+1254;Feminino;85;Contagem;SIM;NÃO;2020-05-11
+1255;Feminino;31;Itapecerica;NÃO;NÃO;2020-05-11
+1256;Feminino;38;Nova Lima;NÃO;NÃO;2020-05-11
+1257;Feminino;21;Itapecerica;NÃO;NÃO;2020-05-11
+1258;Masculino;87;Belo Horizonte;SIM;SIM;2020-05-11
+1259;Feminino;43;Contagem;NA;NA;2020-05-11
+1260;Feminino;32;Belo Horizonte;NA;NA;2020-05-11
+1261;Feminino;47;Belo Horizonte;NA;NA;2020-05-11
+1262;Feminino;57;Belo Horizonte;NA;NA;2020-05-11
+1263;Masculino;40;Belo Horizonte;NA;NA;2020-05-11
+1264;Feminino;54;Belo Horizonte;NA;NA;2020-05-11
+1265;Masculino;31;Belo Horizonte;NA;NA;2020-05-11
+1266;Masculino;25;Belo Horizonte;SIM;NÃO;2020-05-11
+1267;Feminino;46;Belo Horizonte;NA;NA;2020-05-11
+1268;Feminino;45;Belo Horizonte;NA;NA;2020-05-11
+1270;Masculino;22;Belo Horizonte;NA;NA;2020-05-11
+1271;Masculino;22;Belo Horizonte;NA;NA;2020-05-11
+1272;Feminino;23;Belo Horizonte;NA;NA;2020-05-11
+1273;Feminino;34;Jaboticatubas;NA;NA;2020-05-11
+1274;Masculino;54;São Geraldo da Piedade;SIM;SIM;2020-05-11
+1275;Feminino;86;Belo Horizonte;SIM;NA;2020-05-11
+1276;Masculino;73;Belo Horizonte;SIM;NA;2020-05-11
+1277;Feminino;61;Mariana;NÃO;NÃO;2020-05-11
+1278;Feminino;52;Mariana;NÃO;NÃO;2020-05-11
+1279;Feminino;46;Toledo;NÃO;NÃO;2020-05-11
+1280;Masculino;55;Extrema;NÃO;NÃO;2020-05-11
+1281;Feminino;34;São Brás do Suaçuí;NÃO;NÃO;2020-05-11
+1282;Masculino;71;Conselheiro Lafaiete;NÃO;NÃO;2020-05-11
+1283;Masculino;59;Boa Esperança;NÃO;NÃO;2020-05-11
+1284;Masculino;44;Governador Valadares;NÃO;NÃO;2020-05-11
+1285;Masculino;26;OUTROS;NA;NA;2020-05-11
+1286;Feminino;13;Nova Lima;NÃO;NÃO;2020-05-11
+1287;Masculino;35;Nova Lima;NA;NA;2020-05-11
+1288;Feminino;61;Nova Lima;NA;NA;2020-05-11
+1289;Feminino;39;Nova Lima;NA;NA;2020-05-11
+1290;Feminino;63;São João Del Rei;SIM;NÃO;2020-05-11
+1291;Feminino;37;Teófilo Otoni;NÃO;NÃO;2020-05-11
+1292;Feminino;53;Santa Luzia;NA;NA;2020-05-11
+1293;Feminino;26;Belo Horizonte;NA;NA;2020-05-11
+1294;Masculino;27;Espera Feliz;NA;NA;2020-05-11
+1295;Feminino;59;Belo Horizonte;SIM;NA;2020-05-11
+1296;Feminino;42;Belo Horizonte;NA;NA;2020-05-11
+1297;Masculino;39;João Monlevade;SIM;NÃO;2020-05-11
+1298;Masculino;34;Belo Horizonte;NA;NA;2020-05-11
+1299;Masculino;39;Uberlândia;NA;NA;2020-05-11
+1300;Masculino;56;Belo Horizonte;NA;NA;2020-05-11
+1301;Masculino;55;Uberlândia;NA;NA;2020-05-11
+1302;Masculino;60;Belo Horizonte;NA;NA;2020-05-11
+1303;Masculino;51;Ituiutaba;SIM;NÃO;2020-05-11
+1304;Feminino;36;João Monlevade;SIM;NÃO;2020-05-11
+1305;Masculino;32;Uberlândia;NA;NA;2020-05-11
+1306;Feminino;37;Uberaba;NA;NA;2020-05-11
+1307;Feminino;53;Santa Luzia;NA;NA;2020-05-11
+1308;Feminino;28;Lagoa da Prata;NA;NA;2020-05-11
+1309;Feminino;54;Uberaba;NA;NA;2020-05-11
+1310;Masculino;78;Uberaba;SIM;SIM;2020-05-11
+1311;Feminino;49;Três Marias;SIM;NÃO;2020-05-11
+1312;Masculino;46;Uberlândia;NA;NA;2020-05-11
+1313;Masculino;52;São Romão;NÃO;NÃO;2020-05-11
+1314;Masculino;41;São Francisco;SIM;NA;2020-05-11
+1315;Masculino;85;Belo Horizonte;SIM;NÃO;2020-05-11
+1316;Feminino;46;Belo Horizonte;NA;NA;2020-05-11
+1317;Feminino;48;Ipatinga;NÃO;NÃO;2020-05-11
+1318;Feminino;24;Espera Feliz;NÃO;NÃO;2020-05-11
+1319;Feminino;11;Itajubá;NÃO;NÃO;2020-05-11
+1320;Feminino;35;Itajubá;NÃO;NÃO;2020-05-11
+1321;Masculino;52;Itajubá;NÃO;NÃO;2020-05-11
+1322;Masculino;48;OUTROS;NÃO;NÃO;2020-05-11
+1323;Masculino;41;Poços de Caldas;NÃO;NÃO;2020-05-11
+1324;Masculino;35;Poços de Caldas;NÃO;NÃO;2020-05-11
+1325;Masculino;49;Cambuquira;SIM;SIM;2020-05-11
+1326;Masculino;42;Boa Esperança;NÃO;NÃO;2020-05-11
+1328;Feminino;37;Belo Horizonte;NA;NA;2020-05-11
+1329;Feminino;52;Belo Horizonte;NA;NA;2020-05-11
+1330;Masculino;39;Belo Horizonte;SIM;NÃO;2020-05-11
+1331;Masculino;54;Belo Horizonte;SIM;NÃO;2020-05-11
+1332;Feminino;29;Belo Horizonte;NA;NA;2020-05-11
+1333;Feminino;27;Belo Horizonte;NA;NA;2020-05-11
+1334;Masculino;20;Belo Horizonte;NA;NA;2020-05-11
+1335;Masculino;39;Belo Horizonte;NA;NA;2020-05-11
+1336;Masculino;29;Belo Horizonte;NA;NA;2020-05-11
+1337;Masculino;27;Contagem;NA;NA;2020-05-11
+1338;Feminino;29;Contagem;NA;NA;2020-05-11
+1339;Feminino;82;Tupaciguara;NA;NA;2020-05-11
+1340;Masculino;12;Tupaciguara;NA;NA;2020-05-11
+1341;Feminino;57;Tupaciguara;NA;NA;2020-05-11
+1342;Feminino;41;Paracatu;NÃO;NÃO;2020-05-11
+1343;Masculino;66;OUTROS;SIM;NÃO;2020-05-11
+1344;Masculino;43;Ribeirão das Neves;NA;NA;2020-05-11
+1345;Feminino;42;Nova Lima;NA;NA;2020-05-11
+1347;Feminino;62;Belo Horizonte;SIM;NÃO;2020-05-11
+1348;Masculino;25;Pouso Alegre;NÃO;NÃO;2020-05-11
+1349;Feminino;42;Belo Horizonte;NA;NA;2020-05-11
+1351;Masculino;60;Contagem;SIM;NÃO;2020-05-11
+1352;Masculino;66;Belo Horizonte;NA;NA;2020-05-11
+1353;Feminino;38;Belo Horizonte;NA;NA;2020-05-11
+1354;Feminino;43;Santa Luzia;NA;NA;2020-05-11
+1355;Masculino;48;Betim;NA;NA;2020-05-11
+1356;Masculino;30;Belo Horizonte;NA;NA;2020-05-11
+1357;Feminino;80;Belo Horizonte;NA;NA;2020-05-11
+1358;Masculino;59;Belo Horizonte;NA;NA;2020-05-11
+1359;Masculino;35;Belo Horizonte;NA;NA;2020-05-11
+1360;Feminino;44;Belo Horizonte;NÃO;NÃO;2020-05-11
+1361;Masculino;19;Belo Horizonte;NA;NA;2020-05-11
+1362;Feminino;43;Belo Horizonte;NA;NA;2020-05-11
+1363;Masculino;66;Belo Horizonte;SIM;SIM;2020-05-11
+1364;Masculino;53;Contagem;SIM;SIM;2020-05-11
+1365;Masculino;46;Belo Horizonte;NA;NA;2020-05-11
+1366;Masculino;41;Juiz de Fora;SIM;SIM;2020-05-11
+1367;Feminino;40;Belo Horizonte;NA;NA;2020-05-11
+1368;Feminino;30;Caeté;NA;NA;2020-05-11
+1369;Feminino;91;Juiz de Fora;SIM;NÃO;2020-05-11
+1370;Feminino;53;Governador Valadares;SIM;SIM;2020-05-11
+1371;Masculino;38;Belo Horizonte;NA;NA;2020-05-11
+1372;Masculino;50;Belo Horizonte;NA;NA;2020-05-11
+1373;Masculino;45;Patrocínio;NA;NA;2020-05-11
+1374;Feminino;29;Uberlândia;NA;NA;2020-05-11
+1375;Masculino;53;Coromandel;NA;NA;2020-05-11
+1376;Feminino;33;Patrocínio;NA;NA;2020-05-11
+1377;Feminino;42;Uberlândia;SIM;NÃO;2020-05-11
+1378;Feminino;73;Coromandel;NA;NA;2020-05-11
+1379;Masculino;40;Uberlândia;NA;NA;2020-05-11
+1380;Feminino;53;Uberlândia;NA;NA;2020-05-11
+1381;Feminino;30;Patrocínio;NA;NA;2020-05-11
+1382;Masculino;21;Uberlândia;NA;NA;2020-05-11
+1383;Feminino;21;Patrocínio;NA;NA;2020-05-11
+1384;Masculino;66;Patrocínio;NA;NA;2020-05-11
+1385;Feminino;38;Patrocínio;NA;NA;2020-05-11
+1386;Masculino;55;Uberlândia;NA;NA;2020-05-11
+1387;Feminino;24;Uberlândia;NA;NA;2020-05-11
+1388;Feminino;50;Uberlândia;NA;NA;2020-05-11
+1389;Feminino;77;Patrocínio;NA;NA;2020-05-11
+1390;Feminino;46;Patrocínio;NA;NA;2020-05-11
+1391;Feminino;36;Uberlândia;NA;NA;2020-05-11
+1392;Masculino;41;Uberlândia;NA;NA;2020-05-11
+1393;Feminino;36;Uberlândia;NA;NA;2020-05-11
+1394;Masculino;14;Patrocínio;NA;NA;2020-05-11
+1395;Masculino;47;Uberlândia;NA;NA;2020-05-11
+1396;Feminino;77;Patrocínio;NA;NA;2020-05-11
+1397;Feminino;74;Juiz de Fora;SIM;SIM;2020-05-11
+1399;Masculino;83;Belo Horizonte;SIM;NA;2020-05-11
+1400;Masculino;60;Mariana;NÃO;NÃO;2020-05-11
+1401;Feminino;63;Mariana;NA;NA;2020-05-11
+1402;Masculino;40;Divinópolis;NA;NA;2020-05-11
+1403;Masculino;46;Divinópolis;NA;NA;2020-05-11
+1404;Masculino;69;Divinópolis;NA;NA;2020-05-11
+1405;Masculino;40;Divinópolis;NA;NA;2020-05-11
+1406;Feminino;36;Divinópolis;NA;NA;2020-05-11
+1407;Feminino;64;Divinópolis;NA;NA;2020-05-11
+1408;Masculino;56;Divinópolis;NA;NA;2020-05-11
+1409;Feminino;50;Coromandel;NA;NA;2020-05-11
+1410;Feminino;31;Divinópolis;NA;NA;2020-05-11
+1411;Feminino;42;Uberlândia;NA;NA;2020-05-11
+1412;Masculino; 5;Divinópolis;NÃO;NÃO;2020-05-11
+1413;Masculino;59;Divinópolis;NA;NA;2020-05-11
+1414;Masculino;84;Além Paraíba;SIM;NÃO;2020-05-11
+1415;Masculino;81;Belo Horizonte;SIM;SIM;2020-05-11
+1416;Feminino;21;Ipatinga;NÃO;NÃO;2020-05-11
+1417;Feminino;29;Belo Oriente;NÃO;NÃO;2020-05-11
+1418;Masculino;39;Itabira;NÃO;NÃO;2020-05-11
+1419;Masculino;28;Senhora do Porto;NÃO;NÃO;2020-05-11
+1420;Masculino;39;Itabira;NÃO;NÃO;2020-05-11
+1421;Feminino;57;Espera Feliz;SIM;SIM;2020-05-11
+1422;Masculino;68;Montes Claros;NÃO;NÃO;2020-05-11
+1423;Masculino;53;Estiva;SIM;NÃO;2020-05-11
+1424;Feminino;42;Itajubá;NÃO;NÃO;2020-05-11
+1425;Feminino;23;Itajubá;NÃO;NÃO;2020-05-11
+1426;Masculino;30;Ouro Fino;NÃO;NÃO;2020-05-11
+1427;Feminino;29;Poços de Caldas;NÃO;NÃO;2020-05-11
+1428;Masculino;24;Poços de Caldas;NÃO;NÃO;2020-05-11
+1429;Feminino;39;Poços de Caldas;NÃO;NÃO;2020-05-11
+1430;Feminino;30;Uberaba;NÃO;NÃO;2020-05-11
+1431;Feminino;60;Uberaba;SIM;SIM;2020-05-11
+1432;Feminino;34;Uberaba;NÃO;NÃO;2020-05-11
+1433;Masculino;49;Uberaba;SIM;SIM;2020-05-11
+1434;Masculino;73;Uberlândia;NA;NA;2020-05-11
+1435;Feminino;15;Uberlândia;NA;NA;2020-05-11
+1436;Feminino;69;Uberlândia;NA;NA;2020-05-11
+1437;Masculino;62;Uberlândia;NA;NA;2020-05-11
+1438;Masculino;27;OUTROS;NA;NA;2020-05-11
+1439;Feminino;22;OUTROS;NÃO;NÃO;2020-05-11
+1440;Masculino;47;Uberlândia;NA;NA;2020-05-11
+1441;Masculino;77;OUTROS;SIM;NÃO;2020-05-11
+1442;Feminino;27;Belo Horizonte;NA;NA;2020-05-11
+1443;Feminino;23;Belo Horizonte;NA;NA;2020-05-11
+1444;Masculino;73;São Lourenço;NÃO;NÃO;2020-05-11
+1445;Masculino;29;São Lourenço;NÃO;NÃO;2020-05-11
+1446;Feminino;49;Belo Horizonte;NA;NA;2020-05-11
+1447;Feminino;25;Belo Horizonte;NA;NA;2020-05-11
+1448;Masculino;36;Betim;NA;NA;2020-05-11
+1449;Masculino;32;Belo Horizonte;NA;NA;2020-05-11
+1450;Masculino;30;Almenara;NÃO;NÃO;2020-05-11
+1451;Feminino;66;Almenara;NÃO;NÃO;2020-05-11
+1452;Masculino;39;Almenara;NÃO;NÃO;2020-05-11
+1453;Masculino;66;Mariana;NÃO;NÃO;2020-05-11
+1454;Feminino;72;Ibirité;SIM;NÃO;2020-05-11
+1455;Masculino;62;Martinho Campos;SIM;SIM;2020-05-11
+1456;Masculino;47;Barbacena;SIM;SIM;2020-05-11
+1457;Feminino;29;Belo Horizonte;NA;NA;2020-05-11
+1458;Feminino;39;Juiz de Fora;SIM;NÃO;2020-05-11
+1459;Masculino;37;Belo Horizonte;NA;NA;2020-05-11
+1460;Feminino;43;Divinópolis;NA;NA;2020-05-11
+1461;Masculino;40;Divinópolis;NA;NA;2020-05-11
+1462;Feminino;76;Divinópolis;NA;NA;2020-05-11
+1463;Feminino;56;Divinópolis;NA;NA;2020-05-11
+1464;Feminino;47;Divinópolis;NA;NA;2020-05-11
+1465;Feminino;48;Divinópolis;NA;NA;2020-05-11
+1466;Masculino;63;Divinópolis;NA;NA;2020-05-11
+1467;Feminino;52;Belo Horizonte;SIM;NÃO;2020-05-11
+1468;Feminino;62;Guaxupé;SIM;SIM;2020-05-11
+1469;Feminino;50;Muzambinho;SIM;SIM;2020-05-11
+1470;Feminino;35;Ipatinga;NÃO;NÃO;2020-05-11
+1471;Feminino;34;Ipatinga;NÃO;NÃO;2020-05-11
+1472;Feminino;54;Marliéria;NÃO;NÃO;2020-05-11
+1473;Feminino;53;Marliéria;NÃO;NÃO;2020-05-11
+1474;Masculino; 9;Governador Valadares;NÃO;NÃO;2020-05-11
+1475;Feminino;37;Governador Valadares;NÃO;NÃO;2020-05-11
+1476;Feminino;13;Governador Valadares;NA;NA;2020-05-11
+1477;Masculino;13;Juiz de Fora;NÃO;NÃO;2020-05-11
+1478;Masculino; 4;Juiz de Fora;NÃO;NÃO;2020-05-11
+1479;Masculino;28;Juiz de Fora;NÃO;NÃO;2020-05-11
+1480;Feminino;41;Juiz de Fora;NÃO;NÃO;2020-05-11
+1481;Feminino;30;Juiz de Fora;NÃO;NÃO;2020-05-11
+1482;Feminino;58;Juiz de Fora;NÃO;NÃO;2020-05-11
+1483;Feminino;63;Juiz de Fora;NÃO;NÃO;2020-05-11
+1484;Feminino;65;Juiz de Fora;NÃO;NÃO;2020-05-11
+1485;Masculino;39;Juiz de Fora;NÃO;NÃO;2020-05-11
+1486;Feminino;88;Juiz de Fora;SIM;SIM;2020-05-11
+1487;Feminino;43;Juiz de Fora;NÃO;NÃO;2020-05-11
+1488;Masculino;41;Juiz de Fora;NÃO;NÃO;2020-05-11
+1489;Masculino;60;Juiz de Fora;NÃO;NÃO;2020-05-11
+1490;Feminino;29;Juiz de Fora;NÃO;NÃO;2020-05-11
+1491;Masculino;34;Bicas;NÃO;NÃO;2020-05-11
+1492;Masculino;46;Cambuí;NÃO;NÃO;2020-05-11
+1493;Masculino;55;Itajubá;NÃO;NÃO;2020-05-11
+1494;Feminino;38;Pouso Alegre;NÃO;NÃO;2020-05-11
+1495;Masculino;39;Pouso Alegre;NÃO;NÃO;2020-05-11
+1496;Masculino;75;Presidente Juscelino;SIM;SIM;2020-05-11
+1497;Feminino;11;Uberaba;NÃO;NÃO;2020-05-11
+1498;Masculino;64;OUTROS;SIM;SIM;2020-05-11
+1499;Feminino;30;OUTROS;NÃO;NÃO;2020-05-11
+1500;Feminino;51;Paracatu;NÃO;NÃO;2020-05-11
+1501;Masculino;35;Boa Esperança;SIM;NÃO;2020-05-11
+1502;Feminino;48;Varginha;NÃO;NÃO;2020-05-11
+1503;Masculino;75;Belo Horizonte;NA;NA;2020-05-11
+1504;Masculino;42;Ibirité;SIM;NÃO;2020-05-11
+1505;Feminino;47;Belo Horizonte;NA;NA;2020-05-11
+1506;Masculino;67;Santa Luzia;SIM;SIM;2020-05-11
+1507;Feminino;53;Ribeirão das Neves;SIM;NA;2020-05-11
+1508;Masculino;21;OUTROS;NÃO;NÃO;2020-05-11
+1509;Feminino;37;Ibirité;SIM;SIM;2020-05-11
+1510;Feminino;52;Juiz de Fora;SIM;NÃO;2020-05-11
+1511;Masculino;34;Belo Horizonte;NA;NA;2020-05-11
+1512;Feminino;45;Teófilo Otoni;NA;NA;2020-05-11
+1513;Masculino;50;Lagoa da Prata;NA;NA;2020-05-11
+1514;Masculino;54;Viçosa;NA;NA;2020-05-11
+1515;Feminino;28;Viçosa;NA;NA;2020-05-11
+1516;Feminino;59;Viçosa;NA;NA;2020-05-11
+1517;Feminino;54;Belo Horizonte;SIM;NÃO;2020-05-11
+1518;Masculino;37;Sabará;SIM;NÃO;2020-05-11
+1519;Feminino;26;Belo Horizonte;NA;NA;2020-05-11
+1520;Masculino;34;Faria Lemos;NÃO;NÃO;2020-05-11
+1521;Feminino;27;Imbé de Minas;NÃO;NÃO;2020-05-11
+1522;Feminino;40;Caetanópolis;NÃO;NÃO;2020-05-11
+1523;Feminino;34;Ribeirão das Neves;NA;NA;2020-05-11
+1524;Masculino;50;Belo Horizonte;NA;NA;2020-05-11
+1525;Feminino;49;Belo Horizonte;NA;NA;2020-05-11
+1526;Masculino;32;Belo Horizonte;NA;NA;2020-05-11
+1527;Feminino;59;Belo Horizonte;NA;NA;2020-05-11
+1528;Masculino;54;Belo Horizonte;SIM;SIM;2020-05-11
+1529;Masculino;76;Belo Horizonte;SIM;SIM;2020-05-11
+1530;Feminino; 1;São Lourenço;NÃO;NÃO;2020-05-11
+1531;Masculino;20;Abadia dos Dourados;NÃO;NÃO;2020-05-11
+1532;Feminino;36;Uberlândia;NÃO;NÃO;2020-05-11
+1533;Masculino;57;Uberlândia;NÃO;NÃO;2020-05-11
+1534;Feminino;64;Uberlândia;SIM;NÃO;2020-05-11
+1535;Feminino;81;Coromandel;NÃO;NÃO;2020-05-11
+1536;Feminino;34;Coromandel;NÃO;NÃO;2020-05-11
+1537;Feminino;69;Belo Horizonte;NA;NA;2020-05-11
+1538;Masculino;74;Belo Horizonte;NA;NA;2020-05-11
+1539;Masculino;56;Sabará;SIM;SIM;2020-05-11
+1540;Masculino;33;Belo Horizonte;NA;NA;2020-05-11
+1541;Feminino;21;Alfenas;NÃO;NÃO;2020-05-11
+1542;Masculino;66;Poço Fundo;SIM;SIM;2020-05-11
+1543;Feminino;46;Nova Lima;NA;NA;2020-05-11
+1544;Feminino;92;Mário Campos;SIM;NA;2020-05-11
+1545;Feminino;30;Itaguara;NÃO;NÃO;2020-05-11
+1546;Masculino;36;Itamonte;NÃO;NÃO;2020-05-11
+1547;Masculino;28;OUTROS;SIM;NÃO;2020-05-11
+1548;Masculino;11;Extrema;NÃO;NÃO;2020-05-11
+1549;Masculino;47;Senador Amaral;NA;NA;2020-05-11
+1550;Feminino;65;Marliéria;NÃO;NÃO;2020-05-11
+1551;Masculino;26;Ipatinga;NÃO;NÃO;2020-05-11
+1552;Feminino;50;Uberaba;SIM;SIM;2020-05-11
+1553;Masculino;57;Uberaba;SIM;SIM;2020-05-11
+1554;Feminino;85;Uberaba;SIM;SIM;2020-05-11
+1555;Masculino;48;Uberaba;SIM;SIM;2020-05-11
+1556;Feminino;37;Uberaba;NÃO;NÃO;2020-05-11
+1557;Masculino;44;Uberaba;NÃO;NÃO;2020-05-11
+1558;Masculino;33;Uberaba;NÃO;NÃO;2020-05-11
+1559;Feminino;41;Uberaba;NÃO;NÃO;2020-05-11
+1560;Masculino;39;Uberaba;NÃO;NÃO;2020-05-11
+1561;Masculino;40;Uberaba;NÃO;NÃO;2020-05-11
+1562;Feminino;34;Uberaba;NÃO;NÃO;2020-05-11
+1563;Masculino;59;Uberaba;NÃO;NÃO;2020-05-11
+1564;Masculino;67;Paracatu;NÃO;NÃO;2020-05-11
+1565;Feminino;55;Paracatu;NÃO;NÃO;2020-05-11
+1566;Masculino;53;Paracatu;SIM;SIM;2020-05-11
+1567;Feminino;37;Paracatu;NÃO;NÃO;2020-05-11
+1568;Masculino;74;São Romão;SIM;NÃO;2020-05-11
+1569;Masculino;50;Itajubá;SIM;SIM;2020-05-11
+1570;Feminino;30;Itapeva;NÃO;NÃO;2020-05-11
+1571;Feminino;26;Belo Horizonte;NA;NA;2020-05-11
+1572;Feminino;33;São Sebastião do Oeste;NÃO;NÃO;2020-05-11
+1573;Feminino;50;Ribeirão das Neves;SIM;NA;2020-05-11
+1574;Feminino;28;Contagem;NA;NA;2020-05-11
+1575;Feminino;26;Divinópolis;NA;NA;2020-05-11
+1576;Feminino;79;Belo Horizonte;NA;NA;2020-05-11
+1577;Feminino;44;Belo Horizonte;NA;NA;2020-05-11
+1578;Feminino;23;Belo Horizonte;NA;NA;2020-05-11
+1579;Masculino;28;Belo Horizonte;NA;NA;2020-05-11
+1580;Masculino;67;Carmo do Cajuru;SIM;SIM;2020-05-11
+1581;Masculino;27;Belo Horizonte;NA;NA;2020-05-11
+1582;Feminino;56;Pedro Leopoldo;NA;NA;2020-05-11
+1583;Feminino;58;Teófilo Otoni;NÃO;NÃO;2020-05-11
+1584;Feminino;67;Belo Horizonte;NA;NA;2020-05-11
+1585;Feminino;42;Três Pontas;NÃO;NÃO;2020-05-11
+1586;Feminino;30;Belo Horizonte;NA;NA;2020-05-11
+1587;Feminino;48;Belo Horizonte;SIM;SIM;2020-05-11
+1588;Feminino;75;Minas Novas;SIM;NÃO;2020-05-11
+1589;Feminino;55;São Francisco;NÃO;NÃO;2020-05-11
+1590;Masculino;75;São Francisco;SIM;NA;2020-05-11
+1591;Masculino;33;São Francisco;NÃO;NÃO;2020-05-11
+1592;Feminino;43;Teófilo Otoni;NÃO;NÃO;2020-05-11
+1593;Feminino;36;Santa Luzia;NA;NA;2020-05-11
+1594;Masculino;56;Montes Claros;SIM;SIM;2020-05-11
+1595;Feminino;28;Belo Horizonte;NA;NA;2020-05-11
+1596;Masculino;43;Lagoa Santa;SIM;SIM;2020-05-11
+1598;Masculino;86;Governador Valadares;SIM;NÃO;2020-05-11
+1599;Feminino;42;Belo Horizonte;SIM;NA;2020-05-11
+1600;Masculino;60;Belo Horizonte;SIM;NÃO;2020-05-11
+1601;Feminino;37;Belo Horizonte;NA;NA;2020-05-11
+1602;Masculino;37;Belo Horizonte;NA;NA;2020-05-11
+1603;Feminino;63;Belo Horizonte;SIM;SIM;2020-05-11
+1604;Feminino;69;Frutal;NÃO;NÃO;2020-05-11
+1605;Masculino;43;Frutal;NÃO;NÃO;2020-05-11
+1606;Feminino;41;Frutal;NÃO;NÃO;2020-05-11
+1607;Feminino;31;Betim;NA;NA;2020-05-11
+1608;Feminino;26;Ibirité;NÃO;NÃO;2020-05-11
+1609;Masculino;28;Ibirité;NÃO;NÃO;2020-05-11
+1610;Masculino;25;Belo Horizonte;NA;NA;2020-05-11
+1611;Masculino;46;Belo Horizonte;NA;NA;2020-05-11
+1612;Feminino;57;Belo Horizonte;NA;NA;2020-05-11
+1613;Masculino;38;Contagem;NA;NA;2020-05-11
+1614;Masculino;48;Formiga;NA;NA;2020-05-11
+1615;Masculino;60;Leopoldina;SIM;SIM;2020-05-11
+1616;Masculino;44;Santos Dumont;SIM;SIM;2020-05-11
+1617;Feminino;29;OUTROS;NA;NA;2020-05-11
+1618;Masculino;36;Além Paraíba;SIM;SIM;2020-05-11
+1619;Feminino;73;Juiz de Fora;SIM;NÃO;2020-05-11
+1620;Masculino;71;Belo Horizonte;SIM;NA;2020-05-11
+1621;Feminino;60;Belo Horizonte;NA;NA;2020-05-11
+1622;Feminino;54;Belo Horizonte;NA;NA;2020-05-11
+1623;Masculino;40;Belo Horizonte;NA;NA;2020-05-11
+1624;Feminino;36;Contagem;NA;NA;2020-05-11
+1625;Feminino;26;Belo Horizonte;NA;NA;2020-05-11
+1626;Feminino;44;Teófilo Otoni;NÃO;NÃO;2020-05-11
+1627;Feminino;46;Teófilo Otoni;NÃO;NÃO;2020-05-11
+1628;Feminino;23;Teófilo Otoni;NÃO;NÃO;2020-05-11
+1629;Feminino;25;Teófilo Otoni;NÃO;NÃO;2020-05-11
+1630;Masculino;72;São Lourenço;NA;NA;2020-05-11
+1631;Masculino; 0;Ibirité;SIM;SIM;2020-05-11
+1632;Feminino;51;Belo Horizonte;NA;NA;2020-05-11
+1633;Feminino;55;NA;NA;NA;2020-05-11
+1634;Feminino;25;Belo Horizonte;NA;NA;2020-05-11
+1635;Feminino;59;Belo Horizonte;NA;NA;2020-05-11
+1636;Feminino;28;Belo Horizonte;NA;NA;2020-05-11
+1637;Masculino;47;Betim;NA;NA;2020-05-11
+1638;Feminino;33;Betim;NA;NA;2020-05-11
+1639;Feminino;42;Santa Maria de Itabira;NA;NA;2020-05-11
+1640;Feminino;40;Carmo do Cajuru;NA;NA;2020-05-11
+1641;Masculino;37;São Lourenço;NA;NA;2020-05-11
+1642;Feminino;68;São Lourenço;NA;NA;2020-05-11
+1643;Masculino;32;Conselheiro Lafaiete;NÃO;NÃO;2020-05-11
+1644;Feminino;41;Ipatinga;NÃO;NÃO;2020-05-11
+1645;Feminino;49;Juiz de Fora;NÃO;NÃO;2020-05-11
+1646;Feminino;55;Juiz de Fora;NÃO;NÃO;2020-05-11
+1647;Masculino;18;Juiz de Fora;NÃO;NÃO;2020-05-11
+1648;Masculino;46;Juiz de Fora;NÃO;NÃO;2020-05-11
+1649;Feminino;21;Juiz de Fora;NÃO;NÃO;2020-05-11
+1650;Feminino;14;Juiz de Fora;NÃO;NÃO;2020-05-11
+1651;Feminino;67;Juiz de Fora;NÃO;NÃO;2020-05-11
+1652;Masculino;56;Juiz de Fora;NÃO;NÃO;2020-05-11
+1653;Masculino;75;Montes Claros;NÃO;NÃO;2020-05-11
+1654;Feminino;33;Montes Claros;NÃO;NÃO;2020-05-11
+1655;Feminino;68;Ouro Fino;NÃO;NÃO;2020-05-11
+1656;Masculino;53;Cambuí;NÃO;NÃO;2020-05-11
+1657;Feminino;73;Cambuí;NÃO;NÃO;2020-05-11
+1658;Masculino;81;Cambuí;NÃO;NÃO;2020-05-11
+1659;Masculino;66;Extrema;SIM;SIM;2020-05-11
+1660;Feminino;39;Três Pontas;NÃO;NÃO;2020-05-11
+1661;Masculino;18;Três Pontas;NÃO;NÃO;2020-05-11
+1662;Masculino;10;Três Pontas;NÃO;NÃO;2020-05-11
+1663;Feminino;48;Três Pontas;NA;NA;2020-05-11
+1664;Masculino;36;Três Pontas;NA;NA;2020-05-11
+1665;Feminino;44;Três Pontas;NA;NA;2020-05-11
+1666;Feminino;36;Três Corações;NÃO;NÃO;2020-05-11
+1667;Feminino;19;Varginha;NÃO;NÃO;2020-05-11
+1668;Feminino;22;Varginha;NÃO;NÃO;2020-05-11
+1669;Masculino;52;Varginha;NÃO;NÃO;2020-05-11
+1670;Feminino;31;São Sebastião do Oeste;NÃO;NÃO;2020-05-11
+1671;Feminino;29;São Sebastião do Oeste;NÃO;NÃO;2020-05-11
+1672;Masculino;39;Uberlândia;NA;NA;2020-05-11
+1673;Masculino;32;Uberlândia;NA;NA;2020-05-11
+1674;Feminino;58;Uberlândia;SIM;NÃO;2020-05-11
+1675;Feminino;44;Uberaba;NA;NA;2020-05-11
+1676;Masculino;48;Uberaba;NA;NA;2020-05-11
+1677;Masculino;54;João Monlevade;NÃO;NÃO;2020-05-11
+1678;Feminino;37;Uberlândia;SIM;NÃO;2020-05-11
+1679;Masculino;48;Uberlândia;NA;NA;2020-05-11
+1680;Feminino;39;Uberlândia;SIM;NA;2020-05-11
+1681;Feminino;39;Belo Horizonte;NA;NA;2020-05-11
+1682;Feminino;52;Belo Horizonte;NA;NA;2020-05-11
+1683;Feminino;32;Belo Horizonte;NA;NA;2020-05-11
+1684;Feminino;38;Moema;NÃO;NÃO;2020-05-11
+1686;Feminino;31;Montes Claros;NÃO;NÃO;2020-05-11
+1687;Masculino;25;Brasília de Minas;NÃO;NÃO;2020-05-11
+1688;Feminino;25;Brasília de Minas;NÃO;NÃO;2020-05-11
+1689;Masculino;35;Betim;NA;NA;2020-05-11
+1690;Masculino;30;Itatiaiuçu;NÃO;NÃO;2020-05-11
+1691;Masculino;24;Itatiaiuçu;NÃO;NÃO;2020-05-11
+1692;Masculino;46;Belo Horizonte;SIM;NÃO;2020-05-11
+1693;Masculino;33;Belo Horizonte;NA;NA;2020-05-11
+1694;Feminino;20;Belo Horizonte;NA;NA;2020-05-11
+1695;Masculino;41;Belo Horizonte;NA;NA;2020-05-11
+1696;Masculino;29;Belo Horizonte;NA;NA;2020-05-11
+1697;Feminino;22;Belo Horizonte;NA;NA;2020-05-11
+1699;Feminino;43;Perdões;NÃO;NÃO;2020-05-11
+1700;Feminino;77;Perdões;NÃO;NÃO;2020-05-11
+1701;Masculino;12;Perdões;NÃO;NÃO;2020-05-11
+1702;Masculino;48;Perdões;NÃO;NÃO;2020-05-11
+1703;Feminino;74;Perdões;NÃO;NÃO;2020-05-11
+1704;Masculino;27;Perdões;NÃO;NÃO;2020-05-11
+1705;Masculino;59;Juiz de Fora;SIM;NÃO;2020-05-11
+1706;Masculino;89;Divinópolis;SIM;SIM;2020-05-11
+1707;Feminino;22;Juiz de Fora;SIM;NÃO;2020-05-11
+1708;Masculino;83;OUTROS;SIM;SIM;2020-05-11
+1709;Feminino;45;Ibirité;NÃO;NÃO;2020-05-11
+1710;Feminino;40;Muriaé;NÃO;NÃO;2020-05-11
+1711;Feminino;37;Belo Horizonte;NÃO;NÃO;2020-05-11
+1712;Masculino;38;Nova Lima;NA;NA;2020-05-11
+1713;Feminino;39;Contagem;NA;NA;2020-05-11
+1713;Feminino;51;Divinópolis;NÃO;NÃO;2020-05-11
+1714;Masculino;26;Divinópolis;SIM;NÃO;2020-05-11
+1714;Feminino;58;Divinópolis;NA;NA;2020-05-11
+1715;Feminino;54;Divinópolis;NA;NA;2020-05-11
+1715;Masculino;41;Divinópolis;NA;NA;2020-05-11
+1716;Feminino;57;Divinópolis;NA;NA;2020-05-11
+1716;Masculino;64;Divinópolis;NÃO;NÃO;2020-05-11
+1717;Masculino;40;Divinópolis;NA;NA;2020-05-11
+1718;Masculino;29;Divinópolis;NÃO;NÃO;2020-05-11
+1720;Feminino;38;Contagem;NA;NA;2020-05-11
+1721;Feminino;40;Divinópolis;NA;NA;2020-05-11
+1722;Masculino;38;Itapecerica;NÃO;NÃO;2020-05-11
+1723;Masculino;30;Divinópolis;NA;NA;2020-05-11
+1724;Masculino;30;Divinópolis;NA;NA;2020-05-11
+1725;Feminino;66;Divinópolis;NÃO;NÃO;2020-05-11
+1726;Feminino;67;Divinópolis;NÃO;NÃO;2020-05-11
+1727;Feminino;48;Itanhandu;NÃO;NÃO;2020-05-11
+1728;Masculino;42;Lagoa da Prata;NÃO;NÃO;2020-05-11
+1729;Masculino;32;Divinópolis;NA;NA;2020-05-11
+1730;Masculino;42;Belo Horizonte;SIM;NÃO;2020-05-11
+1731;Masculino;30;Lagoa Santa;NA;NA;2020-05-11
+1732;Feminino;34;Barbacena;NA;NA;2020-05-11
+1733;Masculino;41;Ibiaí;NÃO;NÃO;2020-05-11
+1734;Feminino;49;Extrema;NÃO;NÃO;2020-05-11
+1735;Masculino;16;Extrema;NÃO;NÃO;2020-05-11
+1736;Masculino;52;Extrema;NÃO;NÃO;2020-05-11
+1737;Feminino;24;Extrema;NÃO;NÃO;2020-05-11
+1738;Masculino;29;Extrema;NÃO;NÃO;2020-05-11
+1739;Masculino;40;Bom Repouso;NÃO;NÃO;2020-05-11
+1740;Masculino;35;Bom Repouso;NÃO;NÃO;2020-05-11
+1741;Feminino;61;Cambuí;SIM;NÃO;2020-05-11
+1742;Feminino;33;Novo Cruzeiro;NÃO;NÃO;2020-05-11
+1743;Masculino;49;Muriaé;NÃO;NÃO;2020-05-11
+1744;Masculino;69;NA;NÃO;NÃO;2020-05-11
+1745;Feminino;54;Uberlândia;NA;NA;2020-05-11
+1746;Masculino;53;Uberlândia;NA;NA;2020-05-11
+1747;Feminino;44;Uberlândia;NA;NA;2020-05-11
+1748;Masculino;35;Uberlândia;NA;NA;2020-05-11
+1749;Feminino;51;Uberlândia;NA;NA;2020-05-11
+1750;Masculino;53;Uberlândia;SIM;NÃO;2020-05-11
+1751;Feminino;57;Uberlândia;NA;NA;2020-05-11
+1752;Feminino;61;Uberlândia;SIM;NÃO;2020-05-11
+1753;Feminino;22;Uberlândia;NA;NA;2020-05-11
+1754;Feminino;36;Uberlândia;NA;NA;2020-05-11
+1755;Feminino;30;Uberlândia;NA;NA;2020-05-11
+1756;Feminino;46;Varginha;NÃO;NÃO;2020-05-11
+1757;Feminino;44;Três Corações;NÃO;NÃO;2020-05-11
+1758;Feminino;23;Três Corações;NÃO;NÃO;2020-05-11
+1759;Masculino;40;Três Pontas;NÃO;NÃO;2020-05-11
+1760;Masculino;48;Alterosa;SIM;NÃO;2020-05-11
+1761;Feminino;65;Barbacena;NÃO;NÃO;2020-05-11
+1762;Masculino;25;Ipatinga;NÃO;NÃO;2020-05-11
+1763;Masculino;36;Santana do Paraíso;NÃO;NÃO;2020-05-11
+1764;Masculino;42;Santana do Paraíso;NÃO;NÃO;2020-05-11
+1765;Masculino;30;Ipatinga;NÃO;NÃO;2020-05-11
+1766;Feminino;26;Governador Valadares;NÃO;NÃO;2020-05-11
+1767;Masculino;14;Governador Valadares;NÃO;NÃO;2020-05-11
+1768;Feminino;47;Governador Valadares;NÃO;NÃO;2020-05-11
+1769;Masculino;51;Governador Valadares;SIM;SIM;2020-05-11
+1770;Feminino;47;Governador Valadares;NÃO;NÃO;2020-05-11
+1771;Masculino;45;Governador Valadares;NÃO;NÃO;2020-05-11
+1773;Feminino;71;São Francisco;NÃO;NÃO;2020-05-11
+1774;Feminino;30;Santos Dumont;NÃO;NÃO;2020-05-11
+1775;Masculino;30;Mutum;NÃO;NÃO;2020-05-11
+1776;Masculino;76;Uberlândia;SIM;NÃO;2020-05-11
+1777;Feminino;37;Nova Lima;NA;NA;2020-05-11
+1778;Masculino;48;Mariana;NÃO;NÃO;2020-05-11
+1779;Masculino;51;São Lourenço;SIM;NÃO;2020-05-11
+1780;Masculino;54;São Lourenço;NÃO;NÃO;2020-05-11
+1781;Masculino;37;Belmiro Braga;NÃO;NÃO;2020-05-11
+1782;Masculino;37;Juiz de Fora;SIM;SIM;2020-05-11
+1783;Masculino;29;Belo Horizonte;SIM;NÃO;2020-05-11
+1784;Feminino;66;Belo Horizonte;SIM;NÃO;2020-05-11
+1785;Masculino;34;São Sebastião do Paraíso;NÃO;NÃO;2020-05-11
+1786;Masculino;56;Ubá;NA;NA;2020-05-11
+1787;Feminino;66;OUTROS;SIM;SIM;2020-05-11
+1788;Feminino;23;Belo Horizonte;NA;NA;2020-05-11
+1789;Feminino;11;Belo Horizonte;NA;NA;2020-05-11
+1790;Feminino;67;Contagem;SIM;SIM;2020-05-11
+1791;Feminino;29;Belo Horizonte;NA;NA;2020-05-11
+1792;Feminino;22;Sabará;NÃO;NÃO;2020-05-11
+1793;Masculino;28;Belo Horizonte;NA;NA;2020-05-11
+1794;Feminino;50;Belo Horizonte;NA;NA;2020-05-11
+1795;Masculino;50;Belo Horizonte;NA;NA;2020-05-11
+1796;Feminino;38;Belo Horizonte;NA;NA;2020-05-11
+1797;Feminino;68;Belo Horizonte;NA;NA;2020-05-11
+1798;Masculino;30;Betim;NA;NA;2020-05-11
+1799;Masculino;24;Uberlândia;NA;NA;2020-05-11
+1800;Feminino;28;Belo Horizonte;NA;NA;2020-05-11
+1801;Masculino;34;Belo Horizonte;SIM;NÃO;2020-05-11
+1803;Masculino;57;Patos de Minas;NA;NA;2020-05-11
+1804;Feminino;61;Icaraí de Minas;NÃO;NÃO;2020-05-11
+1805;Masculino;34;Brasília de Minas;NÃO;NÃO;2020-05-11
+1806;Masculino;69;São Francisco;SIM;NA;2020-05-11
+1807;Masculino;57;Belo Horizonte;NA;NA;2020-05-11
+1808;Feminino;37;Juatuba;NÃO;NÃO;2020-05-11
+1808;Feminino;50;Toledo;NÃO;NÃO;2020-05-11
+1809;Masculino;59;Teófilo Otoni;NÃO;NÃO;2020-05-11
+1809;Masculino;27;Santa Rita do Sapucaí;NÃO;NÃO;2020-05-11
+1810;Feminino;37;Uberaba;NÃO;NÃO;2020-05-11
+1810;Feminino;39;Teófilo Otoni;NÃO;NÃO;2020-05-11
+1811;Feminino;67;Uberaba;SIM;NA;2020-05-11
+1811;Feminino;43;Belo Horizonte;NA;NA;2020-05-11
+1812;Masculino;55;Além Paraíba;SIM;NÃO;2020-05-11
+1812;Masculino;82;Paracatu;NÃO;NÃO;2020-05-11
+1813;Feminino;60;Além Paraíba;SIM;NÃO;2020-05-11
+1813;Masculino;47;Itamonte;NÃO;NÃO;2020-05-11
+1814;Masculino;43;Belo Horizonte;SIM;NÃO;2020-05-11
+1814;Feminino;52;Divisa Nova;NÃO;NÃO;2020-05-11
+1815;Feminino;80;Betim;SIM;SIM;2020-05-11
+1815;Masculino;32;Nova Serrana;NA;NA;2020-05-11
+1816;Masculino;50;Juiz de Fora;SIM;NÃO;2020-05-11
+1816;Feminino;32;Nova Serrana;NA;NA;2020-05-11
+1817;Feminino;48;Governador Valadares;NÃO;NÃO;2020-05-11
+1817;Feminino;74;Juiz de Fora;SIM;SIM;2020-05-11
+1818;Masculino;51;Governador Valadares;NÃO;NÃO;2020-05-11
+1818;Masculino;31;Juiz de Fora;NÃO;NÃO;2020-05-11
+1819;Feminino;65;Juiz de Fora;SIM;SIM;2020-05-11
+1820;Feminino;61;Juiz de Fora;NÃO;NÃO;2020-05-11
+1821;Feminino;61;Juiz de Fora;NÃO;NÃO;2020-05-11
+1822;Masculino;42;Juiz de Fora;NÃO;NÃO;2020-05-11
+1823;Feminino;64;Juiz de Fora;NÃO;NÃO;2020-05-11
+1824;Masculino;43;Juiz de Fora;NÃO;NÃO;2020-05-11
+1825;Masculino;43;Juiz de Fora;NÃO;NÃO;2020-05-11
+1826;Feminino;38;Juiz de Fora;NÃO;NÃO;2020-05-11
+1827;Feminino;69;Juiz de Fora;NÃO;NÃO;2020-05-11
+1828;Feminino;37;Juiz de Fora;NÃO;NÃO;2020-05-11
+1829;Masculino;61;Juiz de Fora;NÃO;NÃO;2020-05-11
+1830;Feminino;56;Juiz de Fora;NÃO;NÃO;2020-05-11
+1831;Masculino;23;Juiz de Fora;NÃO;NÃO;2020-05-11
+1832;Masculino;30;Juiz de Fora;NÃO;NÃO;2020-05-11
+1833;Feminino;48;Montes Claros;NÃO;NÃO;2020-05-11
+1834;Masculino;19;Montes Claros;NÃO;NÃO;2020-05-11
+1835;Masculino;40;Uberlândia;NÃO;NÃO;2020-05-11
+1836;Feminino;49;Uberlândia;NÃO;NÃO;2020-05-11
+1837;Masculino;31;Uberlândia;NÃO;NÃO;2020-05-11
+1838;Masculino;40;Uberlândia;NÃO;NÃO;2020-05-11
+1839;Feminino;42;Uberlândia;NÃO;NÃO;2020-05-11
+1840;Feminino;21;Uberlândia;NÃO;NÃO;2020-05-11
+1841;Feminino; 8;Uberlândia;NÃO;NÃO;2020-05-11
+1842;Masculino;34;Uberlândia;NÃO;NÃO;2020-05-11
+1843;Masculino;30;Uberlândia;NÃO;NÃO;2020-05-11
+1844;Masculino;40;Uberlândia;NÃO;NÃO;2020-05-11
+1845;Masculino;51;Uberlândia;NÃO;NÃO;2020-05-11
+1846;Masculino;46;Uberlândia;NÃO;NÃO;2020-05-11
+1847;Masculino;34;Uberlândia;NÃO;NÃO;2020-05-11
+1848;Masculino;31;Uberlândia;NÃO;NÃO;2020-05-11
+1849;Feminino;45;NA;NÃO;NÃO;2020-05-11
+1851;Feminino;48;Belo Horizonte;NA;NA;2020-05-11
+1852;Feminino;48;Belo Horizonte;NA;NA;2020-05-11
+1853;Masculino;24;Belo Horizonte;NA;NA;2020-05-11
+1854;Masculino;27;Belo Horizonte;NA;NA;2020-05-11
+1855;Feminino;56;Belo Horizonte;NA;NA;2020-05-11
+1856;Masculino;25;Sabará;NÃO;NÃO;2020-05-11
+1857;Masculino;61;Nova Serrana;SIM;SIM;2020-05-11
+1858;Masculino;45;Belo Horizonte;SIM;SIM;2020-05-11
+1859;Feminino;37;Belo Horizonte;NA;NA;2020-05-11
+1860;Feminino;74;Belo Horizonte;NÃO;NÃO;2020-05-11
+1861;Feminino;35;Belo Horizonte;NA;NA;2020-05-11
+1862;Masculino;41;Belo Horizonte;NA;NA;2020-05-11
+1863;Feminino;23;Belo Horizonte;NA;NA;2020-05-11
+1864;Masculino;30;Betim;NA;NA;2020-05-11
+1865;Masculino;27;Botelhos;NA;NA;2020-05-11
+1866;Feminino;50;Caeté;NA;NA;2020-05-11
+1867;Feminino;47;Contagem;NA;NA;2020-05-11
+1868;Feminino;25;Lagoa da Prata;NÃO;NÃO;2020-05-11
+1869;Masculino;68;Belo Horizonte;SIM;NÃO;2020-05-11
+1870;Feminino;66;Planura;SIM;NÃO;2020-05-11
+1871;Feminino;39;Santa Luzia;NA;NA;2020-05-11
+1872;Feminino;30;São João Del Rei;NÃO;NÃO;2020-05-11
+1873;Masculino;44;São João Del Rei;SIM;NÃO;2020-05-11
+1874;Feminino;55;Timóteo;NÃO;NÃO;2020-05-11
+1875;Feminino;33;Belo Horizonte;NA;NA;2020-05-11
+1876;Feminino;40;Belo Horizonte;NA;NA;2020-05-11
+1877;Feminino;84;Montes Claros;SIM;NÃO;2020-05-11
+1878;Feminino;51;Teófilo Otoni;NÃO;NÃO;2020-05-11
+1879;Feminino;39;Teófilo Otoni;NÃO;NÃO;2020-05-11
+1880;Feminino;59;Teófilo Otoni;NÃO;NÃO;2020-05-11
+1881;Feminino;28;Teófilo Otoni;NÃO;NÃO;2020-05-11
+1882;Feminino;44;Teófilo Otoni;NÃO;NÃO;2020-05-11
+1883;Masculino;31;Teófilo Otoni;NÃO;NÃO;2020-05-11
+1884;Feminino;24;Além Paraíba;NÃO;NÃO;2020-05-11
+1885;Masculino;46;Além Paraíba;NÃO;NÃO;2020-05-11
+1886;Masculino;31;Além Paraíba;NÃO;NÃO;2020-05-11
+1887;Feminino;31;Brasília de Minas;NÃO;NÃO;2020-05-11
+1888;Masculino;30;Brasília de Minas;NÃO;NÃO;2020-05-11
+1889;Feminino;60;Belo Horizonte;SIM;NÃO;2020-05-11
+1890;Feminino;29;Belo Horizonte;SIM;SIM;2020-05-11
+1891;Masculino;44;Curvelo;SIM;NÃO;2020-05-11
+1892;Feminino;50;Contagem;NA;NA;2020-05-11
+1893;Feminino;50;Teófilo Otoni;NÃO;NÃO;2020-05-11
+1894;Feminino;84;Pouso Alegre;SIM;SIM;2020-05-11
+1895;Masculino;70;Bueno Brandão;SIM;SIM;2020-05-11
+1896;Masculino;84;Vazante;NA;NA;2020-05-11
+1897;Feminino;28;Lagoa Santa;NA;NA;2020-05-11
+1898;Masculino;54;Botelhos;NÃO;NÃO;2020-05-11
+1899;Feminino;63;Alfenas;NÃO;NÃO;2020-05-11
+1900;Feminino;60;Alfenas;NÃO;NÃO;2020-05-11
+1901;Feminino;42;Alfenas;NÃO;NÃO;2020-05-11
+1902;Feminino;48;Conselheiro Lafaiete;NÃO;NÃO;2020-05-11
+1903;Feminino;67;Itabira;NÃO;NÃO;2020-05-11
+1904;Masculino;71;Itabira;NÃO;NÃO;2020-05-11
+1905;Masculino;25;Governador Valadares;NÃO;NÃO;2020-05-11
+1906;Feminino;20;Governador Valadares;NÃO;NÃO;2020-05-11
+1907;Masculino;31;Cataguases;NÃO;NÃO;2020-05-11
+1908;Masculino;41;Leopoldina;SIM;NÃO;2020-05-11
+1909;Feminino;49;Montes Claros;SIM;NA;2020-05-11
+1910;Masculino;76;Montes Claros;SIM;SIM;2020-05-11
+1911;Feminino;36;Porteirinha;NA;NA;2020-05-11
+1912;Feminino;64;Senador José Bento;NÃO;NÃO;2020-05-11
+1913;Feminino;46;Estiva;NÃO;NÃO;2020-05-11
+1914;Feminino;51;Itajubá;NÃO;NÃO;2020-05-11
+1915;Masculino;68;Pouso Alegre;NÃO;NÃO;2020-05-11
+1916;Masculino;36;Pouso Alegre;NÃO;NÃO;2020-05-11
+1917;Masculino;68;Pouso Alegre;NÃO;NÃO;2020-05-11
+1918;Feminino;51;Pouso Alegre;NÃO;NÃO;2020-05-11
+1919;Masculino;28;Catuji;NÃO;NÃO;2020-05-11
+1920;Feminino;32;Catuji;NÃO;NÃO;2020-05-11
+1921;Feminino;19;Catuji;NÃO;NÃO;2020-05-11
+1922;Masculino;35;Muriaé;NÃO;NÃO;2020-05-11
+1923;Masculino;22;Uberaba;NÃO;NÃO;2020-05-11
+1924;Masculino;42;Uberlândia;NÃO;NÃO;2020-05-11
+1925;Feminino;26;Uberlândia;NÃO;NÃO;2020-05-11
+1926;Masculino;43;Uberlândia;NÃO;NÃO;2020-05-11
+1927;Masculino;22;Uberlândia;NÃO;NÃO;2020-05-11
+1928;Feminino;50;Uberlândia;NÃO;NÃO;2020-05-11
+1929;Masculino;20;Uberlândia;NÃO;NÃO;2020-05-11
+1930;Feminino;50;Uberlândia;NÃO;NÃO;2020-05-11
+1931;Feminino;49;Uberlândia;NÃO;NÃO;2020-05-11
+1932;Feminino;16;Uberlândia;NÃO;NÃO;2020-05-11
+1933;Feminino;35;Uberlândia;NÃO;NÃO;2020-05-11
+1934;Masculino;55;Uberlândia;NÃO;NÃO;2020-05-11
+1935;Masculino;45;Unaí;NÃO;NÃO;2020-05-11
+1936;Feminino;40;Paracatu;SIM;SIM;2020-05-11
+1937;Masculino; 4;Unaí;NÃO;NÃO;2020-05-11
+1938;Masculino; 0;Unaí;NÃO;NÃO;2020-05-11
+1939;Feminino;18;Unaí;NÃO;NÃO;2020-05-11
+1940;Masculino;51;Unaí;NÃO;NÃO;2020-05-11
+1941;Feminino;56;Unaí;NÃO;NÃO;2020-05-11
+1942;Masculino;39;Varginha;NÃO;NÃO;2020-05-11
+1943;Masculino;62;Varginha;NÃO;NÃO;2020-05-11
+1944;Masculino;47;Brumadinho;SIM;SIM;2020-05-11
+1945;Masculino;65;Belo Horizonte;SIM;NÃO;2020-05-11
+1946;Feminino;25;Araguari;NA;NA;2020-05-11
+1947;Masculino;30;Juiz de Fora;NÃO;NÃO;2020-05-11
+1948;Masculino;60;Belo Horizonte;SIM;NÃO;2020-05-11
+1949;Masculino;52;Uberlândia;NA;NA;2020-05-11
+1950;Masculino;39;Contagem;NA;NA;2020-05-11
+1951;Masculino;21;Belo Horizonte;NA;NA;2020-05-11
+1952;Feminino;57;Belo Horizonte;SIM;NÃO;2020-05-11
+1953;Feminino;40;Brumadinho;SIM;SIM;2020-05-11
+1954;Feminino;59;Divinópolis;SIM;NÃO;2020-05-11
+1955;Feminino;34;Patos de Minas;NA;NA;2020-05-11
+1956;Masculino;57;Belo Horizonte;SIM;NÃO;2020-05-11
+1957;Feminino;59;Belo Horizonte;NA;NA;2020-05-11
+1958;Masculino;63;Belo Horizonte;NA;NA;2020-05-11
+1959;Masculino;28;Belo Horizonte;NA;NA;2020-05-11
+1960;Feminino;88;Belo Horizonte;NA;NA;2020-05-11
+1961;Masculino;43;Betim;NA;NA;2020-05-11
+1962;Feminino;45;Nova Lima;NA;NA;2020-05-11
+1963;Masculino;52;Belo Horizonte;NA;NA;2020-05-11
+1964;Feminino;47;Belo Horizonte;NA;NA;2020-05-11
+1965;Masculino;27;Igarapé;NA;NA;2020-05-11
+1966;Feminino;46;Raposos;NA;NA;2020-05-11
+1967;Feminino;56;Ribeirão das Neves;NA;NA;2020-05-11
+1968;Feminino;37;Belo Horizonte;NA;NA;2020-05-11
+1969;Feminino; 5;Mariana;SIM;NÃO;2020-05-11
+1970;Feminino;43;Poté;NA;NA;2020-05-11
+1971;Feminino;47;Varginha;SIM;NÃO;2020-05-11
+1972;Feminino;41;Varginha;SIM;NÃO;2020-05-11
+1973;Feminino;24;Barbacena;NA;NA;2020-05-11
+1975;Feminino;30;OUTROS;NA;NA;2020-05-11
+1976;Masculino;47;Sete Lagoas;NÃO;NÃO;2020-05-11
+1977;Masculino;28;Conselheiro Lafaiete;NÃO;NÃO;2020-05-11
+1978;Masculino;34;Barbacena;NÃO;NÃO;2020-05-11
+1979;Masculino;37;Barbacena;NÃO;NÃO;2020-05-11
+1980;Feminino;67;São Romão;NÃO;NÃO;2020-05-11
+1981;Feminino;50;São Francisco;NÃO;NÃO;2020-05-11
+1982;Feminino;34;Juiz de Fora;NÃO;NÃO;2020-05-11
+1983;Feminino;26;Juiz de Fora;NÃO;NÃO;2020-05-11
+1984;Masculino;26;Juiz de Fora;NÃO;NÃO;2020-05-11
+1985;Masculino;52;Juiz de Fora;NÃO;NÃO;2020-05-11
+1986;Feminino;69;Juiz de Fora;NÃO;NÃO;2020-05-11
+1987;Masculino;27;Juiz de Fora;NÃO;NÃO;2020-05-11
+1988;Masculino;30;Juiz de Fora;NÃO;NÃO;2020-05-11
+1989;Feminino;33;Juiz de Fora;NÃO;NÃO;2020-05-11
+1990;Masculino;40;Juiz de Fora;NÃO;NÃO;2020-05-11
+1991;Masculino;40;Juiz de Fora;NÃO;NÃO;2020-05-11
+1992;Feminino;30;Juiz de Fora;NÃO;NÃO;2020-05-11
+1993;Feminino;24;Juiz de Fora;SIM;NÃO;2020-05-11
+1994;Feminino;55;Juiz de Fora;NÃO;NÃO;2020-05-11
+1995;Feminino;42;Juiz de Fora;NÃO;NÃO;2020-05-11
+1996;Masculino;31;Juiz de Fora;NÃO;NÃO;2020-05-11
+1997;Masculino;36;Juiz de Fora;NÃO;NÃO;2020-05-11
+1998;Feminino;26;Juiz de Fora;NÃO;NÃO;2020-05-11
+1999;Masculino; 9;Juiz de Fora;NÃO;NÃO;2020-05-11
+2000;Masculino;44;Juiz de Fora;NÃO;NÃO;2020-05-11
+2001;Masculino;23;Juiz de Fora;NÃO;NÃO;2020-05-11
+2002;Feminino;34;Juiz de Fora;NÃO;NÃO;2020-05-11
+2003;Masculino;31;Juiz de Fora;NÃO;NÃO;2020-05-11
+2004;Feminino;27;Leopoldina;NÃO;NÃO;2020-05-11
+2005;Masculino;19;Pouso Alegre;NÃO;NÃO;2020-05-11
+2006;Masculino;55;Pouso Alegre;NÃO;NÃO;2020-05-11
+2007;Masculino;66;Pouso Alegre;NÃO;NÃO;2020-05-11
+2008;Masculino;58;Pouso Alegre;NÃO;NÃO;2020-05-11
+2009;Masculino;57;Pouso Alegre;NÃO;NÃO;2020-05-11
+2010;Masculino;53;Pouso Alegre;NÃO;NÃO;2020-05-11
+2011;Masculino;41;Pouso Alegre;NÃO;NÃO;2020-05-11
+2012;Masculino;20;Pouso Alegre;NÃO;NÃO;2020-05-11
+2013;Feminino;42;Pouso Alegre;NÃO;NÃO;2020-05-11
+2014;Masculino;36;Pouso Alegre;NÃO;NÃO;2020-05-11
+2015;Feminino;37;Senador Amaral;NÃO;NÃO;2020-05-11
+2016;Feminino;28;Extrema;NÃO;NÃO;2020-05-11
+2017;Masculino;29;Extrema;NÃO;NÃO;2020-05-11
+2018;Feminino;21;Extrema;NÃO;NÃO;2020-05-11
+2019;Masculino;45;Extrema;SIM;SIM;2020-05-11
+2020;Feminino;26;Extrema;NÃO;NÃO;2020-05-11
+2021;Masculino;19;Extrema;NÃO;NÃO;2020-05-11
+2022;Masculino;13;Extrema;NÃO;NÃO;2020-05-11
+2023;Feminino;47;Extrema;NÃO;NÃO;2020-05-11
+2024;Feminino;21;Extrema;NÃO;NÃO;2020-05-11
+2025;Feminino;58;Varginha;SIM;NÃO;2020-05-11
+2026;Feminino;36;Três Corações;SIM;NÃO;2020-05-11
+2027;Feminino;57;Governador Valadares;NÃO;NÃO;2020-05-11
+2028;Masculino;55;Ribeirão das Neves;NA;NA;2020-05-11
+2029;Feminino;39;Ribeirão das Neves;NA;NA;2020-05-11
+2030;Feminino;40;Belo Horizonte;NA;NA;2020-05-11
+2031;Feminino;43;Belo Horizonte;NA;NA;2020-05-11
+2032;Feminino;40;Belo Horizonte;NA;NA;2020-05-11
+2033;Masculino;69;Belo Horizonte;SIM;SIM;2020-05-11
+2034;Feminino;46;Almenara;NA;NA;2020-05-11
+2035;Masculino;23;OUTROS;NÃO;NÃO;2020-05-11
+2036;Masculino;41;Uberaba;NÃO;NÃO;2020-05-11
+2037;Masculino;65;Uberaba;NÃO;NÃO;2020-05-11
+2038;Feminino;63;Uberaba;NÃO;NÃO;2020-05-11
+2039;Masculino;33;Planura;NÃO;NÃO;2020-05-11
+2040;Masculino;51;Fronteira;SIM;SIM;2020-05-11
+2041;Masculino;50;Belo Horizonte;NA;NA;2020-05-11
+2042;Feminino;49;Belo Horizonte;NA;NA;2020-05-11
+2043;Feminino;51;Belo Horizonte;NA;NA;2020-05-11
+2044;Feminino;28;Belo Horizonte;NA;NA;2020-05-11
+2045;Feminino;22;Belo Horizonte;NA;NA;2020-05-11
+2047;Masculino;67;Belo Horizonte;SIM;SIM;2020-05-11
+2048;Masculino;59;Belo Horizonte;NA;NA;2020-05-11
+2049;Masculino;37;Belo Horizonte;NA;NA;2020-05-11
+2050;Masculino;28;Belo Horizonte;NA;NA;2020-05-11
+2051;Masculino;81;Itacarambi;NÃO;NÃO;2020-05-11
+2052;Feminino;76;Pouso Alegre;Sim;NA;2020-05-11
+2053;Masculino;56;Patos de Minas;NA;NA;2020-05-11
+2054;Feminino;57;Araguari;SIM;NA;2020-05-11
+2055;Feminino;31;Curvelo;NA;NA;2020-05-11
+2056;Feminino;37;Juiz de Fora;NÃO;NÃO;2020-05-11
+2057;Masculino;36;Juiz de Fora;NÃO;NÃO;2020-05-11
+2058;Feminino;35;Belo Horizonte;NA;NA;2020-05-11
+2059;Feminino;75;Belo Horizonte;NA;NA;2020-05-11
+2060;Feminino;30;Belo Horizonte;NA;NA;2020-05-11
+2061;Masculino;80;Belo Horizonte;NA;NA;2020-05-11
+2062;Feminino;79;Belo Horizonte;NA;NA;2020-05-11
+2063;Masculino;41;Perdizes;SIM;SIM;2020-05-11
+2064;Masculino;57;Belo Horizonte;NA;NA;2020-05-11
+2065;Masculino;37;Divinópolis;NA;NA;2020-05-11
+2066;Masculino;51;Divinópolis;SIM;SIM;2020-05-11
+2067;Feminino;44;Belo Horizonte;NA;NA;2020-05-11
+2068;Feminino;36;Belo Horizonte;NA;NA;2020-05-11
+2069;Masculino;51;São João Del Rei;NÃO;NÃO;2020-05-11
+2070;Masculino;26;Belo Horizonte;NA;NA;2020-05-11
+2071;Feminino;42;Belo Horizonte;SIM;SIM;2020-05-11
+2072;Feminino;63;Divinópolis;NA;NA;2020-05-11
+2073;Masculino;67;Capinópolis;NÃO;NÃO;2020-05-11
+2074;Masculino;57;Ituiutaba;NÃO;NÃO;2020-05-11
+2075;Feminino;31;Juiz de Fora;NÃO;NÃO;2020-05-11
+2076;Masculino;80;Alto Jequitibá;SIM;SIM;2020-05-11
+2077;Feminino;40;Nova Lima;NA;NA;2020-05-11
+2078;Feminino;44;Montes Claros;NÃO;NÃO;2020-05-11
+2079;Feminino;40;Governador Valadares;SIM;NÃO;2020-05-11
+2080;Feminino;40;Nova Lima;NA;NA;2020-05-11
+2081;Feminino;25;Nova Lima;NA;NA;2020-05-11
+2082;Feminino;38;Nova Lima;NA;NA;2020-05-11
+2083;Masculino;72;Nova Lima;NA;NA;2020-05-11
+2084;Masculino;36;Nova Lima;NA;NA;2020-05-11
+2085;Masculino;54;Nova Lima;NA;NA;2020-05-11
+2086;Masculino;59;Nova Lima;NA;NA;2020-05-11
+2087;Masculino;59;Nova Lima;NA;NA;2020-05-11
+2088;Masculino;62;Nova Lima;NA;NA;2020-05-11
+2089;Masculino;48;Nova Lima;NA;NA;2020-05-11
+2090;Masculino;76;Nova Lima;NA;NA;2020-05-11
+2091;Feminino;49;Nova Lima;NA;NA;2020-05-11
+2092;Masculino;55;Nova Lima;NA;NA;2020-05-11
+2093;Masculino;43;Nova Lima;NA;NA;2020-05-11
+2094;Feminino;65;Nova Lima;NA;NA;2020-05-11
+2095;Feminino;11;Nova Lima;NA;NA;2020-05-11
+2096;Feminino;32;Nova Lima;NA;NA;2020-05-11
+2097;Feminino;70;Nova Lima;NA;NA;2020-05-11
+2098;Feminino;35;Nova Lima;NA;NA;2020-05-11
+2099;Masculino;35;Nova Lima;NA;NA;2020-05-11
+2100;Masculino;36;Nova Lima;NA;NA;2020-05-11
+2101;Feminino;41;Nova Lima;NA;NA;2020-05-11
+2102;Feminino;64;Nova Lima;NA;NA;2020-05-11
+2103;Masculino;52;Nova Lima;NA;NA;2020-05-11
+2104;Masculino;41;Nova Lima;NA;NA;2020-05-11
+2105;Feminino;51;Nova Lima;NA;NA;2020-05-11
+2106;Masculino;37;Nova Lima;NA;NA;2020-05-11
+2107;Masculino;42;Nova Lima;NA;NA;2020-05-11
+2108;Masculino;41;Nova Lima;NA;NA;2020-05-11
+2109;Masculino;51;Conselheiro Lafaiete;NÃO;NÃO;2020-05-11
+2110;Masculino;31;Caratinga;NÃO;NÃO;2020-05-11
+2111;Feminino;54;Timóteo;NÃO;NÃO;2020-05-11
+2112;FEMININO;62;Poços de Caldas;NÃO;NÃO;2020-05-11
+2113;Masculino;32;Poços de Caldas;NÃO;NÃO;2020-05-11
+2114;Masculino;32;Poços de Caldas;NÃO;NÃO;2020-05-11
+2115;FEMININO;36;Poços de Caldas;NÃO;NÃO;2020-05-11
+2116;Masculino;60;Poços de Caldas;NÃO;NÃO;2020-05-11
+2117;Masculino;49;Camanducaia;SIM;SIM;2020-05-11
+2118;Feminino;37;Camanducaia;SIM;NÃO;2020-05-11
+2119;Feminino;22;Camanducaia;SIM;NÃO;2020-05-11
+2120;Masculino;41;Cambuí;NÃO;NÃO;2020-05-11
+2121;Masculino;35;Camanducaia;SIM;SIM;2020-05-11
+2122;Masculino;28;Itajubá;NÃO;NÃO;2020-05-11
+2123;Feminino;44;Estiva;SIM;NÃO;2020-05-11
+2124;Masculino;52;Poços de Caldas;NÃO;NÃO;2020-05-11
+2125;Masculino;41;Poços de Caldas;NÃO;NÃO;2020-05-11
+2126;Masculino;66;Brumadinho;NÃO;NÃO;2020-05-11
+2127;Feminino;77;Brumadinho;NÃO;NÃO;2020-05-11
+2128;Feminino;31;Juiz de Fora;NÃO;NÃO;2020-05-11
+2129;Masculino;36;Juiz de Fora;NÃO;NÃO;2020-05-11
+2130;Feminino;23;Lima Duarte;NÃO;NÃO;2020-05-11
+2131;Feminino;54;Belo Horizonte;NA;NA;2020-05-11
+2132;Masculino;43;Uberaba;NÃO;NÃO;2020-05-11
+2133;Masculino;33;Belo Horizonte;NA;NA;2020-05-11
+2134;Feminino;39;Belo Horizonte;NA;NA;2020-05-11
+2135;Feminino;33;Belo Horizonte;NA;NA;2020-05-11
+2136;Masculino;17;Belo Horizonte;NA;NA;2020-05-11
+2137;Feminino;20;Belo Horizonte;NA;NA;2020-05-11
+2138;Masculino;24;OUTROS;NA;NA;2020-05-11
+2139;Masculino;54;Belo Horizonte;NA;NA;2020-05-11
+2140;Masculino;44;Belo Horizonte;NA;NA;2020-05-11
+2141;Feminino;51;Belo Horizonte;NA;NA;2020-05-11
+2142;Feminino;48;Belo Horizonte;NA;NA;2020-05-11
+2143;Feminino;46;Belo Horizonte;NA;NA;2020-05-11
+2144;Masculino;53;Belo Horizonte;NA;NA;2020-05-11
+2145;Feminino;44;Belo Horizonte;NA;NA;2020-05-11
+2146;Masculino;57;Belo Horizonte;NA;NA;2020-05-11
+2147;Feminino;49;Belo Horizonte;NA;NA;2020-05-11
+2148;Feminino;30;Belo Horizonte;NA;NA;2020-05-11
+2149;Feminino;44;Belo Horizonte;NA;NA;2020-05-11
+2150;Feminino;45;Belo Horizonte;NA;NA;2020-05-11
+2151;Feminino;44;Belo Horizonte;NA;NA;2020-05-11
+2152;Masculino;52;Belo Horizonte;NA;NA;2020-05-11
+2153;Masculino;64;Belo Horizonte;NA;NA;2020-05-11
+2154;Feminino;72;Belo Horizonte;NA;NA;2020-05-11
+2155;Feminino;65;Belo Horizonte;NA;NA;2020-05-11
+2156;Feminino;27;Belo Horizonte;NA;NA;2020-05-11
+2157;Feminino;68;Belo Horizonte;NA;NA;2020-05-11
+2158;Feminino;50;Belo Horizonte;NA;NA;2020-05-11
+2159;Feminino;65;Belo Horizonte;NA;NA;2020-05-11
+2160;Masculino;43;Belo Horizonte;NA;NA;2020-05-11
+2161;Masculino;28;Belo Horizonte;NA;NA;2020-05-11
+2162;Masculino;40;Belo Horizonte;NA;NA;2020-05-11
+2163;Masculino;36;Belo Horizonte;NA;NA;2020-05-11
+2164;Masculino;62;Belo Horizonte;NA;NA;2020-05-11
+2165;Feminino;52;Belo Horizonte;NA;NA;2020-05-11
+2166;Feminino;41;Belo Horizonte;NA;NA;2020-05-11
+2167;Feminino;25;Belo Horizonte;NA;NA;2020-05-11
+2168;Masculino;41;Belo Horizonte;NA;NA;2020-05-11
+2169;Feminino;58;Belo Horizonte;NA;NA;2020-05-11
+2170;Masculino;48;Belo Horizonte;NA;NA;2020-05-11
+2171;Masculino;60;Belo Horizonte;NA;NA;2020-05-11
+2172;Feminino;47;Belo Horizonte;NA;NA;2020-05-11
+2173;Feminino;49;Belo Horizonte;NA;NA;2020-05-11
+2174;Feminino;71;Belo Horizonte;NA;NA;2020-05-11
+2175;Feminino;67;Belo Horizonte;NA;NA;2020-05-11
+2176;Feminino;48;Belo Horizonte;NA;NA;2020-05-11
+2177;Feminino;43;Belo Horizonte;NA;NA;2020-05-11
+2178;Masculino;47;Belo Horizonte;NA;NA;2020-05-11
+2179;Feminino;48;Belo Horizonte;NA;NA;2020-05-11
+2180;Feminino;51;Belo Horizonte;NA;NA;2020-05-11
+2181;Masculino; 4;Belo Horizonte;NA;NA;2020-05-11
+2182;Feminino;67;Belo Horizonte;NA;NA;2020-05-11
+2183;Feminino;53;Belo Horizonte;NA;NA;2020-05-11
+2184;Feminino;62;Belo Horizonte;NA;NA;2020-05-11
+2185;Feminino;71;Belo Horizonte;NA;NA;2020-05-11
+2186;Feminino;76;Belo Horizonte;NA;NA;2020-05-11
+2187;Masculino;57;Belo Horizonte;NA;NA;2020-05-11
+2188;Masculino;72;Belo Horizonte;NA;NA;2020-05-11
+2189;Feminino;48;Belo Horizonte;NA;NA;2020-05-11
+2190;Masculino;37;Belo Horizonte;NA;NA;2020-05-11
+2191;Masculino;45;Belo Horizonte;NA;NA;2020-05-11
+2192;Feminino;40;Belo Horizonte;NA;NA;2020-05-11
+2193;Feminino;42;Belo Horizonte;NA;NA;2020-05-11
+2194;Feminino;35;Belo Horizonte;NA;NA;2020-05-11
+2195;Masculino;69;Belo Horizonte;NA;NA;2020-05-11
+2196;Masculino;45;Belo Horizonte;NA;NA;2020-05-11
+2197;Feminino;63;Belo Horizonte;NA;NA;2020-05-11
+2198;Masculino;42;Belo Horizonte;NA;NA;2020-05-11
+2199;Masculino;26;Belo Horizonte;NA;NA;2020-05-11
+2200;Feminino;27;Belo Horizonte;NA;NA;2020-05-11
+2201;Feminino;34;Belo Horizonte;NA;NA;2020-05-11
+2202;Masculino;61;Belo Horizonte;SIM;SIM;2020-05-11
+2203;Feminino;43;Belo Horizonte;NA;NA;2020-05-11
+2204;Feminino;55;Belo Horizonte;NA;NA;2020-05-11
+2205;Feminino;61;Belo Horizonte;NA;NA;2020-05-11
+2206;Masculino;57;Belo Horizonte;NA;NA;2020-05-11
+2207;Masculino;30;Belo Horizonte;NA;NA;2020-05-11
+2208;Masculino;28;Belo Horizonte;NA;NA;2020-05-11
+2209;Masculino;37;Belo Horizonte;NA;NA;2020-05-11
+2210;Masculino;47;Belo Horizonte;NA;NA;2020-05-11
+2211;Masculino;51;Belo Horizonte;NA;NA;2020-05-11
+2212;Masculino;37;Belo Horizonte;NA;NA;2020-05-11
+2213;Masculino;46;Belo Horizonte;NA;NA;2020-05-11
+2214;Masculino;38;Belo Horizonte;NA;NA;2020-05-11
+2215;Masculino;29;Belo Horizonte;NA;NA;2020-05-11
+2216;Masculino;56;Belo Horizonte;NA;NA;2020-05-11
+2217;Masculino;61;Belo Horizonte;NA;NA;2020-05-11
+2218;Masculino;43;Belo Horizonte;NA;NA;2020-05-11
+2219;Masculino;59;Belo Horizonte;NA;NA;2020-05-11
+2220;Masculino;36;Belo Horizonte;NA;NA;2020-05-11
+2221;Masculino;86;Belo Horizonte;NA;NA;2020-05-11
+2222;Masculino;28;Belo Horizonte;NA;NA;2020-05-11
+2223;Masculino;40;Belo Horizonte;NA;NA;2020-05-11
+2224;Feminino;55;Belo Horizonte;NA;NA;2020-05-11
+2225;Masculino;66;Belo Horizonte;NA;NA;2020-05-11
+2226;Masculino;67;Belo Horizonte;NA;NA;2020-05-11
+2227;Masculino;60;Belo Horizonte;NA;NA;2020-05-11
+2228;Feminino;18;Belo Horizonte;NA;NA;2020-05-11
+2229;Feminino;32;Belo Horizonte;NA;NA;2020-05-11
+2230;Feminino;28;Belo Horizonte;NA;NA;2020-05-11
+2231;Feminino;42;Belo Horizonte;NA;NA;2020-05-11
+2232;Feminino;43;Belo Horizonte;NA;NA;2020-05-11
+2233;Feminino;51;Belo Horizonte;NA;NA;2020-05-11
+2234;Feminino;59;Belo Horizonte;NA;NA;2020-05-11
+2235;Feminino;34;Belo Horizonte;NA;NA;2020-05-11
+2236;Feminino;61;Belo Horizonte;NA;NA;2020-05-11
+2237;Feminino;44;Belo Horizonte;NA;NA;2020-05-11
+2238;Feminino;68;Belo Horizonte;NA;NA;2020-05-11
+2239;Feminino;45;Belo Horizonte;NA;NA;2020-05-11
+2240;Feminino;30;Belo Horizonte;NA;NA;2020-05-11
+2241;Feminino;73;Belo Horizonte;NA;NA;2020-05-11
+2242;Feminino;24;Belo Horizonte;NA;NA;2020-05-11
+2243;Masculino;54;Belo Horizonte;NA;NA;2020-05-11
+2244;Feminino;49;Belo Horizonte;NA;NA;2020-05-11
+2245;Feminino;36;Belo Horizonte;NA;NA;2020-05-11
+2246;Feminino;44;Belo Horizonte;NA;NA;2020-05-11
+2247;Feminino;36;Belo Horizonte;NA;NA;2020-05-11
+2248;Feminino;33;Belo Horizonte;NA;NA;2020-05-11
+2249;Feminino;67;Belo Horizonte;NA;NA;2020-05-11
+2250;Feminino;27;Belo Horizonte;NA;NA;2020-05-11
+2251;Masculino;16;Belo Horizonte;NA;NA;2020-05-11
+2252;Feminino;50;Belo Horizonte;NA;NA;2020-05-11
+2253;Masculino;59;Belo Horizonte;NA;NA;2020-05-11
+2254;Feminino;39;Belo Horizonte;NA;NA;2020-05-11
+2255;Feminino;35;Belo Horizonte;NA;NA;2020-05-11
+2256;Feminino;26;Belo Horizonte;NA;NA;2020-05-11
+2257;Feminino;28;Belo Horizonte;NA;NA;2020-05-11
+2258;Feminino;29;Belo Horizonte;NA;NA;2020-05-11
+2259;Feminino;29;Belo Horizonte;NA;NA;2020-05-11
+2260;Feminino;38;Belo Horizonte;NA;NA;2020-05-11
+2261;Masculino;39;Belo Horizonte;NA;NA;2020-05-11
+2262;Feminino;37;Belo Horizonte;NA;NA;2020-05-11
+2263;Masculino;46;Belo Horizonte;NA;NA;2020-05-11
+2264;Masculino;40;Belo Horizonte;NA;NA;2020-05-11
+2265;Masculino;40;Belo Horizonte;NA;NA;2020-05-11
+2266;Feminino;54;Belo Horizonte;NA;NA;2020-05-11
+2267;Feminino;70;Belo Horizonte;NA;NA;2020-05-11
+2268;Masculino;25;Belo Horizonte;NA;NA;2020-05-11
+2269;Masculino;50;Belo Horizonte;NA;NA;2020-05-11
+2270;Masculino;47;Belo Horizonte;NA;NA;2020-05-11
+2271;Masculino;54;Belo Horizonte;NA;NA;2020-05-11
+2272;Masculino;45;Belo Horizonte;NA;NA;2020-05-11
+2273;Feminino;54;Belo Horizonte;NA;NA;2020-05-11
+2274;Feminino;64;Belo Horizonte;NA;NA;2020-05-11
+2275;Feminino;69;Belo Horizonte;NA;NA;2020-05-11
+2276;Feminino;69;Belo Horizonte;NA;NA;2020-05-11
+2277;Feminino;59;Belo Horizonte;NA;NA;2020-05-11
+2278;Feminino;71;Belo Horizonte;NA;NA;2020-05-11
+2279;Feminino;53;Belo Horizonte;NA;NA;2020-05-11
+2280;Feminino;71;Belo Horizonte;NA;NA;2020-05-11
+2281;Feminino; 9;Belo Horizonte;NA;NA;2020-05-11
+2282;Feminino;51;Belo Horizonte;NA;NA;2020-05-11
+2283;Feminino;73;Belo Horizonte;NA;NA;2020-05-11
+2284;Feminino;70;Belo Horizonte;NA;NA;2020-05-11
+2285;Feminino;61;Belo Horizonte;NA;NA;2020-05-11
+2286;Feminino;47;Belo Horizonte;NA;NA;2020-05-11
+2287;Feminino;36;Belo Horizonte;NA;NA;2020-05-11
+2288;Feminino;12;Belo Horizonte;NA;NA;2020-05-11
+2289;Feminino;39;Belo Horizonte;NA;NA;2020-05-11
+2290;Masculino;53;Belo Horizonte;NA;NA;2020-05-11
+2291;Masculino;49;Belo Horizonte;NA;NA;2020-05-11
+2292;Masculino;56;Belo Horizonte;NA;NA;2020-05-11
+2293;Masculino;40;Belo Horizonte;NA;NA;2020-05-11
+2294;Feminino;33;Belo Horizonte;NA;NA;2020-05-11
+2295;Feminino;44;Belo Horizonte;NA;NA;2020-05-11
+2296;Masculino;44;Belo Horizonte;NA;NA;2020-05-11
+2297;Masculino;62;Belo Horizonte;NA;NA;2020-05-11
+2298;Masculino;27;Belo Horizonte;NA;NA;2020-05-11
+2299;Masculino;16;Belo Horizonte;NA;NA;2020-05-11
+2300;Feminino;28;Belo Horizonte;NA;NA;2020-05-11
+2301;Feminino;39;Belo Horizonte;NA;NA;2020-05-11
+2302;Masculino;56;Belo Horizonte;NA;NA;2020-05-11
+2303;Feminino;43;Belo Horizonte;NA;NA;2020-05-11
+2304;Masculino;29;Belo Horizonte;NA;NA;2020-05-11
+2305;Masculino;37;Belo Horizonte;NA;NA;2020-05-11
+2306;Masculino;74;Belo Horizonte;NA;NA;2020-05-11
+2307;Masculino;58;Belo Horizonte;NA;NA;2020-05-11
+2308;Masculino;50;Belo Horizonte;NA;NA;2020-05-11
+2309;Masculino;63;Belo Horizonte;NA;NA;2020-05-11
+2310;Masculino;37;Belo Horizonte;NA;NA;2020-05-11
+2311;Masculino;44;Belo Horizonte;NA;NA;2020-05-11
+2312;Masculino;49;Belo Horizonte;NA;NA;2020-05-11
+2313;Feminino;63;Belo Horizonte;NA;NA;2020-05-11
+2314;Feminino;42;Belo Horizonte;NA;NA;2020-05-11
+2315;Masculino;18;Belo Horizonte;NA;NA;2020-05-11
+2316;Feminino;58;Belo Horizonte;NA;NA;2020-05-11
+2317;Feminino;30;Belo Horizonte;NA;NA;2020-05-11
+2318;Masculino;65;Belo Horizonte;NA;NA;2020-05-11
+2319;Masculino;68;Belo Horizonte;NA;NA;2020-05-11
+2320;Feminino;38;Belo Horizonte;NA;NA;2020-05-11
+2321;Feminino;53;Belo Horizonte;NA;NA;2020-05-11
+2322;Feminino;59;Belo Horizonte;NA;NA;2020-05-11
+2323;Feminino;93;Belo Horizonte;NA;NA;2020-05-11
+2324;Feminino;31;Belo Horizonte;NA;NA;2020-05-11
+2325;Masculino;39;Belo Horizonte;NA;NA;2020-05-11
+2326;Masculino;38;Belo Horizonte;NA;NA;2020-05-11
+2327;Masculino;29;Belo Horizonte;NA;NA;2020-05-11
+2328;Masculino;27;Belo Horizonte;NA;NA;2020-05-11
+2329;Masculino;75;Nova Lima;NA;NA;2020-05-11
+2330;Feminino;61;Nova Lima;NA;NA;2020-05-11
+2331;Masculino;52;Nova Lima;NA;NA;2020-05-11
+2332;Masculino;64;Nova Lima;NA;NA;2020-05-11
+2333;Masculino;39;Belo Horizonte;NA;NA;2020-05-11
+2334;Feminino;83;Toledo;SIM;NÃO;2020-05-11
+2335;Feminino;25;Uberlândia;SIM;NÃO;2020-05-11
+2336;Masculino;30;Juiz de Fora;SIM;SIM;2020-05-11
+2337;Masculino;59;Divinópolis;SIM;SIM;2020-05-11
+2338;Masculino;47;Extrema;SIM;SIM;2020-05-11
+2339;Masculino;39;Belo Horizonte;NA;NA;2020-05-11
+2340;Masculino;42;Carangola;NÃO;NÃO;2020-05-11
+2341;Feminino;49;Aimorés;SIM;NÃO;2020-05-11
+2342;Masculino;84;Governador Valadares;SIM;SIM;2020-05-11
+2343;Feminino;32;Vazante;NA;NA;2020-05-11
+2344;Feminino;49;Belo Horizonte;NA;NA;2020-05-11
+2345;Masculino;30;OUTROS;NA;NA;2020-05-11
+2346;Masculino;51;OUTROS;SIM;NA;2020-05-11
+2347;Masculino;38;São Francisco;NÃO;NÃO;2020-05-11
+2348;Masculino;67;São Francisco;SIM;SIM;2020-05-11
+2349;Feminino;56;São Francisco;NÃO;NÃO;2020-05-11
+2350;Feminino;19;São Francisco;NÃO;NÃO;2020-05-11
+2351;Feminino;44;Caeté;NA;NA;2020-05-11
+2352;Feminino;20;Belo Horizonte;NA;NA;2020-05-11
+2353;Masculino;59;Barbacena;SIM;SIM;2020-05-11
+2354;Masculino;55;Conselheiro Lafaiete;NÃO;NÃO;2020-05-11
+2355;Masculino;38;Extrema;NÃO;NÃO;2020-05-11
+2356;Masculino;54;Extrema;SIM;SIM;2020-05-11
+2357;Masculino;18;Pouso Alegre;NÃO;NÃO;2020-05-11
+2358;Masculino;47;Extrema;SIM;SIM;2020-05-11
+2359;Feminino;52;Pouso Alegre;NÃO;NÃO;2020-05-11
+2360;Masculino;31;Extrema;NÃO;NÃO;2020-05-11
+2361;Masculino;38;Igarapé;SIM;SIM;2020-05-11
+2362;Masculino;27;Belo Horizonte;NA;NA;2020-05-11
+2363;Feminino;43;Araxá;NÃO;NÃO;2020-05-11
+2364;Feminino;51;Araxá;NÃO;NÃO;2020-05-11
+2365;Feminino;49;Araxá;NÃO;NÃO;2020-05-11
+2366;Feminino;21;João Monlevade;NÃO;NÃO;2020-05-11
+2367;Masculino;23;Formiga;NA;NA;2020-05-11
+2368;Feminino;50;João Monlevade;NÃO;NÃO;2020-05-11
+2369;Feminino;49;João Monlevade;NÃO;NÃO;2020-05-11
+2370;Feminino;26;NA;NA;NA;2020-05-11
+2371;Feminino;31;Betim;NA;NA;2020-05-11
+2372;Masculino;24;NA;NA;NA;2020-05-11
+2373;Masculino;68;Brumadinho;NA;NA;2020-05-11
+2374;Feminino;25;Contagem;NA;NA;2020-05-11
+2375;Feminino;29;Contagem;NA;NA;2020-05-11
+2376;Masculino;77;Esmeraldas;NA;NA;2020-05-11
+2377;Feminino;72;Esmeraldas;NA;NA;2020-05-11
+2379;Masculino;42;Comercinho;SIM;NÃO;2020-05-11
+2380;Masculino;23;Uberlândia;SIM;NÃO;2020-05-11
+2381;Feminino;62;Divinópolis;SIM;SIM;2020-05-11
+2382;Feminino;77;Itapeva;SIM;SIM;2020-05-11
+2383;Masculino;67;Belo Horizonte;SIM;NÃO;2020-05-11
+2384;Masculino;55;Tupaciguara;SIM;NÃO;2020-05-11
+2385;Masculino;38;Itapeva;NA;NA;2020-05-11
+2386;Masculino;49;Belo Horizonte;NA;NA;2020-05-11
+2387;Masculino;25;Belo Horizonte;NA;NA;2020-05-11
+2388;Feminino;56;Contagem;NA;NA;2020-05-11
+2389;Masculino;31;Pedra Dourada;NÃO;NÃO;2020-05-11
+2390;Masculino;41;Mário Campos;NA;NA;2020-05-11
+2392;Masculino;27;Santa Margarida;NÃO;NÃO;2020-05-11
+2393;Feminino;37;Contagem;NA;NA;2020-05-11
+2394;Masculino;69;Jequitinhonha;SIM;SIM;2020-05-11
+2395;Feminino;43;Nova Lima;NA;NA;2020-05-11
+2396;Masculino;89;Mário Campos;NÃO;NÃO;2020-05-11
+2397;Masculino;24;Mário Campos;NÃO;NÃO;2020-05-11
+2398;Feminino;44;Sarzedo;NÃO;NÃO;2020-05-11
+2399;Feminino;20;Mário Campos;NÃO;NÃO;2020-05-11
+2400;Masculino;51;Mário Campos;NÃO;NÃO;2020-05-11
+2401;Masculino;39;Mário Campos;NÃO;NÃO;2020-05-11
+2402;Masculino;22;Mário Campos;NÃO;NÃO;2020-05-11
+2403;Masculino;26;Unaí;NÃO;NÃO;2020-05-11
+2404;Masculino;39;Belo Horizonte;NA;NA;2020-05-11
+2405;Masculino;36;Belo Horizonte;NA;NA;2020-05-11
+2406;Masculino;48;Três Corações;NÃO;NÃO;2020-05-11
+2407;Feminino;63;Conselheiro Lafaiete;NÃO;NÃO;2020-05-11
+2408;Feminino;87;Contagem;SIM;NÃO;2020-05-11
+2409;Masculino;34;Ipaba;NÃO;NÃO;2020-05-11
+2410;Masculino;58;Ipatinga;NÃO;NÃO;2020-05-11
+2411;Feminino;72;Ipatinga;NÃO;NÃO;2020-05-11
+2412;Feminino;39;Ipatinga;NÃO;NÃO;2020-05-11
+2413;Feminino;35;Ipatinga;NÃO;NÃO;2020-05-11
+2414;Feminino;34;Aimorés;SIM;SIM;2020-05-11
+2415;Masculino;27;Juiz de Fora;NÃO;NÃO;2020-05-11
+2416;Feminino;34;Juiz de Fora;NÃO;NÃO;2020-05-11
+2417;Feminino;56;Juiz de Fora;NÃO;NÃO;2020-05-11
+2418;Feminino;42;Juiz de Fora;NÃO;NÃO;2020-05-11
+2419;Feminino;26;Juiz de Fora;NÃO;NÃO;2020-05-11
+2420;Feminino;48;Juiz de Fora;NÃO;NÃO;2020-05-11
+2421;Masculino;29;Juiz de Fora;NÃO;NÃO;2020-05-11
+2422;Feminino;42;Juiz de Fora;SIM;NÃO;2020-05-11
+2423;Feminino;34;Juiz de Fora;NÃO;NÃO;2020-05-11
+2424;Feminino;42;Juiz de Fora;NÃO;NÃO;2020-05-11
+2425;Masculino;29;Juiz de Fora;NÃO;NÃO;2020-05-11
+2426;Feminino;30;Juiz de Fora;NÃO;NÃO;2020-05-11
+2427;Feminino;76;Juiz de Fora;SIM;SIM;2020-05-11
+2428;Feminino;23;Juiz de Fora;NÃO;NÃO;2020-05-11
+2429;Feminino;45;Juiz de Fora;NÃO;NÃO;2020-05-11
+2430;Masculino;23;Juiz de Fora;NÃO;NÃO;2020-05-11
+2431;Feminino;31;Santos Dumont;NÃO;NÃO;2020-05-11
+2432;Masculino;36;Juiz de Fora;NÃO;NÃO;2020-05-11
+2433;Masculino;31;Santos Dumont;NÃO;NÃO;2020-05-11
+2434;Masculino;77;Juiz de Fora;SIM;SIM;2020-05-11
+2435;Feminino;24;Juiz de Fora;NÃO;NÃO;2020-05-11
+2436;Masculino;58;Belmiro Braga;SIM;SIM;2020-05-11
+2437;Masculino;37;Juiz de Fora;NÃO;NÃO;2020-05-11
+2438;Feminino;30;Juiz de Fora;NÃO;NÃO;2020-05-11
+2439;Masculino;61;Juiz de Fora;SIM;NÃO;2020-05-11
+2440;Masculino;25;Juiz de Fora;NÃO;NÃO;2020-05-11
+2441;Feminino;24;Juiz de Fora;NÃO;NÃO;2020-05-11
+2442;Feminino;55;Juiz de Fora;SIM;SIM;2020-05-11
+2443;Feminino;77;Juiz de Fora;SIM;SIM;2020-05-11
+2444;Feminino;21;Juiz de Fora;NÃO;NÃO;2020-05-11
+2445;Feminino; 0;Juiz de Fora;NÃO;NÃO;2020-05-11
+2446;Masculino;56;Juiz de Fora;SIM;SIM;2020-05-11
+2447;Masculino;72;Juiz de Fora;SIM;SIM;2020-05-11
+2448;Masculino;53;Juiz de Fora;NÃO;NÃO;2020-05-11
+2449;Feminino;65;Juiz de Fora;NÃO;NÃO;2020-05-11
+2450;Feminino;44;Juiz de Fora;NÃO;NÃO;2020-05-11
+2451;Feminino;44;Juiz de Fora;NÃO;NÃO;2020-05-11
+2452;Feminino;37;Juiz de Fora;NÃO;NÃO;2020-05-11
+2453;Feminino;61;Juiz de Fora;NÃO;NÃO;2020-05-11
+2454;Feminino;25;Juiz de Fora;NÃO;NÃO;2020-05-11
+2455;Feminino;26;Juiz de Fora;NÃO;NÃO;2020-05-11
+2456;Feminino;35;Juiz de Fora;NÃO;NÃO;2020-05-11
+2457;Masculino;57;Montes Claros;NÃO;NÃO;2020-05-11
+2458;Masculino;55;Mamonas;NÃO;NÃO;2020-05-11
+2459;Feminino;65;Camanducaia;NÃO;NÃO;2020-05-11
+2460;Masculino;18;Cambuí;NÃO;NÃO;2020-05-11
+2461;Masculino;38;Cambuí;NÃO;NÃO;2020-05-11
+2462;Masculino;51;São Vicente de Minas;NÃO;NÃO;2020-05-11
+2463;Feminino;52;São Vicente de Minas;SIM;NÃO;2020-05-11
+2464;Masculino;38;Uberaba;SIM;SIM;2020-05-11
+2465;Masculino;45;Uberlândia;NA;NA;2020-05-11
+2466;Masculino;34;Itumirim;NÃO;NÃO;2020-05-11
+2467;Masculino;42;Betim;NA;NA;2020-05-11
+2468;Masculino;60;Belo Horizonte;SIM;NÃO;2020-05-11
+2469;Masculino;37;Belo Horizonte;SIM;NÃO;2020-05-11
+2470;Masculino;36;OUTROS;NA;NA;2020-05-11
+2471;Feminino;41;Betim;NA;NA;2020-05-11
+2472;Masculino;21;Belo Horizonte;NA;NA;2020-05-11
+2473;Masculino;36;Belo Horizonte;NA;NA;2020-05-11
+2474;Masculino;29;NA;NA;NA;2020-05-11
+2475;Masculino;19;Contagem;NA;NA;2020-05-11
+2476;Feminino;34;OUTROS;NA;NA;2020-05-11
+2477;Feminino;75;Belo Horizonte;SIM;NÃO;2020-05-11
+2478;Feminino;29;OUTROS;NA;NA;2020-05-11
+2479;Masculino;56;Bom Despacho;NÃO;NÃO;2020-05-11
+2480;Feminino; 1;Igarapé;NA;NA;2020-05-11
+2481;Masculino;27;Uberlândia;NÃO;NÃO;2020-05-11
+2482;Masculino;31;OUTROS;NÃO;NÃO;2020-05-11
+2483;Feminino;31;Uberlândia;NÃO;NÃO;2020-05-11
+2484;Feminino;46;Uberlândia;NÃO;NÃO;2020-05-11
+2485;Feminino;43;Uberlândia;NÃO;NÃO;2020-05-11
+2486;Masculino;36;Uberlândia;NÃO;NÃO;2020-05-11
+2487;Masculino;32;Uberlândia;NÃO;NÃO;2020-05-11
+2488;Feminino;40;Uberlândia;NÃO;NÃO;2020-05-11
+2489;Feminino;43;Uberlândia;NÃO;NÃO;2020-05-11
+2490;Masculino;30;Uberlândia;NÃO;NÃO;2020-05-11
+2491;Masculino;53;Uberlândia;NÃO;NÃO;2020-05-11
+2492;Masculino;42;Uberlândia;NÃO;NÃO;2020-05-11
+2493;Masculino;34;Uberlândia;NÃO;NÃO;2020-05-11
+2494;Feminino;26;Uberlândia;NÃO;NÃO;2020-05-11
+2495;Masculino;36;Uberlândia;NÃO;NÃO;2020-05-11
+2496;Masculino;49;Uberlândia;NÃO;NÃO;2020-05-11
+2497;Feminino;48;Uberlândia;NÃO;NÃO;2020-05-11
+2498;Feminino;60;Uberlândia;NÃO;NÃO;2020-05-11
+2499;Masculino;37;Uberlândia;NÃO;NÃO;2020-05-11
+2500;Masculino;50;Uberlândia;NÃO;NÃO;2020-05-11
+2501;Masculino;36;Uberlândia;NÃO;NÃO;2020-05-11
+2502;Feminino;24;OUTROS;NÃO;NÃO;2020-05-11
+2503;Feminino;41;Uberlândia;NÃO;NÃO;2020-05-11
+2504;Feminino;25;Uberlândia;NÃO;NÃO;2020-05-11
+2505;Feminino;38;Uberlândia;NÃO;NÃO;2020-05-11
+2506;Feminino;35;Uberlândia;NÃO;NÃO;2020-05-11
+2507;Feminino;26;Uberlândia;NÃO;NÃO;2020-05-11
+2508;Masculino;29;Uberlândia;NÃO;NÃO;2020-05-11
+2509;Masculino;35;Uberlândia;NÃO;NÃO;2020-05-11
+2510;Masculino;26;Uberlândia;NÃO;NÃO;2020-05-11
+2511;Masculino;26;Uberlândia;NÃO;NÃO;2020-05-11
+2512;Feminino;55;Uberlândia;NÃO;NÃO;2020-05-11
+2513;Feminino;67;Uberlândia;NÃO;NÃO;2020-05-11
+2514;Masculino;43;Uberlândia;NÃO;NÃO;2020-05-11
+2515;Masculino;58;Uberlândia;NÃO;NÃO;2020-05-11
+2516;Masculino;36;Uberlândia;NÃO;NÃO;2020-05-11
+2517;Masculino;34;Uberlândia;NÃO;NÃO;2020-05-11
+2518;Feminino;54;Uberlândia;NÃO;NÃO;2020-05-11
+2519;Feminino;53;Uberlândia;NÃO;NÃO;2020-05-11
+2520;Feminino;57;Uberlândia;NÃO;NÃO;2020-05-11
+2521;Feminino;39;Uberlândia;NÃO;NÃO;2020-05-11
+2522;Masculino;38;Uberlândia;NÃO;NÃO;2020-05-11
+2523;Masculino;24;Uberlândia;NÃO;NÃO;2020-05-11
+2524;Masculino;55;Uberlândia;NÃO;NÃO;2020-05-11
+2525;Feminino;54;João Monlevade;NÃO;NÃO;2020-05-11
+2526;Masculino;60;João Monlevade;NÃO;NÃO;2020-05-11
+2527;Feminino;80;João Monlevade;NÃO;NÃO;2020-05-11
+2528;Feminino;49;Carmópolis de Minas;NA;NA;2020-05-11
+2529;Masculino;44;Muriaé;SIM;SIM;2020-05-11
+2530;Feminino;26;Muriaé;NÃO;NÃO;2020-05-11
+2531;Masculino;34;Muriaé;NÃO;NÃO;2020-05-11
+2532;Masculino;50;Belo Horizonte;NA;NA;2020-05-11
+2533;Feminino; 5;Belo Horizonte;NA;NA;2020-05-11
+2534;Masculino;35;Caratinga;NÃO;NÃO;2020-05-11
+2535;Feminino;55;Caratinga;NÃO;NÃO;2020-05-11
+2536;Feminino;27;Caratinga;NÃO;NÃO;2020-05-11
+2537;Feminino;48;Ribeirão das Neves;NA;NA;2020-05-11
+2538;Feminino;87;Juiz de Fora;SIM;SIM;2020-05-11
+2539;Masculino;29;Teófilo Otoni;NÃO;NÃO;2020-05-11
+2540;Masculino;49;Ponte Nova;NA;NA;2020-05-11
+2541;Feminino;52;Teófilo Otoni;NÃO;NÃO;2020-05-11
+2542;Masculino;36;Contagem;NA;NA;2020-05-11
+2543;Masculino;60;Ubá;NA;NA;2020-05-11
+2544;Masculino;27;OUTROS;NA;NA;2020-05-11
+2545;Masculino;20;Teófilo Otoni;NÃO;NÃO;2020-05-11
+2546;Feminino;43;Ubá;NA;NA;2020-05-11
+2547;Feminino;28;Timóteo;NA;NA;2020-05-11
+2548;Masculino;24;Teófilo Otoni;NÃO;NÃO;2020-05-11
+2549;Feminino;38;Santos Dumont;NÃO;NÃO;2020-05-11
+2550;Feminino;22;Muriaé;NÃO;NÃO;2020-05-11
+2551;Masculino;63;Cataguases;NÃO;NÃO;2020-05-11
+2552;Feminino;77;Três Corações;SIM;NÃO;2020-05-11
+2553;Masculino;53;Três Corações;SIM;NÃO;2020-05-11
+2554;Feminino;32;Muriaé;NÃO;NÃO;2020-05-11
+2555;Feminino;48;Teófilo Otoni;NÃO;NÃO;2020-05-11
+2556;Feminino;76;Ubá;NA;NA;2020-05-11
+2557;Masculino;49;OUTROS;SIM;SIM;2020-05-11
+2558;Masculino;68;Uberlândia;SIM;NA;2020-05-11
+2559;Feminino;41;Paracatu;NÃO;NÃO;2020-05-11
+2560;Masculino;43;Muriaé;NA;NA;2020-05-11
+2561;Masculino;37;Leopoldina;SIM;NÃO;2020-05-11
+2562;Masculino;51;Wenceslau Braz;SIM;NÃO;2020-05-11
+2563;Masculino;52;Santana de Cataguases;SIM;NÃO;2020-05-11
+2564;Masculino;70;Muriaé;SIM;NÃO;2020-05-11
+2565;Masculino;63;Divino;NA;NA;2020-05-11
+2566;Masculino;64;São Sebastião do Paraíso;NÃO;NÃO;2020-05-11
+2567;Masculino;53;São Sebastião do Paraíso;NÃO;NÃO;2020-05-11
+2568;Masculino;36;Cambuí;NÃO;NÃO;2020-05-11
+2569;Masculino; 6;Cambuí;NÃO;NÃO;2020-05-11
+2570;Feminino;59;Ouro Fino;NÃO;NÃO;2020-05-11
+2571;Masculino;61;Ouro Fino;NÃO;NÃO;2020-05-11
+2572;Feminino;49;Itajubá;NÃO;NÃO;2020-05-11
+2573;Feminino;54;Itajubá;NÃO;NÃO;2020-05-11
+2574;Feminino;70;Poços de Caldas;NÃO;NÃO;2020-05-11
+2575;Feminino; 1;Poços de Caldas;NÃO;NÃO;2020-05-11
+2576;Feminino;42;Senador Amaral;NÃO;NÃO;2020-05-11
+2577;Feminino;53;Poços de Caldas;NÃO;NÃO;2020-05-11
+2578;Masculino;31;Pouso Alegre;NÃO;NÃO;2020-05-11
+2579;Feminino;49;Pouso Alegre;NÃO;NÃO;2020-05-11
+2580;Masculino;37;Pouso Alegre;NÃO;NÃO;2020-05-11
+2581;Feminino;69;Pouso Alegre;NÃO;NÃO;2020-05-11
+2582;Feminino;69;Uberlândia;NA;NA;2020-05-11
+2583;Feminino;45;Monte Carmelo;NA;NA;2020-05-11
+2584;Feminino;29;Uberlândia;NA;NA;2020-05-11
+2585;Masculino;17;Uberlândia;NÃO;NÃO;2020-05-11
+2586;Feminino;46;Uberlândia;NÃO;NÃO;2020-05-11
+2587;Feminino;25;Uberlândia;NÃO;NÃO;2020-05-11
+2588;Feminino;28;Uberlândia;NÃO;NÃO;2020-05-11
+2589;Masculino;42;Uberlândia;NÃO;NÃO;2020-05-11
+2590;Feminino;44;OUTROS;NÃO;NÃO;2020-05-11
+2591;Feminino;27;Arceburgo;NÃO;NÃO;2020-05-11
+2592;Masculino;38;Ipatinga;NÃO;NÃO;2020-05-11
+2593;Feminino;28;Ipatinga;NÃO;NÃO;2020-05-11
+2594;Feminino;30;Nova Serrana;NÃO;NÃO;2020-05-11
+2595;Feminino;23;Carmópolis de Minas;NÃO;NÃO;2020-05-11
+2596;Feminino;19;Carmópolis de Minas;NÃO;NÃO;2020-05-11
+2597;Masculino;47;Carmópolis de Minas;NÃO;NÃO;2020-05-11
+2598;Feminino;20;São Sebastião do Oeste;NÃO;NÃO;2020-05-11
+2599;Feminino;69;Divinópolis;NA;NA;2020-05-11
+2600;Masculino;67;Campo Belo;NA;NA;2020-05-11
+2601;Feminino;57;Divinópolis;NA;NA;2020-05-11
+2602;Feminino;55;Divinópolis;NA;NA;2020-05-11
+2603;Masculino;48;Divinópolis;NA;NA;2020-05-11
+2604;Feminino;47;Divinópolis;NA;NA;2020-05-11
+2605;Feminino;44;Divinópolis;NA;NA;2020-05-11
+2606;Feminino;38;Divinópolis;NA;NA;2020-05-11
+2607;Masculino;38;Divinópolis;SIM;SIM;2020-05-11
+2608;Feminino;38;Divinópolis;NA;NA;2020-05-11
+2609;Feminino;38;Divinópolis;NA;NA;2020-05-11
+2610;Masculino;38;Divinópolis;NA;NA;2020-05-11
+2611;Feminino;36;Divinópolis;NA;NA;2020-05-11
+2612;Masculino;33;Divinópolis;NA;NA;2020-05-11
+2613;Masculino;31;Itapecerica;NÃO;NÃO;2020-05-11
+2614;Feminino;30;Itapecerica;NÃO;NÃO;2020-05-11
+2615;Masculino;28;Itapecerica;NÃO;NÃO;2020-05-11
+2616;Feminino;21;Itapecerica;NÃO;NÃO;2020-05-11
+2617;Masculino;56;Governador Valadares;SIM;SIM;2020-05-11
+2618;Feminino;35;Governador Valadares;NÃO;NÃO;2020-05-11
+2619;Masculino;46;São João do Paraíso;NÃO;NÃO;2020-05-11
+2620;Feminino;36;São Francisco do Glória;NA;NA;2020-05-11
+2621;Feminino;21;Belo Horizonte;NA;NA;2020-05-11
+2622;Masculino;26;Contagem;NA;NA;2020-05-11
+2623;Feminino;52;Belo Horizonte;NA;NA;2020-05-11
+2624;Feminino;33;Belo Horizonte;NA;NA;2020-05-11
+2625;Masculino;53;Tabuleiro;NA;NA;2020-05-11
+2626;Masculino;60;Pará de Minas;SIM;NÃO;2020-05-11
+2627;Feminino;41;Betim;NA;NA;2020-05-11
+2628;Feminino;76;Belo Horizonte;SIM;NÃO;2020-05-11
+2629;Masculino;45;Carandaí;SIM;SIM;2020-05-11
+2630;Masculino;47;Belo Horizonte;NA;NA;2020-05-11
+2631;Masculino;57;Ubá;NA;NA;2020-05-11
+2632;Masculino;42;Muriaé;NA;NA;2020-05-11
+2633;Masculino;59;Belo Horizonte;SIM;SIM;2020-05-11
+2634;Feminino;58;OUTROS;SIM;NÃO;2020-05-11
+2635;Masculino;27;Belo Horizonte;NA;NA;2020-05-11
+2636;Feminino;39;Juiz de Fora;NÃO;NÃO;2020-05-11
+2637;Feminino;29;Belo Horizonte;NA;NA;2020-05-11
+2638;Masculino;40;Belo Horizonte;NA;NA;2020-05-11
+2639;Feminino;37;Juiz de Fora;NÃO;NÃO;2020-05-11
+2640;Feminino;64;Igarapé;SIM;SIM;2020-05-11
+2642;Feminino;29;Mar de Espanha;SIM;SIM;2020-05-11
+2643;Feminino;28;Belo Horizonte;NA;NA;2020-05-11
+2644;Feminino;34;Muriaé;NA;NA;2020-05-11
+2645;Feminino;35;Teófilo Otoni;NA;NA;2020-05-11
+2646;Feminino;20;Ibirité;SIM;NÃO;2020-05-11
+2647;Feminino;80;Mariana;SIM;NÃO;2020-05-11
+2648;Feminino;50;Curvelo;NÃO;NÃO;2020-05-11
+2649;Masculino;47;Muriaé;NA;NA;2020-05-11
+2650;Masculino;49;Araxá;NÃO;NÃO;2020-05-11
+2651;Masculino;55;Belo Horizonte;NA;NA;2020-05-11
+2652;Masculino;35;Belo Horizonte;NA;NA;2020-05-11
+2653;Feminino;21;Ribeirão das Neves;NA;NA;2020-05-11
+2654;Masculino;68;Belo Horizonte;NA;NA;2020-05-11
+2655;Feminino;67;Belo Horizonte;NA;NA;2020-05-11
+2656;Masculino;61;Contagem;NA;NA;2020-05-11
+2657;Feminino;58;Belo Horizonte;NA;NA;2020-05-11
+2658;Masculino;54;Belo Horizonte;NA;NA;2020-05-11
+2659;Feminino;52;Belo Horizonte;NA;NA;2020-05-11
+2660;Masculino;52;Belo Horizonte;NA;NA;2020-05-11
+2661;Feminino;52;Belo Horizonte;NA;NA;2020-05-11
+2662;Masculino;51;OUTROS;NA;NA;2020-05-11
+2663;Feminino;48;Ribeirão das Neves;NA;NA;2020-05-11
+2664;Masculino;45;OUTROS;NA;NA;2020-05-11
+2665;Masculino;41;Nova Lima;NA;NA;2020-05-11
+2666;Feminino;40;Belo Horizonte;NA;NA;2020-05-11
+2667;Masculino;40;Belo Horizonte;NA;NA;2020-05-11
+2668;Masculino;40;Belo Horizonte;NA;NA;2020-05-11
+2669;Feminino;40;Belo Horizonte;NA;NA;2020-05-11
+2670;Masculino;39;Belo Horizonte;NA;NA;2020-05-11
+2671;Feminino;36;Belo Horizonte;NA;NA;2020-05-11
+2672;Feminino;33;OUTROS;NA;NA;2020-05-11
+2673;Feminino;31;Belo Horizonte;NA;NA;2020-05-11
+2674;Feminino;31;Contagem;NA;NA;2020-05-11
+2675;Feminino;30;Belo Horizonte;NA;NA;2020-05-11
+2676;Masculino;26;Mário Campos;NA;NA;2020-05-11
+2677;Feminino;26;OUTROS;NA;NA;2020-05-11
+2678;Feminino;20;Belo Horizonte;NA;NA;2020-05-11
+2679;Feminino;15;Belo Horizonte;NA;NA;2020-05-11
+2680;Feminino;13;Belo Horizonte;NA;NA;2020-05-11
+2681;Masculino;66;Elói Mendes;NÃO;NÃO;2020-05-11
+2682;Masculino;53;Governador Valadares;SIM;NÃO;2020-05-11
+2683;Feminino;30;Belo Horizonte;NA;NA;2020-05-11
+2685;Feminino;37;Belo Horizonte;NA;NA;2020-05-11
+2686;Feminino;32;Belo Horizonte;NA;NA;2020-05-11
+2687;Masculino;31;Uberlândia;NA;NA;2020-05-11
+2688;Masculino;73;Belo Horizonte;NA;NA;2020-05-11
+2689;Masculino;43;Belo Horizonte;NA;NA;2020-05-11
+2691;Feminino;65;Belo Horizonte;NA;NA;2020-05-11
+2693;Masculino;37;Belo Horizonte;NA;NA;2020-05-11
+2694;Masculino;32;Belo Horizonte;NA;NA;2020-05-11
+2695;Feminino;25;Belo Horizonte;NA;NA;2020-05-11
+2696;Masculino;33;Belo Horizonte;NA;NA;2020-05-11
+2698;Feminino;44;Belo Horizonte;NA;NA;2020-05-11
+2699;Masculino;40;Belo Horizonte;NA;NA;2020-05-11
+2700;Feminino;26;Governador Valadares;NA;NA;2020-05-11
+2701;Masculino;32;São Lourenço;NÃO;NÃO;2020-05-11
+2702;Feminino;52;São João Del Rei;NA;NA;2020-05-11
+2704;Masculino;31;Belo Horizonte;NA;NA;2020-05-11
+2705;Masculino;44;Belo Horizonte;NA;NA;2020-05-11
+2706;Masculino;36;Santa Luzia;NA;NA;2020-05-11
+2707;Masculino;15;Belo Horizonte;NA;NA;2020-05-11
+2708;Feminino;80;Belo Horizonte;NA;NA;2020-05-11
+2709;Feminino;60;Belo Horizonte;NA;NA;2020-05-11
+2710;Masculino;46;Belo Horizonte;NA;NA;2020-05-11
+2711;Feminino;29;Ribeirão das Neves;NA;NA;2020-05-11
+2712;Feminino;36;Belo Horizonte;NA;NA;2020-05-11
+2713;Feminino;64;Belo Horizonte;NA;NA;2020-05-11
+2714;Feminino;65;São João Del Rei;SIM;NA;2020-05-11
+2715;Masculino;44;Boa Esperança;NÃO;NÃO;2020-05-11
+2716;Masculino;30;Belo Horizonte;NA;NA;2020-05-11
+2717;Masculino;36;Belo Horizonte;NA;NA;2020-05-11
+2718;Feminino;55;Uberlândia;NA;NA;2020-05-11
+2719;Feminino;42;Belo Horizonte;NA;NA;2020-05-11
+2720;Feminino;48;Contagem;NA;NA;2020-05-11
+2721;Masculino;69;Ilicínea;NÃO;NÃO;2020-05-11
+2722;Feminino;32;Couto de Magalhães de Minas;NA;NA;2020-05-11
+2723;Feminino;31;Contagem;NA;NA;2020-05-11
+2724;Feminino;85;Belo Horizonte;NA;NA;2020-05-11
+2727;Masculino;49;Caetanópolis;NÃO;NÃO;2020-05-11
+2728;Masculino;45;Belo Horizonte;NA;NA;2020-05-11
+2729;Feminino;28;Contagem;NA;NA;2020-05-11
+2730;Masculino; 0;Patos de Minas;NA;NA;2020-05-11
+2731;Masculino;29;Belo Horizonte;NA;NA;2020-05-11
+2733;Masculino;37;Belo Horizonte;NA;NA;2020-05-11
+2734;Feminino;52;Patos de Minas;NA;NA;2020-05-11
+2735;Feminino;49;Belo Horizonte;SIM;NA;2020-05-11
+2736;Masculino;57;OUTROS;SIM;NA;2020-05-11
+2737;Feminino;68;Muzambinho;SIM;NÃO;2020-05-11
+2738;Feminino;56;Alfenas;NÃO;NÃO;2020-05-11
+2739;Feminino;21;Alto Rio Doce;NÃO;NÃO;2020-05-11
+2740;Feminino;82;Governador Valadares;NÃO;NÃO;2020-05-11
+2741;Masculino;44;Bela Vista de Minas;Não;Não;2020-05-11
+2742;Feminino;41;Juiz de Fora;NÃO;NÃO;2020-05-11
+2743;Feminino;44;Santos Dumont;NÃO;NÃO;2020-05-11
+2744;Feminino;23;Juiz de Fora;NÃO;NÃO;2020-05-11
+2745;Feminino;32;Juiz de Fora;NÃO;NÃO;2020-05-11
+2746;Feminino;31;Juiz de Fora;NÃO;NÃO;2020-05-11
+2747;Feminino;51;Juiz de Fora;SIM;SIM;2020-05-11
+2748;Feminino;25;Juiz de Fora;NÃO;NÃO;2020-05-11
+2749;Masculino;38;Santos Dumont;NÃO;NÃO;2020-05-11
+2750;Feminino;83;Juiz de Fora;NA;NA;2020-05-11
+2751;Masculino;30;Juiz de Fora;NÃO;NÃO;2020-05-11
+2752;Masculino;53;Santos Dumont;NÃO;NÃO;2020-05-11
+2753;Masculino;30;Santos Dumont;NÃO;NÃO;2020-05-11
+2754;Feminino;22;Juiz de Fora;NÃO;NÃO;2020-05-11
+2755;Feminino;91;Juiz de Fora;SIM;SIM;2020-05-11
+2756;Masculino;32;Juiz de Fora;NÃO;NÃO;2020-05-11
+2757;Masculino;65;Juiz de Fora;SIM;NÃO;2020-05-11
+2758;Feminino;43;Juiz de Fora;NÃO;NÃO;2020-05-11
+2759;Feminino;34;Juiz de Fora;NÃO;NÃO;2020-05-11
+2760;Feminino;29;Juiz de Fora;NÃO;NÃO;2020-05-11
+2761;Masculino;56;Juiz de Fora;SIM;SIM;2020-05-11
+2762;Feminino;79;Juiz de Fora;SIM;NÃO;2020-05-11
+2763;Masculino;23;Santos Dumont;NÃO;NÃO;2020-05-11
+2764;Feminino;62;São João Nepomuceno;SIM;SIM;2020-05-11
+2765;Feminino;39;Santos Dumont;NÃO;NÃO;2020-05-11
+2766;Masculino;41;Juiz de Fora;NÃO;NÃO;2020-05-11
+2767;Masculino;43;Santos Dumont;NÃO;NÃO;2020-05-11
+2768;Feminino;44;Juiz de Fora;NA;NA;2020-05-11
+2769;Feminino;46;Juiz de Fora;NA;NA;2020-05-11
+2770;Feminino;32;Juiz de Fora;NÃO;NÃO;2020-05-11
+2771;Feminino;55;Juiz de Fora;NÃO;NÃO;2020-05-11
+2772;Feminino;30;Santos Dumont;NÃO;NÃO;2020-05-11
+2773;Feminino;48;Santos Dumont;SIM;NÃO;2020-05-11
+2774;Feminino;45;Juiz de Fora;NA;NA;2020-05-11
+2775;Masculino;47;Tombos;SIM;NÃO;2020-05-11
+2776;Feminino;35;Monte Azul;NÃO;NÃO;2020-05-11
+2777;Masculino;36;Itaú de Minas;NÃO;NÃO;2020-05-11
+2778;Masculino;29;Alpinópolis;NÃO;NÃO;2020-05-11
+2779;Masculino;35;Viçosa;NÃO;NÃO;2020-05-11
+2780;Feminino;37;Viçosa;NÃO;NÃO;2020-05-11
+2781;Feminino;61;Brasópolis;NÃO;NÃO;2020-05-11
+2782;Feminino;22;Senador José Bento;NÃO;NÃO;2020-05-11
+2783;Masculino;13;Senador José Bento;NÃO;NÃO;2020-05-11
+2784;Feminino;53;Bom Repouso;NÃO;NÃO;2020-05-11
+2785;Masculino;41;Pouso Alegre;NÃO;NÃO;2020-05-11
+2786;Masculino;33;Pouso Alegre;NÃO;NÃO;2020-05-11
+2787;Masculino;49;Pouso Alegre;NÃO;NÃO;2020-05-11
+2788;Masculino;42;Pouso Alegre;NÃO;NÃO;2020-05-11
+2789;Feminino;26;Unaí;NÃO;NÃO;2020-05-11
+2790;Feminino;27;Unaí;NÃO;NÃO;2020-05-11
+2791;Feminino;44;Lambari;NÃO;NÃO;2020-05-11
+2792;Masculino;53;Uberlândia;SIM;SIM;2020-05-11
+2793;Feminino;64;Belo Horizonte;SIM;NÃO;2020-05-11
+2794;Masculino;55;Itaguara;SIM;NA;2020-05-11
+2795;Feminino;80;Belo Horizonte;NA;NA;2020-05-11
+2796;Feminino;32;Contagem;NA;NA;2020-05-11
+2797;Masculino;48;NA;NA;NA;2020-05-11
+2798;Masculino;28;Uberaba;NÃO;NÃO;2020-05-11
+2799;Masculino;31;Araxá;NÃO;NÃO;2020-05-11
+2800;Feminino;58;Uberlândia;NÃO;NÃO;2020-05-11
+2801;Feminino;38;Uberlândia;NÃO;NÃO;2020-05-11
+2802;Masculino;48;Uberlândia;NÃO;NÃO;2020-05-11
+2803;Masculino;33;Uberlândia;NÃO;NÃO;2020-05-11
+2804;Feminino;39;Uberlândia;NÃO;NÃO;2020-05-11
+2805;Feminino;25;Uberlândia;NÃO;NÃO;2020-05-11
+2806;Feminino;44;Varginha;NA;NA;2020-05-11
+2807;Masculino;50;Uberlândia;NÃO;NÃO;2020-05-11
+2808;Feminino;12;Uberlândia;NÃO;NÃO;2020-05-11
+2809;Masculino;67;Uberlândia;NÃO;NÃO;2020-05-11
+2810;Masculino;33;Uberlândia;NÃO;NÃO;2020-05-11
+2811;Masculino;23;Uberlândia;NÃO;NÃO;2020-05-11
+2812;Masculino;57;Uberlândia;SIM;SIM;2020-05-11
+2813;Feminino;12;Uberlândia;NÃO;NÃO;2020-05-11
+2814;Feminino;67;Uberlândia;NÃO;NÃO;2020-05-11
+2815;Feminino;43;Uberlândia;NÃO;NÃO;2020-05-11
+2816;Feminino;27;Uberlândia;NÃO;NÃO;2020-05-11
+2817;Masculino;26;Uberlândia;NÃO;NÃO;2020-05-11
+2818;Masculino;28;Uberlândia;NÃO;NÃO;2020-05-11
+2819;Masculino;59;Brumadinho;SIM;NA;2020-05-11
+2820;Feminino;28;Belo Horizonte;NA;NA;2020-05-11
+2821;Feminino;21;Belo Horizonte;NA;NA;2020-05-11
+2822;Masculino;41;Brumadinho;NÃO;NÃO;2020-05-11
+2823;Feminino;39;NA;NA;NA;2020-05-11
+2824;Masculino;39;OUTROS;NA;NA;2020-05-11
+2825;Feminino;39;Divinópolis;NA;NA;2020-05-11
+2826;Feminino;60;Barbacena;NA;NA;2020-05-11
+2827;Feminino;45;Esmeraldas;NA;NA;2020-05-11
+2828;Feminino;36;Itaúna;NA;NA;2020-05-11
+2829;Masculino;56;Belo Horizonte;NA;NA;2020-05-11
+2830;Feminino;78;Belo Horizonte;SIM;NÃO;2020-05-11
+2831;Masculino;60;Santa Bárbara;SIM;SIM;2020-05-11
+2832;Feminino;50;Barbacena;NA;NA;2020-05-11
+2833;Feminino;43;Astolfo Dutra;SIM;SIM;2020-05-11
+2834;Masculino;70;São Francisco;NA;NA;2020-05-11
+2835;Feminino;93;Juiz de Fora;SIM;SIM;2020-05-11
+2836;Feminino;49;Santa Luzia;NA;NA;2020-05-11
+2837;Feminino;42;Muriaé;NA;NA;2020-05-11
+2838;Feminino;57;Belo Horizonte;NA;NA;2020-05-11
+2839;Masculino;48;Barbacena;NA;NA;2020-05-11
+2840;Masculino;45;Belo Horizonte;NA;NA;2020-05-11
+2841;Masculino;27;Barbacena;NA;NA;2020-05-11
+2842;Masculino;76;Belo Horizonte;NA;NA;2020-05-11
+2843;Masculino;81;Juiz de Fora;SIM;SIM;2020-05-11
+2844;Masculino;77;Belo Horizonte;SIM;NÃO;2020-05-11
+2845;Masculino;35;Araguari;NA;NA;2020-05-11
+2846;Masculino;72;Rio Novo;SIM;SIM;2020-05-11
+2847;Masculino;63;Uberlândia;SIM;NÃO;2020-05-11
+2848;Masculino;62;Nova Serrana;SIM;SIM;2020-05-11
+2849;Masculino;38;Belo Horizonte;NA;NA;2020-05-11
+2850;Masculino;32;Juiz de Fora;NÃO;NÃO;2020-05-11
+2851;Feminino;42;Belo Horizonte;NA;NA;2020-05-11
+2852;Masculino;56;Belo Horizonte;NA;NA;2020-05-11
+2853;Feminino;58;Belo Horizonte;NA;NA;2020-05-11
+2854;Feminino;31;Muriaé;NA;NA;2020-05-11
+2855;Feminino;43;Muriaé;NA;NA;2020-05-11
+2856;Masculino;39;Muriaé;NA;NA;2020-05-11
+2857;Masculino;42;Manhuaçu;NA;NA;2020-05-11
+2858;Feminino;69;Mantena;SIM;NÃO;2020-05-11
+2859;Masculino;43;Ribeirão das Neves;NA;NA;2020-05-11
+2860;Masculino;26;Arceburgo;NÃO;NÃO;2020-05-11
+2861;Masculino;16;Barbacena;NÃO;NÃO;2020-05-11
+2862;Masculino;25;Dionísio;NÃO;NÃO;2020-05-11
+2863;Masculino;56;Dionísio;NÃO;NÃO;2020-05-11
+2864;Masculino;25;Dionísio;NÃO;NÃO;2020-05-11
+2865;Masculino;53;Dionísio;NÃO;NÃO;2020-05-11
+2866;Masculino;64;Dionísio;NÃO;NÃO;2020-05-11
+2867;Masculino;39;Vargem Alegre;SIM;SIM;2020-05-11
+2868;Feminino;24;Cana Verde;NA;NA;2020-05-11
+2869;Feminino;43;Cana Verde;NA;NA;2020-05-11
+2870;Masculino;59;Cana Verde;NA;NA;2020-05-11
+2871;Masculino;45;Cana Verde;NA;NA;2020-05-11
+2872;Masculino;65;Carmo da Mata;NA;NA;2020-05-11
+2873;Feminino;37;Divinópolis;NA;NA;2020-05-11
+2874;Masculino;53;Divinópolis;NA;NA;2020-05-11
+2875;Feminino;39;Divinópolis;NA;NA;2020-05-11
+2876;Masculino;26;Divinópolis;NA;NA;2020-05-11
+2877;Feminino;51;Divinópolis;NA;NA;2020-05-11
+2878;Feminino;56;Divinópolis;NA;NA;2020-05-11
+2879;Feminino;26;Divinópolis;NA;NA;2020-05-11
+2880;Masculino;55;Divinópolis;NA;NA;2020-05-11
+2881;Masculino;47;Divinópolis;NA;NA;2020-05-11
+2882;Masculino;61;Divinópolis;NA;NA;2020-05-11
+2883;Feminino;48;Divinópolis;NA;NA;2020-05-11
+2884;Feminino;41;Itapecerica;NA;NA;2020-05-11
+2885;Feminino; 0;São Sebastião do Oeste;NA;NA;2020-05-11
+2886;Feminino; 2;São Sebastião do Oeste;NA;NA;2020-05-11
+2887;Masculino;21;São Sebastião do Oeste;NA;NA;2020-05-11
+2888;Masculino;64;Itabira;NÃO;NÃO;2020-05-11
+2889;Masculino;26;Itabira;NÃO;NÃO;2020-05-11
+2890;Masculino;62;Governador Valadares;SIM;SIM;2020-05-11
+2891;Feminino;35;São Francisco;NÃO;NÃO;2020-05-11
+2892;Masculino;43;São Francisco;NÃO;NÃO;2020-05-11
+2893;Masculino;40;São Francisco;NÃO;NÃO;2020-05-11
+2894;Feminino;54;São Francisco;NÃO;NÃO;2020-05-11
+2895;Feminino;22;São Francisco;NÃO;NÃO;2020-05-11
+2896;Masculino;49;Juiz de Fora;NÃO;NÃO;2020-05-11
+2897;Feminino;31;Juiz de Fora;NÃO;NÃO;2020-05-11
+2898;Feminino;28;Juiz de Fora;NÃO;NÃO;2020-05-11
+2899;Feminino;30;Juiz de Fora;NÃO;NÃO;2020-05-11
+2900;Feminino;78;Juiz de Fora;NÃO;NÃO;2020-05-11
+2901;Feminino;46;Juiz de Fora;NÃO;NÃO;2020-05-11
+2902;Masculino;33;Juiz de Fora;NÃO;NÃO;2020-05-11
+2903;Feminino;42;Juiz de Fora;NÃO;NÃO;2020-05-11
+2904;Masculino;25;Juiz de Fora;NÃO;NÃO;2020-05-11
+2905;Feminino;55;Juiz de Fora;NÃO;NÃO;2020-05-11
+2906;Feminino;23;Juiz de Fora;NÃO;NÃO;2020-05-11
+2907;Feminino;49;Juiz de Fora;NÃO;NÃO;2020-05-11
+2908;Feminino;69;Juiz de Fora;NÃO;NÃO;2020-05-11
+2909;Masculino;57;Juiz de Fora;NÃO;NÃO;2020-05-11
+2910;Feminino;33;Juiz de Fora;NÃO;NÃO;2020-05-11
+2911;Masculino;33;Juiz de Fora;NÃO;NÃO;2020-05-11
+2912;Masculino;52;Juiz de Fora;NÃO;NÃO;2020-05-11
+2913;Feminino;36;Juiz de Fora;NÃO;NÃO;2020-05-11
+2914;Feminino;37;Juiz de Fora;NÃO;NÃO;2020-05-11
+2915;Feminino;39;Juiz de Fora;NÃO;NÃO;2020-05-11
+2916;Masculino;21;Juiz de Fora;NÃO;NÃO;2020-05-11
+2917;Masculino;53;Juiz de Fora;NÃO;NÃO;2020-05-11
+2918;Feminino;12;Juiz de Fora;NÃO;NÃO;2020-05-11
+2919;Feminino;33;Juiz de Fora;NÃO;NÃO;2020-05-11
+2920;Masculino;63;Juiz de Fora;NÃO;NÃO;2020-05-11
+2921;Feminino;52;Juiz de Fora;NÃO;NÃO;2020-05-11
+2922;Masculino;38;Juiz de Fora;NÃO;NÃO;2020-05-11
+2923;Feminino;58;Juiz de Fora;NÃO;NÃO;2020-05-11
+2924;Feminino;29;Leopoldina;NÃO;NÃO;2020-05-11
+2925;Feminino;22;Leopoldina;NÃO;NÃO;2020-05-11
+2926;Masculino;35;Leopoldina;NÃO;NÃO;2020-05-11
+2927;Feminino;47;Lajinha;NÃO;NÃO;2020-05-11
+2928;Feminino;41;Alto Jequitibá;NÃO;NÃO;2020-05-11
+2929;Masculino;21;Matias Cardoso;NÃO;NÃO;2020-05-11
+2930;Feminino;15;Montes Claros;NÃO;NÃO;2020-05-11
+2931;Feminino;40;Montes Claros;NÃO;NÃO;2020-05-11
+2932;Feminino;46;Montes Claros;NÃO;NÃO;2020-05-11
+2933;Masculino;44;Montes Claros;NÃO;NÃO;2020-05-11
+2934;Masculino;61;Viçosa;NÃO;NÃO;2020-05-11
+2935;Feminino;64;Viçosa;NÃO;NÃO;2020-05-11
+2936;Feminino;30;Viçosa;NÃO;NÃO;2020-05-11
+2937;Feminino;50;Wenceslau Braz;NÃO;NÃO;2020-05-11
+2938;Masculino;24;Wenceslau Braz;NÃO;NÃO;2020-05-11
+2939;Masculino;63;Piranguçu;SIM;NÃO;2020-05-11
+2940;Masculino;34;Piranguçu;NÃO;NÃO;2020-05-11
+2941;Feminino;70;Poços de Caldas;NÃO;NÃO;2020-05-11
+2942;Feminino;63;Poços de Caldas;NÃO;NÃO;2020-05-11
+2943;Masculino;74;Pouso Alegre;NÃO;NÃO;2020-05-11
+2944;Masculino;59;Pouso Alegre;Sim;NÃO;2020-05-11
+2945;Feminino;75;Pouso Alegre;Não;NÃO;2020-05-11
+2946;Masculino;55;Uberlândia;NÃO;NÃO;2020-05-11
+2947;Masculino;23;Uberlândia;NÃO;NÃO;2020-05-11
+2948;Masculino;33;Uberlândia;NÃO;NÃO;2020-05-11
+2949;Feminino;49;Uberlândia;NÃO;NÃO;2020-05-11
+2950;Masculino;30;Uberlândia;NÃO;NÃO;2020-05-11
+2951;Masculino;55;Uberlândia;NÃO;NÃO;2020-05-11
+2952;Masculino;19;Uberlândia;NÃO;NÃO;2020-05-11
+2953;Masculino;50;Uberlândia;NÃO;NÃO;2020-05-11
+2954;Masculino;31;Uberlândia;NÃO;NÃO;2020-05-11
+2955;Masculino;40;Uberlândia;NÃO;NÃO;2020-05-11
+2956;Masculino;44;OUTROS;NÃO;NÃO;2020-05-11
+2957;Feminino;31;Uberlândia;NÃO;NÃO;2020-05-11
+2958;Feminino;42;Uberlândia;NÃO;NÃO;2020-05-11
+2959;Masculino;26;Uberlândia;NÃO;NÃO;2020-05-11
+2960;Feminino;66;Uberlândia;NÃO;NÃO;2020-05-11
+2961;Masculino;26;Uberlândia;NÃO;NÃO;2020-05-11
+2962;Masculino;42;Uberlândia;NÃO;NÃO;2020-05-11
+2963;Masculino;45;Patrocínio;NÃO;não;2020-05-11
+2964;Masculino;58;Uberlândia;SIM;NÃO;2020-05-11
+2965;Feminino; 5;Unaí;NÃO;NÃO;2020-05-11
+2966;Feminino;72;Três Corações;SIM;NÃO;2020-05-11
+2967;Masculino;56;Três Corações;NÃO;NÃO;2020-05-11
+2968;Masculino;55;Três Corações;SIM;SIM;2020-05-11
+2969;Masculino;91;Uberlândia;NA;NA;2020-05-11
+2970;Feminino;29;Belo Horizonte;NA;NA;2020-05-11
+2971;Masculino;49;Belo Horizonte;NA;NA;2020-05-11
+2972;Feminino;70;Brumadinho;NÃO;NÃO;2020-05-11
+2973;Masculino;30;Belo Horizonte;NA;NA;2020-05-11
+2974;Masculino;56;Belo Horizonte;NA;NA;2020-05-11
+2975;Feminino;58;Contagem;NA;NA;2020-05-11
+2976;Masculino;39;Contagem;NA;NA;2020-05-11
+2977;Masculino;24;Betim;NA;NA;2020-05-11
+2978;Feminino;57;Belo Horizonte;NA;NA;2020-05-11
+2979;Feminino;42;Belo Horizonte;NA;NA;2020-05-11
+2980;Feminino;24;Belo Horizonte;NA;NA;2020-05-11
+2981;Feminino;41;NA;NA;NA;2020-05-11
+2982;Feminino;65;Belo Horizonte;NA;NA;2020-05-11
+2983;Masculino;57;Belo Horizonte;NA;NA;2020-05-11
+2984;Masculino;28;OUTROS;NA;NA;2020-05-11
+2985;Feminino;28;Belo Horizonte;NA;NA;2020-05-11
+2986;Masculino;57;OUTROS;NA;NA;2020-05-11
+2987;Masculino;46;Belo Horizonte;NA;NA;2020-05-11
+2988;Masculino;34;Belo Horizonte;NA;NA;2020-05-11
+2989;Masculino;49;Sarzedo;SIM;NA;2020-05-11
+2991;Feminino;69;Belo Horizonte;NA;NA;2020-05-11
+2992;Feminino;38;Uberaba;NA;NA;2020-05-11
+2993;Masculino;77;Fervedouro;NA;NA;2020-05-11
+2994;Feminino;44;Manhuaçu;NA;NA;2020-05-11
+2995;Masculino;69;Belo Horizonte;NA;NA;2020-05-11
+2996;Masculino;40;Ribeirão das Neves;NA;NA;2020-05-11
+2997;Feminino;87;Belo Horizonte;SIM;NA;2020-05-11
+2998;Masculino;58;Uberaba;NA;NA;2020-05-11
+2999;Masculino;42;Caratinga;NA;NA;2020-05-11
+3000;Feminino;47;Uberaba;NA;NA;2020-05-11
+3001;Masculino;55;Vazante;NA;NA;2020-05-11
+3002;Masculino;47;Contagem;NA;NA;2020-05-11
+3003;Feminino;37;Muriaé;NA;NA;2020-05-11
+3004;Masculino;44;Belo Horizonte;NA;NA;2020-05-11
+3005;Masculino;69;Recreio;SIM;NÃO;2020-05-11
+3006;Feminino;48;Muriaé;NA;NA;2020-05-11
+3007;Masculino;21;Nova Porteirinha;SIM;SIM;2020-05-11
+3008;Masculino;46;Aimorés;NÃO;NÃO;2020-05-11
+3009;Feminino; 2;Caratinga;NA;NA;2020-05-11
+3010;Feminino;58;São João do Manhuaçu;NA;NA;2020-05-11
+3011;Feminino;76;Montes Claros;SIM;NÃO;2020-05-11
+3012;Masculino;49;Muriaé;NA;NA;2020-05-11
+3013;Feminino;43;Santana de Cataguases;SIM;SIM;2020-05-11
+3014;Masculino;65;Três Corações;NA;NA;2020-05-11
+3015;Masculino;82;Manhuaçu;NA;NA;2020-05-11
+3016;Masculino;28;Muriaé;NA;NA;2020-05-11
+3017;Feminino;39;Muriaé;NA;NA;2020-05-11
+3018;Feminino;26;Muriaé;NA;NA;2020-05-11
+3019;Masculino;60;Contagem;SIM;NÃO;2020-05-11
+3020;Masculino;43;Uberlândia;SIM;NÃO;2020-05-11
+3021;Masculino;64;Campos Gerais;SIM;SIM;2020-05-11
+3022;Feminino;89;Santa Luzia;NA;NA;2020-05-11
+3023;Masculino;69;Além Paraíba;SIM;NÃO;2020-05-11
+3024;Masculino;81;São José da Lapa;NA;NA;2020-05-11
+3025;Masculino;58;Belo Horizonte;NA;NA;2020-05-11
+3026;Feminino;22;Contagem;NA;NA;2020-05-11
+3027;Feminino;39;Belo Horizonte;NA;NA;2020-05-11
+3028;Feminino;37;Belo Horizonte;NA;NA;2020-05-11
+3029;Masculino;58;Extrema;SIM;SIM;2020-05-11
+3030;Feminino;50;Camanducaia;SIM;SIM;2020-05-11
+3031;Masculino;76;Perdões;SIM;NÃO;2020-05-11
+3032;Masculino;39;Capelinha;NÃO;NÃO;2020-05-11
+3033;Masculino;22;Belo Horizonte;NA;NA;2020-05-11
+3034;Feminino;27;Belo Horizonte;NA;NA;2020-05-11
+3035;Masculino;40;Belo Horizonte;NA;NA;2020-05-11
+3036;Masculino;45;Belo Horizonte;NA;NA;2020-05-11
+3037;Feminino;33;Belo Horizonte;NA;NA;2020-05-11
+3038;Masculino;36;Belo Horizonte;NA;NA;2020-05-11
+3039;Masculino;31;Belo Horizonte;NA;NA;2020-05-11
+3040;Feminino;38;Belo Horizonte;NA;NA;2020-05-11
+3041;Feminino;56;Belo Horizonte;NA;NA;2020-05-11
+3042;Masculino;44;Juiz de Fora;SIM;NÃO;2020-05-11
+3043;Masculino;45;Contagem;NA;NA;2020-05-11
+3044;Feminino;40;Belo Horizonte;NA;NA;2020-05-11
+3045;Feminino;43;Governador Valadares;NA;NA;2020-05-11
+3046;Masculino;72;OUTROS;SIM;SIM;2020-05-11
+3047;Feminino;49;Juiz de Fora;NA;NA;2020-05-11
+3048;Masculino;26;Belo Horizonte;NA;NA;2020-05-11
+3049;Feminino;33;Belo Horizonte;NA;NA;2020-05-11
+3050;Feminino;28;Belo Horizonte;NA;NA;2020-05-11
+3052;Feminino;39;Teófilo Otoni;SIM;SIM;2020-05-11
+3054;Masculino;53;Teófilo Otoni;SIM;SIM;2020-05-11
+3055;Masculino;70;Itambacuri;SIM;SIM;2020-05-11
+3056;Masculino;70;Belo Horizonte;NA;NA;2020-05-11
+3057;Feminino;32;Teófilo Otoni;NA;NA;2020-05-11
+3058;Masculino;39;Medina;NÃO;NÃO;2020-05-11
+3059;Masculino;58;João Monlevade;NA;NA;2020-05-11
+3060;Feminino;38;João Monlevade;NA;NA;2020-05-11
+3061;Feminino; 0;João Monlevade;NA;NA;2020-05-11
+3062;Feminino; 5;Lagoa da Prata;NA;NA;2020-05-11
+3063;Masculino;23;João Monlevade;NA;NA;2020-05-11
+3064;Feminino;61;João Monlevade;NA;NA;2020-05-11
+3065;Feminino; 1;João Monlevade;NA;NA;2020-05-11
+3066;Masculino;68;Itabirito;NA;NA;2020-05-11
+3067;Feminino;35;Teófilo Otoni;NA;NA;2020-05-11
+3068;Masculino;42;Patos de Minas;NA;NA;2020-05-11
+3069;Feminino;31;Teófilo Otoni;NA;NA;2020-05-11
+3070;Feminino;17;Betim;NA;NA;2020-05-11
+3071;Feminino;37;Caldas;NÃO;NÃO;2020-05-11
+3072;Masculino;45;Senador José Bento;NÃO;NÃO;2020-05-11
+3073;masculino;56;Brasópolis;NÃO;NÃO;2020-05-11
+3074;masculino;53;Brasópolis;NÃO;NÃO;2020-05-11
+3075;Feminino;52;Brasópolis;NÃO;NÃO;2020-05-11
+3076;Feminino;50;Extrema;SIM;SIM;2020-05-11
+3077;Masculino;74;Poços de Caldas;SIM;SIM;2020-05-11
+3078;Feminino;50;Extrema;NÃO;NÃO;2020-05-11
+3079;Masculino;35;Itapeva;NÃO;NÃO;2020-05-11
+3080;Masculino;40;Curvelo;NÃO;NÃO;2020-05-11
+3081;Masculino;65;Curvelo;NÃO;NÃO;2020-05-11
+3082;Masculino;28;Curvelo;NÃO;NÃO;2020-05-11
+3083;Feminino;53;Curvelo;NÃO;NÃO;2020-05-11
+3084;Masculino;42;Curvelo;NÃO;NÃO;2020-05-11
+3085;Masculino;26;Muriaé;NÃO;NÃO;2020-05-11
+3086;Masculino;89;Muriaé;SIM;SIM;2020-05-11
+3087;Feminino;50;Lambari;NÃO;NÃO;2020-05-11
+3088;Feminino;28;Lambari;NÃO;NÃO;2020-05-11
+3089;Feminino;27;Lambari;NÃO;NÃO;2020-05-11
+3090;Masculino;46;Lambari;NÃO;NÃO;2020-05-11
+3091;Feminino;88;Lambari;NÃO;NÃO;2020-05-11
+3092;Masculino;60;Lambari;NÃO;NÃO;2020-05-11
+3093;Masculino;30;Lambari;NÃO;NÃO;2020-05-11
+3094;Feminino;13;Lambari;NÃO;NÃO;2020-05-11
+3095;Masculino;20;Varginha;NÃO;NÃO;2020-05-11
+3096;Feminino;67;Varginha;NÃO;NÃO;2020-05-11
+3097;Masculino;48;Varginha;NÃO;NÃO;2020-05-11
+3098;Feminino;51;Três Corações;NÃO;NÃO;2020-05-11
+3099;Masculino;46;Três Corações;NÃO;NÃO;2020-05-11
+3100;Masculino;40;Três Corações;NÃO;NÃO;2020-05-11
+3101;Masculino;50;Três Corações;NÃO;NÃO;2020-05-11
+3102;Feminino;77;Boa Esperança;NÃO;NÃO;2020-05-11
+3103;Masculino;12;Itanhandu;NÃO;NÃO;2020-05-11
+3104;Masculino;22;Ouro Branco;NÃO;NÃO;2020-05-11
+3105;Feminino;46;Ouro Branco;NÃO;NÃO;2020-05-11
+3106;Masculino;62;Ouro Branco;NÃO;NÃO;2020-05-11
+3107;Masculino;56;Conselheiro Lafaiete;NÃO;NÃO;2020-05-11
+3108;Masculino;30;Barbacena;NÃO;NÃO;2020-05-11
+3109;Masculino;54;Mariana;NÃO;NÃO;2020-05-11
+3110;Masculino;38;Lagoa da Prata;NA;NA;2020-05-11
+3111;Feminino;26;Mantena;NÃO;NÃO;2020-05-11
+3112;Feminino;79;Governador Valadares;SIM;NÃO;2020-05-11
+3113;Feminino;31;São Francisco;NÃO;NÃO;2020-05-11
+3114;Masculino;54;São Francisco;NÃO;NÃO;2020-05-11
+3115;Feminino;43;São Francisco;NÃO;NÃO;2020-05-11
+3116;Feminino;26;São Francisco;NÃO;NÃO;2020-05-11
+3117;Feminino;32;São Francisco;NÃO;NÃO;2020-05-11
+3118;Feminino;32;São Francisco;NÃO;NÃO;2020-05-11
+3119;Feminino;72;Juiz de Fora;SIM;SIM;2020-05-11
+3120;Masculino;37;Juiz de Fora;NÃO;NÃO;2020-05-11
+3121;Feminino;90;Juiz de Fora;SIM;SIM;2020-05-11
+3122;Masculino;56;Juiz de Fora;SIM;NÃO;2020-05-11
+3123;Masculino;34;Juiz de Fora;NÃO;NÃO;2020-05-11
+3124;Masculino;43;Juiz de Fora;NÃO;NÃO;2020-05-11
+3125;Masculino;39;Juiz de Fora;NÃO;NÃO;2020-05-11
+3126;Masculino;79;Juiz de Fora;SIM;SIM;2020-05-11
+3127;Masculino;47;Juiz de Fora;SIM;SIM;2020-05-11
+3128;Feminino;37;Juiz de Fora;NÃO;NÃO;2020-05-11
+3129;Masculino;37;Leopoldina;NÃO;NÃO;2020-05-11
+3130;Masculino;66;Carangola;SIM;NÃO;2020-05-11
+3131;Masculino;85;Carangola;NÃO;NÃO;2020-05-11
+3132;Feminino;30;Carangola;NÃO;NÃO;2020-05-11
+3133;Masculino;50;Montes Claros;NA;NA;2020-05-11
+3134;Feminino;39;Montes Claros;NA;NA;2020-05-11
+3135;Masculino;26;Riacho dos Machados;NÃO;NÃO;2020-05-11
+3136;Masculino;40;Uberlândia;NA;NA;2020-05-11
+3137;Masculino;61;Uberlândia;NA;NA;2020-05-11
+3138;Masculino;43;Uberlândia;NA;NA;2020-05-11
+3139;Masculino;52;Uberlândia;NA;NA;2020-05-11
+3140;Masculino;61;Uberlândia;NA;NA;2020-05-11
+3141;Feminino;29;Uberlândia;NA;NA;2020-05-11
+3142;Feminino;40;Uberlândia;NA;NA;2020-05-11
+3143;Feminino;27;Uberlândia;NA;NA;2020-05-11
+3144;Masculino;44;Uberlândia;NA;NA;2020-05-11
+3145;Masculino;29;Monte Alegre de Minas;NA;NA;2020-05-11
+3146;Masculino;33;Monte Alegre de Minas;NA;NA;2020-05-11
+3147;Masculino; 1;Monte Alegre de Minas;NA;NA;2020-05-11
+3148;Masculino;28;Monte Alegre de Minas;NA;NA;2020-05-11
+3149;Feminino;66;Uberlândia;NA;NA;2020-05-11
+3150;Masculino;44;Uberlândia;NA;NA;2020-05-11
+3151;Masculino;45;Uberlândia;NA;NA;2020-05-11
+3152;Masculino;57;Patos de Minas;SIM;NÃO;2020-05-11
+3153;Masculino;33;Juiz de Fora;NÃO;NÃO;2020-05-11
+3154;Feminino;31;Belo Horizonte;NA;NA;2020-05-11
+3155;Masculino;50;Belo Horizonte;NA;NA;2020-05-11
+3158;Masculino;16;Elói Mendes;Sim;Não;2020-05-11
+3159;Masculino;32;Varginha;Não;Não;2020-05-11
+3160;Masculino;56;Varginha;Sim;Não;2020-05-11
+3164;Masculino;19;Varginha;Não;Não;2020-05-11
+3165;Masculino;44;Varginha;Não;Não;2020-05-11
+3166;Feminino;46;Varginha;Não;Não;2020-05-11
+3167;Masculino;51;Varginha;Não;Não;2020-05-11
+3168;Feminino;59;Belo Horizonte;NA;NA;2020-05-11
+3169;Feminino;22;Belo Horizonte;NA;NA;2020-05-11
+3170;Feminino; 8;Belo Horizonte;NA;NA;2020-05-11
+3171;Feminino;25;Belo Horizonte;NA;NA;2020-05-11
+3172;Masculino;34;Divinópolis;NA;NA;2020-05-11
+3173;Feminino;74;Belo Horizonte;NA;NA;2020-05-11
+3174;Feminino;23;Sete Lagoas;NA;NA;2020-05-11
+3175;Masculino;43;Sete Lagoas;NA;NA;2020-05-11
+3176;Masculino;46;Sete Lagoas;NA;NA;2020-05-11
+3177;Masculino;35;Sete Lagoas;NA;NA;2020-05-11
+3178;Feminino;50;Ponte Nova;NA;NA;2020-05-11
+3179;Masculino;38;Formiga;NA;NA;2020-05-11
+3180;Feminino;30;Nova Lima;NA;NA;2020-05-11
+3181;Feminino;47;Nova Lima;NA;NA;2020-05-11
+3182;Feminino;15;Betim;NA;NA;2020-05-11
+3183;Masculino;45;Betim;NA;NA;2020-05-11
+3184;Masculino;NA;Mário Campos;NA;NA;2020-05-11
+3185;Feminino;87;Carmo do Cajuru;NA;NA;2020-05-11
+3186;Masculino;55;Cataguases;NA;NA;2020-05-11
+3187;Feminino;27;Alfredo Vasconcelos;SIM;NÃO;2020-05-11
+3188;Feminino;50;Carangola;NA;NA;2020-05-11
+3189;Feminino;45;Ribeirão das Neves;NA;NA;2020-05-11
+3190;Feminino;46;Santa Luzia;NA;NA;2020-05-11
+3191;Feminino;25;Sabará;NA;NA;2020-05-11
+3192;Feminino;28;Araguari;NA;NA;2020-05-11
+3193;Masculino;67;Formiga;NA;NA;2020-05-11
+3194;Masculino;57;Divinópolis;NA;NA;2020-05-11
+3195;Masculino; 4;Extrema;NÃO;NÃO;2020-05-11
+3196;Feminino;36;Extrema;NÃO;NÃO;2020-05-11
+3197;Feminino;46;Lavras;NA;NA;2020-05-11
+3198;Masculino;50;Lavras;NA;NA;2020-05-11
+3199;Masculino;38;Pouso Alegre;NÃO;NÃO;2020-05-11
+3200;Feminino;34;Pouso Alegre;NÃO;NÃO;2020-05-11
+3201;Masculino;58;Juiz de Fora;NA;NA;2020-05-11
+3202;Masculino;40;Belo Horizonte;NA;NA;2020-05-11
+3203;Masculino;67;Abaeté;NÃO;NÃO;2020-05-11
+3204;Masculino;63;Nova Lima;NA;NA;2020-05-11
+3205;Masculino;40;Sete Lagoas;NA;NA;2020-05-11
+3206;Masculino;33;Raposos;NA;NA;2020-05-11
+3207;Feminino;24;Belo Horizonte;NA;NA;2020-05-11
+3208;Masculino;46;Belo Horizonte;NA;NA;2020-05-11
+3209;Feminino;40;Belo Horizonte;NA;NA;2020-05-11
+3210;Masculino;33;Belo Horizonte;NA;NA;2020-05-11
+3211;Masculino;66;Belo Horizonte;NA;NA;2020-05-11
+3212;Feminino;55;Ribeirão das Neves;NA;NA;2020-05-11
+3213;Feminino;29;OUTROS;NA;NA;2020-05-11
+3214;Feminino;39;Belo Horizonte;NA;NA;2020-05-11
+3215;Feminino;78;Minas Novas;SIM;NÃO;2020-05-11
+3216;Masculino;52;Botelhos;SIM;NÃO;2020-05-11
+3217;Feminino;29;Ouro Branco;NÃO;NÃO;2020-05-11
+3218;Feminino;48;Caratinga;NÃO;NÃO;2020-05-11
+3219;Masculino;57;Governador Valadares;NÃO;NÃO;2020-05-11
+3220;Masculino;59;São João da Mata;SIM;NA;2020-05-11
+3221;Masculino;17;Cambuí;NÃO;NÃO;2020-05-11
+3222;Masculino;31;Pouso Alegre;Não;NÃO;2020-05-11
+3223;Masculino;62;Cambuí;NÃO;Não;2020-05-11
+3224;Masculino;29;Congonhal;Não;Não;2020-05-11
+3225;Masculino;58;Caldas;NÃO;NÃO;2020-05-11
+3226;Masculino;55;Estiva;NÃO;NÃO;2020-05-11
+3227;Feminino;30;Juiz de Fora;NA;NA;2020-05-11
+3228;Masculino;32;Juiz de Fora;NA;NA;2020-05-11
+3229;Masculino;38;Juiz de Fora;NA;NA;2020-05-11
+3230;Feminino;37;Juiz de Fora;NA;NA;2020-05-11
+3231;Feminino;41;Juiz de Fora;NA;NA;2020-05-11
+3232;Masculino;40;Juiz de Fora;NA;NA;2020-05-11
+3233;Feminino;32;Juiz de Fora;NA;NA;2020-05-11
+3234;Feminino;29;Juiz de Fora;NA;NA;2020-05-11
+3235;Feminino;54;Juiz de Fora;NA;NA;2020-05-11
+3236;Feminino;73;Juiz de Fora;NA;NA;2020-05-11
+3237;Feminino;66;Juiz de Fora;NA;NA;2020-05-11
+3238;Masculino;27;Juiz de Fora;NA;NA;2020-05-11
+3239;Feminino;66;Juiz de Fora;NA;NA;2020-05-11
+3240;Masculino;61;Juiz de Fora;NA;NA;2020-05-11
+3241;Masculino;50;Juiz de Fora;NA;NA;2020-05-11
+3242;Masculino;49;Juiz de Fora;NA;NA;2020-05-11
+3243;Feminino;28;Juiz de Fora;NA;NA;2020-05-11
+3244;Feminino;33;Juiz de Fora;NA;NA;2020-05-11
+3245;Feminino;42;Juiz de Fora;NÃO;NÃO;2020-05-11
+3246;Feminino;17;Santos Dumont;NÃO;NÃO;2020-05-11
+3247;Masculino;36;Santos Dumont;NÃO;NÃO;2020-05-11
+3248;Masculino;39;Juiz de Fora;NA;NA;2020-05-11
+3249;Masculino;33;Juiz de Fora;NA;NA;2020-05-11
+3250;Feminino;36;Juiz de Fora;NA;NA;2020-05-11
+3251;Feminino;67;Juiz de Fora;NA;NA;2020-05-11
+3252;Masculino;27;Juiz de Fora;NA;NA;2020-05-11
+3253;Masculino; 0;Juiz de Fora;NA;NA;2020-05-11
+3254;Feminino;41;Juiz de Fora;NA;NA;2020-05-11
+3255;Masculino;45;Juiz de Fora;NA;NA;2020-05-11
+3256;Feminino;63;Juiz de Fora;NA;NA;2020-05-11
+3257;Masculino;31;Mar de Espanha;SIM;SIM;2020-05-11
+3258;Masculino;52;Mar de Espanha;NÃO;NÃO;2020-05-11
+3259;Feminino;61;Mar de Espanha;SIM;SIM;2020-05-11
+3260;Feminino;57;Mar de Espanha;NÃO;NÃO;2020-05-11
+3261;Feminino;80;Mar de Espanha;NÃO;NÃO;2020-05-11
+3262;Feminino;52;Mar de Espanha;NÃO;NÃO;2020-05-11
+3263;Feminino;67;Santa Rita de Jacutinga;NÃO;NÃO;2020-05-11
+3264;Feminino;49;Estrela Dalva;SIM;NÃO;2020-05-11
+3265;Feminino;48;Pirapetinga;NÃO;NÃO;2020-05-11
+3266;Masculino;26;Pirapetinga;NÃO;NÃO;2020-05-11
+3267;Feminino;21;Padre Paraíso;NÃO;NÃO;2020-05-11
+3268;Masculino;45;Elói Mendes;NÃO;NÃO;2020-05-11
+3269;Masculino;44;Três Pontas;NÃO;NÃO;2020-05-11
+3270;Feminino;42;Passos;NÃO;NÃO;2020-05-11
+3271;Masculino;54;Passos;NÃO;NÃO;2020-05-11
+3272;Feminino;38;Mariana;NÃO;NÃO;2020-05-11
+3273;Masculino;81;Mariana;NÃO;NÃO;2020-05-11
+3274;Masculino;53;Mariana;SIM;SIM;2020-05-11
+3275;Feminino;37;Planura;NÃO;NÃO;2020-05-11
+3276;Feminino;52;Frutal;NÃO;NÃO;2020-05-11
+3277;Masculino;67;Frutal;SIM;SIM;2020-05-11
+3278;Feminino;24;Uberaba;NÃO;NÃO;2020-05-11
+3279;Feminino;38;Uberaba;NÃO;NÃO;2020-05-11
+3280;Masculino;35;Uberaba;NÃO;NÃO;2020-05-11
+3281;Masculino;64;Uberaba;SIM;NA;2020-05-11
+3282;Feminino;82;Uberaba;NÃO;NÃO;2020-05-11
+3283;Masculino;42;Uberaba;NÃO;NÃO;2020-05-11
+3284;Feminino;73;Uberaba;NÃO;NÃO;2020-05-11
+3285;Feminino;14;Uberaba;NÃO;NÃO;2020-05-11
+3286;Feminino;43;Uberaba;NÃO;NÃO;2020-05-11
+3287;Feminino;43;Sacramento;NÃO;NÃO;2020-05-11
+3288;Feminino;79;Juiz de Fora;NA;NA;2020-05-11
+3289;Feminino;60;Juiz de Fora;NA;NA;2020-05-11
+3290;Masculino;65;Juiz de Fora;NA;NA;2020-05-11
+3291;Feminino;38;Muriaé;NA;NA;2020-05-11
+3292;Masculino;43;Muriaé;NA;NA;2020-05-11
+3293;Feminino;42;Muriaé;NA;NA;2020-05-11
+3294;Masculino;37;Muriaé;NA;NA;2020-05-11
+3295;Feminino;26;Carangola;NA;NA;2020-05-11
+3296;Feminino;76;Alto Jequitibá;NA;NA;2020-05-11
+3297;Masculino;69;NA;NA;NA;2020-05-11
+3298;Masculino;89;Cascalho Rico;NA;NA;2020-05-11
+3299;Feminino;41;Belo Horizonte;NA;NA;2020-05-11
+3300;Feminino;37;Betim;NA;NA;2020-05-11
+3301;Masculino;48;Contagem;NA;NA;2020-05-11
+3302;Feminino;48;Sarzedo;NA;NA;2020-05-11
+3303;Feminino;39;OUTROS;NA;NA;2020-05-11
+3304;Feminino;35;Igarapé;NA;NA;2020-05-11
+3305;Feminino;13;OUTROS;NA;NA;2020-05-11
+3306;Feminino;35;Brumadinho;NA;NA;2020-05-11
+3307;Feminino;37;Ibirité;NA;NA;2020-05-11
+3308;Masculino;44;OUTROS;NA;NA;2020-05-11
+3309;Masculino;29;OUTROS;NA;NA;2020-05-11
+3310;Feminino;83;OUTROS;NA;NA;2020-05-11
+3311;Feminino;44;OUTROS;NA;NA;2020-05-11
+3312;Feminino;34;Barbacena;NÃO;NÃO;2020-05-11
+3313;Masculino;22;Barbacena;NÃO;NÃO;2020-05-11
+3314;Feminino;31;Cajuri;NÃO;NÃO;2020-05-11
+3315;Feminino;71;Pouso Alegre;SIM;NÃO;2020-05-11
+3316;Masculino;27;Pouso Alegre;SIM;NÃO;2020-05-11
+3317;Feminino;49;Extrema;NÃO;NÃO;2020-05-11
+3318;Feminino;63;Extrema;SIM;NÃO;2020-05-11
+3319;Feminino;59;Caxambu;NÃO;NÃO;2020-05-11
+3320;Feminino;69;Itajubá;SIM;NA;2020-05-11
+3320;Masculino;68;Divinópolis;NA;NA;2020-05-11
+3321;Feminino;52;Montes Claros;NA;NA;2020-05-11
+3322;Masculino;27;Montes Claros;NA;NA;2020-05-11
+3323;Masculino;76;Além Paraíba;NA;NA;2020-05-11
+3324;Masculino;70;Santo Antônio do Aventureiro;NA;NA;2020-05-11
+3325;Masculino;36;Além Paraíba;NA;NA;2020-05-11
+3326;Feminino;54;Estrela Dalva;NA;NA;2020-05-11
+3327;Masculino;81;Estrela Dalva;NA;NA;2020-05-11
+3328;Masculino;36;Muriaé;NA;NA;2020-05-11
+3329;Feminino;26;Muriaé;NA;NA;2020-05-11
+3330;Feminino;53;Teófilo Otoni;NA;NA;2020-05-11
+3331;Feminino;54;Teófilo Otoni;NA;NA;2020-05-11
+3332;Feminino;27;Teófilo Otoni;NA;NA;2020-05-11
+3333;Masculino;77;Teófilo Otoni;NA;NA;2020-05-11
+3334;Feminino;50;Teófilo Otoni;NA;NA;2020-05-11
+3335;Masculino;29;Teófilo Otoni;NA;NA;2020-05-11
+3336;Masculino;40;Teófilo Otoni;NA;NA;2020-05-11
+3337;Feminino;44;Nanuque;NA;NA;2020-05-11
+3338;Masculino;34;OUTROS;NA;NA;2020-05-11
+3339;Feminino;21;Aimorés;NA;NA;2020-05-11
+3340;Feminino;20;Aimorés;NA;NA;2020-05-11
+3341;Masculino;36;Santana do Paraíso;NA;NA;2020-05-11
+3342;Feminino;39;Teófilo Otoni;NA;NA;2020-05-11
+3343;Masculino;32;Teófilo Otoni;NA;NA;2020-05-11
+3344;Masculino;44;Passos;NA;NA;2020-05-11
+3345;Feminino;89;Ilicínea;NA;NA;2020-05-11
+3346;Masculino;56;Lavras;NA;NA;2020-05-11
+3347;Feminino;70;Vazante;NA;NA;2020-05-11
+3348;Masculino;43;São Gotardo;NA;NA;2020-05-11
+3349;Masculino;69;Pedro Leopoldo;NA;NA;2020-05-11
+3350;Masculino;29;Belo Horizonte;NA;NA;2020-05-11
+3351;Feminino;71;Belo Horizonte;NA;NA;2020-05-11
+3352;Masculino;40;ibirité;NA;NA;2020-05-11
+3353;Masculino;81;Belo Horizonte;NA;NA;2020-05-11
+3354;Feminino;50;Belo Horizonte;NA;NA;2020-05-11
+3355;Masculino;64;Belo Horizonte;NA;NA;2020-05-11

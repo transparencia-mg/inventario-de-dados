@@ -5,4 +5,5 @@ Ordem;Campo;Tipo;Conceituação
 4;MUNICIPIO_RESIDENCIA;Texto;Município de residência do paciente. O valor OUTROS representa município de residência do paciente externo ao Estado de Minas Gerais.
 5;INTERNACAO;Texto;Informa se o paciente com caso confirmado de COVID 19 foi internado, com possibilidade de preenchimento SIM ou NÃO. Valores ausentes estão codificados como NA.
 6;INTERNACAO_UTI;Texto;Informa se o paciente com caso confirmado de COVID 19 internado, precisou de UTI (Unidade de Terapia Intensiva) com possibilidade de preenchimento SIM ou NÃO. Valores ausentes estão codificados como NA.
-7;DATA_ATUALIZACAO;Data;Data do upload do arquivo, no formato YYYY-MM-DD.
+7;COMORBIDADE ;Texto;Presença de doenças preexistentes/ comorbidades (diabetes, hipertensão, etc.), com possibilidade de preenchimento SIM ou NÃO. 
+8;DATA_ATUALIZACAO;Data;Data do upload do arquivo, no formato YYYY-MM-DD.

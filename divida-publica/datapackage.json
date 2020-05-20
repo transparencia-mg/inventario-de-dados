@@ -1,67 +1,284 @@
 {
-  "name": "divida-publica",
-  "title": "Dívida Pública",  
-  "private": "false",
-  "maintainer": "Diretoria de Transparência Ativa da Controladoria Geral do Estado",
-  "maintainer_email": "transparencia@cge.mg.gov.br",
-  "notes": "Possui informações de pagamento da dívida pública do Estado, interna ou externa, incluindo separações relacionadas aos juros e encargos e amortizações efetuadas. Incluem dados inclusive da identificação dos contratos relacionados aos pagamentos.",
-  "url": "http://www.dados.mg.gov.br/dataset/divida-publica",
+  "profile": "tabular-data-package",
   "resources": [
     {
-      "divida-pub": {
-      "fields": [
-        "DATA_ISO",
-        "DIA",
-        "MES",
-        "ANO",
-        "CD_TIPO",
-        "NOME",
-        "CD_SIAFI",
-        "NR_CONTRATO_CONV",
-        "DT_ASSINATURA",
-        "DT_VENCIMENTO",
-        "VR_INICIAL",
-        "SQA_FAVORECIDO",
-        "TP_DOCUMENTO",
-        "NR_DOCUMENTO",
-        "NOME",
-        "VR_JUROS",
-        "VR_AMORTIZACAO"
-      ]
-     }
+      "name": "divida-pub-2020",
+      "path": "https://raw.githubusercontent.com/transparencia-mg/inventario-de-dados/master/divida-publica/data/divida-pub-2020.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "name": "DATA_ISO",
+            "type": "date",
+            "format": "default",
+            "title": "Data",
+            "description": "Data de apuração da execução da dívida"
+          },
+          {
+            "name": "DIA",
+            "type": "number",
+            "format": "default",
+            "description": "Descrição numérica do dia de apuração da execução da dívida",
+            "title": "Dia"
+          },
+          {
+            "name": "MES",
+            "type": "number",
+            "format": "default",
+            "description": "Descrição numérica do mês de apuração da execução da dívida",
+            "title": "Mês"
+          },
+          {
+            "name": "ANO",
+            "type": "number",
+            "format": "default",
+            "title": "Ano",
+            "description": "Descrição numérica do Ano de apuração da execução da dívida"
+          },
+          {
+            "name": "CD_TIPO",
+            "type": "number",
+            "format": "default",
+            "title": "Código do tipo da dívida",
+            "description": "Código do tipo da dívida"
+          },
+          {
+            "name": "NM_TIPO",
+            "type": "string",
+            "format": "default",
+            "title": "Tipo da dívida",
+            "description": "Tipo da dívida"
+          },
+          {
+            "name": "CD_SIAFI",
+            "type": "number",
+            "format": "default",
+            "description": "Código do Tipo de Contrato da Dívida Pública no SIAFI",
+            "title": "Código SIAFI"
+          },
+          {
+            "name": "NR_CONTRATO_CONV",
+            "type": "string",
+            "format": "default",
+            "description": "Número do Contrato da Dívida Pública",
+            "title": "Número do Contrato"
+          },
+          {
+            "name": "DT_ASSINATURA",
+            "type": "date",
+            "format": "default",
+            "title": "Data da Assinatura do Contrato ",
+            "description": "Data da Assinatura do Contrato da Dívida Pública"
+          },
+          {
+            "name": "DT_VENCIMENTO",
+            "type": "date",
+            "format": "default",
+            "description": "Data de Vencimento do Contrato da Dívida Pública",
+            "title": "Data de vencimento do contrato"
+          },
+          {
+            "name": "VR_INICIAL",
+            "type": "integer",
+            "format": "default",
+            "description": "Valor Inicial do Contrato da Dívida Pública",
+            "title": "Valor inicial do contrato"
+          },
+          {
+            "name": "SQA_FAVORECIDO",
+            "type": "number",
+            "format": "default",
+            "title": "SQA credor",
+            "description": "SQA credor"
+          },
+          {
+            "name": "TP_DOCUMENTO",
+            "type": "number",
+            "format": "default",
+            "title": "Tipo do documento do credor",
+            "description": "Tipo do documento do credor da dívida pública"
+          },
+          {
+            "name": "NR_DOCUMENTO",
+            "type": "string",
+            "format": "default",
+            "description": "Número do documento do Credor da Dívida Pública",
+            "title": "Número do documento do Credor"
+          },
+          {
+            "name": "NOME",
+            "type": "string",
+            "format": "default",
+            "description": "Nome do Credor da Dívida Pública",
+            "title": "Nome Credor"
+          },
+          {
+            "name": "VR_JUROS",
+            "type": "integer",
+            "format": "default",
+            "title": "Valor dos Juros",
+            "description": "Valor dos juros da Dívida Pública"
+          },
+          {
+            "name": "VR_AMORTIZACAO",
+            "type": "integer",
+            "format": "default",
+            "description": "Valor da amortização da Dívida Pública",
+            "title": "Valor da Amortização"
+          }
+        ]
+      }
     },
     {
-      "divida-pub-2020": {
-      "fields": [
-        "DATA_ISO",
-        "DIA",
-        "MES",
-        "ANO",
-        "CD_TIPO",
-        "NOME",
-        "CD_SIAFI",
-        "NR_CONTRATO_CONV",
-        "DT_ASSINATURA",
-        "DT_VENCIMENTO",
-        "VR_INICIAL",
-        "SQA_FAVORECIDO",
-        "TP_DOCUMENTO",
-        "NR_DOCUMENTO",
-        "NOME",
-        "VR_JUROS",
-        "VR_AMORTIZACAO"
-      ]
+      "name": "divida-pub",
+      "path": "https://raw.githubusercontent.com/transparencia-mg/inventario-de-dados/master/divida-publica/data/divida-pub.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "name": "DATA_ISO",
+            "type": "date",
+            "format": "default",
+            "title": "Data",
+            "description": "Data de apuração da execução da dívida"
+          },
+          {
+            "name": "DIA",
+            "type": "number",
+            "format": "default",
+            "title": "Dia",
+            "description": "Descrição numérica do Dia de apuração da execução da dívida"
+          },
+          {
+            "name": "MES",
+            "type": "number",
+            "format": "default",
+            "title": "Mês",
+            "description": "Descrição numérica do Mês de apuração da execução da dívida"
+          },
+          {
+            "name": "ANO",
+            "type": "number",
+            "format": "default",
+            "title": "Ano",
+            "description": "Descrição numérica do Ano de apuração da execução da dívida"
+          },
+          {
+            "name": "CD_TIPO",
+            "type": "number",
+            "format": "default",
+            "title": "Código do Tipo da Dívida",
+            "description": "Código do Tipo da Dívida"
+          },
+          {
+            "name": "NM_TIPO",
+            "type": "string",
+            "format": "default",
+            "title": "Tipo da Dívida",
+            "description": "Tipo da Dívida"
+          },
+          {
+            "name": "CD_SIAFI",
+            "type": "number",
+            "format": "default",
+            "title": "Código SIAFI",
+            "description": "Código do Tipo de Contrato da Dívida Pública no SIAFI"
+          },
+          {
+            "name": "NR_CONTRATO_CONV",
+            "type": "number",
+            "format": "default",
+            "title": "Número do contrato",
+            "description": "Número do Contrato da Dívida"
+          },
+          {
+            "name": "DT_ASSINATURA",
+            "type": "date",
+            "format": "default",
+            "title": "Data de assinatura",
+            "description": "Data de assinatura do contrato da dívida"
+          },
+          {
+            "name": "DT_VENCIMENTO",
+            "type": "date",
+            "format": "default",
+            "title": "Data de vencimento",
+            "description": "Data de vencimento do contrato da dívida"
+          },
+          {
+            "name": "VR_INICIAL",
+            "type": "integer",
+            "format": "default",
+            "title": "Valor inicial",
+            "description": "Valor inicial do contrato da dívida"
+          },
+          {
+            "name": "SQA_FAVORECIDO",
+            "type": "integer",
+            "format": "default",
+            "title": "SQA Favorecido",
+            "description": "SQA Favorecido"
+          },
+          {
+            "name": "TP_DOCUMENTO",
+            "type": "number",
+            "format": "default",
+            "title": "Tipo do documento do credor",
+            "description": "Tipo do documento do credor da dívida pública"
+          },
+          {
+            "name": "NR_DOCUMENTO",
+            "type": "string",
+            "format": "default",
+            "title": "Número do documento do credor",
+            "description": "Número do documento do credor da dívida pública"
+          },
+          {
+            "name": "NOME",
+            "type": "string",
+            "format": "default",
+            "title": "Nome do credor",
+            "description": "Nome do credor da dívida pública"
+          },
+          {
+            "name": "VR_JUROS",
+            "type": "integer",
+            "format": "default",
+            "title": "Valor dos juros",
+            "description": "Valor dos juros da dívida pública"
+          },
+          {
+            "name": "VR_AMORTIZACAO",
+            "type": "integer",
+            "format": "default",
+            "description": "Valor da amortização da dívida pública",
+            "title": "Valor da amortização"
+          }
+        ]
+      }
     }
-   }
   ],
-  "tags": [
-    "divida pública",
-    "Minas Gerais",
-    "amortizações",
-    "contratos",
-    "encargos",
-    "execução financeira",
+  "keywords": [
+    "divida",
+    "contrato",
     "juros",
-    "pagamento"
+    "amortizacao"
+  ],
+  "name": "divida-publica",
+  "title": "Execução da Dívida Pública do Estado de Minas Gerais",
+  "description": "Possui informações de pagamento da dívida pública do Estado, interna ou externa, incluindo separações relacionadas aos juros e encargos e amortizações efetuadas. Incluem dados inclusive da identificação dos contratos relacionados aos pagamentos.",
+  "homepage": "https://github.com/transparencia-mg/inventario-de-dados/blob/master/divida-publica/data/divida-pub-2020.csv",
+  "contributors": [
+    {
+      "title": "Andre Amorim",
+      "role": "author"
+    }
+  ],
+  "licenses": [
+    {
+      "name": "CC-BY-SA-4.0",
+      "title": "Creative Commons Attribution Share-Alike 4.0",
+      "path": "https://creativecommons.org/licenses/by-sa/4.0/"
+    }
   ]
 }

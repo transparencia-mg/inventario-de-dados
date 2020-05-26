@@ -1,0 +1,102 @@
+ {
+        "fields": [
+          {
+            "name": "ANO",
+            "type": "number",
+            "format": "default",
+            "description": "Ano, com quatro dígitos, de publicação no Diário Oficial do Estado do ato que autorizou a contratação ",
+            "title": "Ano"
+          },
+          {
+            "name": "CODIGO_ORGAO_ENTIDADE",
+            "type": "number",
+            "format": "default",
+            "description": "Código do órgão ou entidade contratante",
+            "title": "Código Órgão Entidade"
+          },
+          {
+            "name": "SIGLA_ORGAO_ENTIDADE",
+            "type": "string",
+            "format": "default",
+            "description": "Sigla do órgão ou entidade contratante",
+            "title": "Sigla Órgão Entidade"
+          },
+          {
+            "name": "CNPJ_CPF_CONTRATADO",
+            "type": "string",
+            "format": "default",
+            "title": "CNPJ CPF contratado",
+            "description": "CNPJ ou CPF do contratado formatado "
+          },
+          {
+            "name": "CONTRATADO",
+            "type": "string",
+            "format": "default",
+            "title": "Contratado",
+            "description": "Razão Social da empresa ou pessoa física contratada."
+          },
+          {
+            "name": "OBJETO",
+            "type": "string",
+            "format": "default",
+            "title": "Objeto",
+            "description": "Objeto da contratação"
+          },
+          {
+            "name": "DATA_INICIO_VIGENCIA",
+            "type": "number",
+            "format": "default",
+            "title": "Data início vigência",
+            "description": "Data, no formato YYYYMMDD, de início da vigência do contrato "
+          },
+          {
+            "name": "DATA_FIM_VIGENCIA",
+            "type": "number",
+            "format": "default",
+            "title": "Data fim vigência",
+            "description": "Data, no formato YYYYMMDD, de fim da vigência do contrato "
+          },
+          {
+            "name": "VALOR",
+            "type": "string",
+            "format": "default",
+            "title": "Valor",
+            "description": "Valor total homologado do contrato "
+          },
+          {
+            "name": "PROCESSO_SEI",
+            "type": "string",
+            "format": "default",
+            "title": "Processo SEI",
+            "description": "Número do processo eletrônico no Sistema Eletrônico de Informações (SEI) que identifica a contratação "
+          },
+          {
+            "name": "PROCESSO_COMPRA",
+            "type": "string",
+            "format": "default",
+            "title": "Processo Compra",
+            "description": "Número identificador do processo de compras no Portal de Compras"
+          },
+          {
+            "name": "NUMERO_SIAFI",
+            "type": "string",
+            "format": "default",
+            "title": "Número SIAFI",
+            "description": "Número do contrato no Sistema Integrado de Administração Financeira de Minas Gerais (SIAFI-MG). Campo opcional, NA em caso de ausência.\n"
+          },
+          {
+            "name": "INTEGRA_CONTRATO",
+            "type": "string",
+            "format": "default",
+            "title": "Íntegra Contrato",
+            "description": "Link para íntegra do termo do contrato celebrado e seus eventuais termos aditivos ou modificativos. Campo opcional, NA em caso de ausência de contratos por serem de entrega imediata.\n"
+          },
+          {
+            "name": "LINK_PORTAL",
+            "type": "string",
+            "format": "default",
+            "title": "Link Portal",
+            "description": "Link para o portal da transparência para os processos de compras que não possuem contratos, que são processos com entrega imediata."
+          }
+        ]
+      }

@@ -72,14 +72,14 @@
           },
           {
             "name": "DATA_INICIO_VIGENCIA",
-            "type": "date",
+            "type": "number",
             "format": "default",
             "title": "Data de início da vigência",
             "description": "Data em que o instrumento jurídico se inicia, correspondente a data de publicação do mesmo no Diário Oficial dos Poderes do Estado de Minas Gerais."
           },
           {
             "name": "DATA_FIM_VIGENCIA",
-            "type": "date",
+            "type": "number",
             "format": "default",
             "title": "Data de fim da vigência",
             "description": "Data em que o instrumento jurídico terminou ou que será extinto."
@@ -93,14 +93,14 @@
           },
           {
             "name": "REPASSE_PREVISTO",
-            "type": "integer",
+            "type": "number",
             "format": "default",
             "title": "Repasse previsto",
             "description": "Valor total de recursos previstos para a execução da parceria, por ano. "
           },
           {
             "name": "REPASSE_REALIZADO",
-            "type": "integer",
+            "type": "number",
             "format": "default",
             "title": "Repasse realizado",
             "description": "Valor total de recursos efetivamente disponibilizados para a execução da parceria."

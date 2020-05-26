@@ -58,7 +58,7 @@
           },
           {
             "name": "DATA_ATUALIZACAO",
-            "type": "integer",
+            "type": "string",
             "format": "default",
             "title": "Data de Atualização",
             "description": "Data de upload do arquivo"

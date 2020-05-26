@@ -65,7 +65,7 @@
           },
           {
             "name": "VALOR",
-            "type": "number",
+            "type": "string",
             "format": "default",
             "title": "Valor",
             "description": "Valor estimado do bem ou serviço doado ou oferecido em comodato."

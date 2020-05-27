@@ -1,0 +1,76 @@
+{
+  "profile": "tabular-data-package",
+  "resources": [
+    {
+      "name": "obitos-COVID",
+      "path": "https://raw.githubusercontent.com/transparencia-mg/inventario-de-dados/master/obitos-covid19/data/obitos-confirmados-covid19-mg.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "name": "Paciente",
+            "type": "number",
+            "format": "default",
+            "title": "Paciente",
+            "description": "Cada paciente é identificado com um único número para preservação de sua identidade"
+          },
+          {
+            "name": "Sexo",
+            "type": "string",
+            "format": "default",
+            "title": "Sexo",
+            "description": "Masculino ou feminino"
+          },
+          {
+            "name": "Idade",
+            "type": "number",
+            "format": "default",
+            "title": "Idade",
+            "description": "Idade do paciente na data de óbito"
+          },
+          {
+            "name": "Município de Residência",
+            "type": "string",
+            "format": "default",
+            "title": "Município de residência",
+            "description": "Município do Estado de Minas Gerais onde residia o paciente que veio a óbito"
+          },
+          {
+            "name": "Data do óbito",
+            "type": "number",
+            "format": "default",
+            "title": "Data do óbito",
+            "description": "Data do óbito, no formato YYYY-MM-DD."
+          },
+          {
+            "name": "Comorbidade",
+            "type": "string",
+            "format": "default",
+            "title": "Comorbidade",
+            "description": "Presença de doenças preexistentes/ comorbidades (diabetes, hipertensão, etc.)"
+          },
+          {
+            "name": "DATA_ATUALIZACAO",
+            "type": "string",
+            "format": "default",
+            "title": "Data de atualização",
+            "description": "Data de upload do arquivo"
+          }
+        ]
+      }
+    }
+  ],
+  "keywords": [
+    "COVID-19",
+    "coronavirus"
+  ],
+  "name": "obitos-covid",
+  "title": "obitos confirmados por COVID-19",
+  "homepage": "https://raw.githubusercontent.com/transparencia-mg/inventario-de-dados/master/obitos-covid19/data/obitos-confirmados-covid19-mg.csv",
+  "contributors": [
+    {
+      "title": "Andre Amorim",
+      "role": "author"
+    }
+  ]
+}

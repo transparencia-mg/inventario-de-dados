@@ -1,0 +1,83 @@
+{
+  "profile": "tabular-data-package",
+  "resources": [
+    {
+      "name": "covid-confirmados",
+      "path": "https://raw.githubusercontent.com/transparencia-mg/inventario-de-dados/master/confirmados-covid19/data/casosconfirmadoscovid19mg20200513.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "name": "ID",
+            "type": "integer",
+            "format": "default",
+            "title": "ID",
+            "description": "Cada paciente é identificado com um número para preservação de sua identidade. O ID não representa contagem numérica dos casos confirmados."
+          },
+          {
+            "name": "SEXO",
+            "type": "string",
+            "format": "default",
+            "title": "Sexo",
+            "description": "Masculino ou Feminino"
+          },
+          {
+            "name": "IDADE",
+            "type": "integer",
+            "format": "default",
+            "title": "Idade",
+            "description": "Idade do paciente. Valores ausentes estão codificados como NA."
+          },
+          {
+            "name": "MUNICIPIO_RESIDENCIA",
+            "type": "string",
+            "format": "default",
+            "title": "Município de residência",
+            "description": "Município de residência do paciente. O valor OUTROS representa município de residência do paciente externo ao Estado de Minas Gerais."
+          },
+          {
+            "name": "INTERNACAO",
+            "type": "string",
+            "format": "default",
+            "title": "Internação ",
+            "description": "Informa se o paciente com caso confirmado de COVID 19 foi internado, com possibilidade de preenchimento SIM ou NÃO. Valores ausentes estão codificados como NA."
+          },
+          {
+            "name": "INTERNACAO_UTI",
+            "type": "string",
+            "format": "default",
+            "title": "Internação em UTI",
+            "description": "Informa se o paciente com caso confirmado de COVID 19 internado, precisou de UTI (Unidade de Terapia Intensiva) com possibilidade de preenchimento SIM ou NÃO. Valores ausentes estão codificados como NA."
+          },
+          {
+            "name": "COMORBIDADE",
+            "type": "string",
+            "format": "default",
+            "title": "Comorbidade",
+            "description": "Presença de doenças preexistentes/ comorbidades (diabetes, hipertensão, etc.), com possibilidade de preenchimento SIM ou NÃO. "
+          },
+          {
+            "name": "DATA_ATUALIZACAO",
+            "type": "string",
+            "format": "default",
+            "title": "Data de Atualização",
+            "description": "Data de upload do arquivo"
+          }
+        ]
+      }
+    }
+  ],
+  "keywords": [
+    "COVID-19",
+    "coronavirus"
+  ],
+  "name": "covid-confirmados",
+  "title": "casos confirmados por COVID-19",
+  "homepage": "https://raw.githubusercontent.com/transparencia-mg/inventario-de-dados/master/confirmados-covid19/data/casosconfirmadoscovid19mg20200513.csv",
+  "contributors": [
+    {
+      "title": "Andre Amorim",
+      "role": "author"
+    }
+  ]
+}

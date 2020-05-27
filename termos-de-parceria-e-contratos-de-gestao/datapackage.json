@@ -1,0 +1,136 @@
+{
+  "profile": "tabular-data-package",
+  "resources": [
+    {
+      "name": "termos-de-parceria-e-contratos-de-gestao",
+      "path": "https://raw.githubusercontent.com/transparencia-mg/inventario-de-dados/master/termos-de-parceria-e-contratos-de-gestao/termosdeparceriaecontratosdegestao0420.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "name": "TIPO_INSTRUMENTO",
+            "type": "string",
+            "format": "default",
+            "description": "Define se o instrumento jurídico celebrado é um Termo de Parceria ou um Contrato de Gestão.",
+            "title": "Tipo do Instrumento"
+          },
+          {
+            "name": "NUM_TERMO_CONTRATO",
+            "type": "string",
+            "format": "default",
+            "title": "Número do Termo ou Contrato",
+            "description": "Numeração do instrumento jurídico, estabelecida pela Secretaria de Estado de Planejamento e Gestão."
+          },
+          {
+            "name": "CODIGO_ORGAO_ESTATAL",
+            "type": "number",
+            "format": "default",
+            "title": "Código do Órgão Estadual",
+            "description": "Código da unidade orçamentária do órgão estadual signatário do instrumento jurídico."
+          },
+          {
+            "name": "NOME_ORGAO_ESTATAL",
+            "type": "string",
+            "format": "default",
+            "title": "Nome do Órgão Estadual",
+            "description": "Nome institucional do órgão estadual signatário do instrumento jurídico."
+          },
+          {
+            "name": "ORGAO_ESTATAL_SIGLA",
+            "type": "string",
+            "format": "default",
+            "title": "Sigla do Órgão Estadual",
+            "description": "Sigla do Órgão Estadual"
+          },
+          {
+            "name": "ENTIDADE_PARCEIRA_NOME",
+            "type": "string",
+            "format": "default",
+            "title": "Nome da Entidade Parceira",
+            "description": "Nome oficial da instituição do terceiro setor celebrante do instrumento jurídico."
+          },
+          {
+            "name": "ENTIDADE_PARCEIRA_SIGLA",
+            "type": "string",
+            "format": "default",
+            "title": "Sigla da Entidade Parceira",
+            "description": "Sigla da instituição do terceiro setor celebrante do instrumento jurídico."
+          },
+          {
+            "name": "ENTIDADE_PARCEIRA_CNPJ",
+            "type": "string",
+            "format": "default",
+            "title": "CNPJ da Entidade Parceira",
+            "description": "Número de Cadastro Nacional de Pessoas Jurídicas da instituição do terceiro setor celebrante do instrumento jurídico."
+          },
+          {
+            "name": "OBJETO",
+            "type": "string",
+            "format": "default",
+            "title": "Objeto",
+            "description": "O objeto do instrumento jurídico."
+          },
+          {
+            "name": "SITUACAO",
+            "type": "string",
+            "format": "default",
+            "title": "Situação",
+            "description": "Informa se o instrumento jurídico está vigente ou foi extinto."
+          },
+          {
+            "name": "DATA_INICIO_VIGENCIA",
+            "type": "number",
+            "format": "default",
+            "title": "Data de início da vigência",
+            "description": "Data em que o instrumento jurídico se inicia, correspondente a data de publicação do mesmo no Diário Oficial dos Poderes do Estado de Minas Gerais."
+          },
+          {
+            "name": "DATA_FIM_VIGENCIA",
+            "type": "number",
+            "format": "default",
+            "title": "Data de fim da vigência",
+            "description": "Data em que o instrumento jurídico terminou ou que será extinto."
+          },
+          {
+            "name": "ANO",
+            "type": "number",
+            "format": "default",
+            "title": "Ano",
+            "description": "Um dos anos em que a parceria esteve vigente. Ano de referência das informações financeiras preenchidas nas colunas: “REPASSE_PREVISTO” e “REPASSE_REALIZADO”."
+          },
+          {
+            "name": "REPASSE_PREVISTO",
+            "type": "string",
+            "format": "default",
+            "title": "Repasse previsto",
+            "description": "Valor total de recursos previstos para a execução da parceria, por ano. "
+          },
+          {
+            "name": "REPASSE_REALIZADO",
+            "type": "string",
+            "format": "default",
+            "title": "Repasse realizado",
+            "description": "Valor total de recursos efetivamente disponibilizados para a execução da parceria."
+          }
+        ]
+      }
+    }
+  ],
+  "keywords": [
+    "contrato de gestão",
+    "termo de parceria",
+    "OSCIP",
+    "OS",
+    "terceiro setor"
+  ],
+  "description": "Extrato dos Termos de Parceria e Contratos de Gestão firmados pelos órgãos e entidades do Poder Executivo Estadual com OSCIPs e Organizações Sociais",
+  "name": "termos-de-parceria-e-contratos-de-gestao",
+  "title": "Termos de Parceria e Contratos de Gestão",
+  "homepage": "https://raw.githubusercontent.com/transparencia-mg/inventario-de-dados/master/termos-de-parceria-e-contratos-de-gestao/termosdeparceriaecontratosdegestao0420.csv",
+  "contributors": [
+    {
+      "title": "Andre Amorim",
+      "role": "author"
+    }
+  ]
+}

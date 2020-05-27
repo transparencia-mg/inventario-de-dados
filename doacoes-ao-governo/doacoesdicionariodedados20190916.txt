@@ -1,0 +1,47 @@
+﻿CAMPO
+Conceituação
+Nota
+Base Legal
+
+ANO	
+Ano de publicação no Diário Oficial do Estado do ato que autorizou o recebimento de doação ou de bem em comodato
+
+CÓDIGO ÓRGÃO/ENTIDADE	
+Código da unidade orçamentária do órgão ou entidade beneficiada
+
+ÓRGÃO/ENTIDADE	
+Unidade orçamentária do órgão ou entidade beneficiada
+
+DOADOR/COMODANTE	
+Nome do doador ou comodante.
+Requisito mínimo de divulgação previsto no art. 17, Inciso I, Decreto 47.611/2019.
+
+CNPJ/CPF DOADOR COMODANTE	
+CNPJ ou CPF do doador ou comodante.
+Requisito mínimo de divulgação previsto no art. 17, Inciso II, Decreto 47.611/2019.
+
+OBJETO DOAÇÃO/COMODATO	
+Objeto da doação ou comodato.
+Requisito mínimo de divulgação previsto no art. 17, Inciso III, Decreto 47.611/2019.
+
+QUANTITATIVO	
+Quantitativo, quando for o caso, do objeto da doação ou comodato.
+Para fins de padronização deve ser preenchido com o valor "1" nos casos que não exista quantitativo.
+Requisito mínimo de divulgação previsto no art. 17, Inciso III, Decreto 47.611/2019.
+
+VIGÊNCIA DO COMODATO	
+Vigência do Comodato. 
+Para fins de padronização deve ser preenchido com o valor "N/A" (Não se aplica) para doações.
+Requisito mínimo de divulgação previsto no art. 17, Inciso IV, Decreto 47.611/2019.
+
+VALOR ESTIMADO	
+Valor estimado do bem ou serviço doado ou oferecido em comodato.
+Requisito mínimo de divulgação previsto no art. 17, Inciso V, Decreto 47.611/2019.
+
+INTEGRA TERMO DOACAO/COMODATO	
+Link para Íntegra do termo de doação ou comodato. 
+O art. 19, Decreto 47.611/2019 estabelece que após a publicação do extrato do termo de doação ou do termo de comodato no Diário Oficial do Estado, todos os órgãos ou entidades beneficiados deverão disponibilizá-lo, na íntegra, incluindo seus eventuais anexos, em campo próprio no seu sítio eletrônico oficial.
+Cada termo de doação ou comodato deve ser referenciado na rede mundial de computadores por meio de URL única.
+
+PROCESSO SEI	
+Número do processo eletrônico no Sistema Eletrônico de Informações (SEI) que identifica a avaliação das propostas de doação ou oferta de bens em comodato realizada pela Secretaria de Estado de Planejamento e Gestão (SEPLAG).

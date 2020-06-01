@@ -1,0 +1,123 @@
+{
+        "fields": [
+          {
+            "name": "DATA_ISO",
+            "type": "date",
+            "format": "default",
+            "title": "Data",
+            "description": "Data de apuração da execução da dívida"
+          },
+          {
+            "name": "DIA",
+            "type": "number",
+            "format": "default",
+            "description": "Descrição numérica do dia de apuração da execução da dívida",
+            "title": "Dia"
+          },
+          {
+            "name": "MES",
+            "type": "number",
+            "format": "default",
+            "description": "Descrição numérica do mês de apuração da execução da dívida",
+            "title": "Mês"
+          },
+          {
+            "name": "ANO",
+            "type": "number",
+            "format": "default",
+            "title": "Ano",
+            "description": "Descrição numérica do Ano de apuração da execução da dívida"
+          },
+          {
+            "name": "CD_TIPO",
+            "type": "number",
+            "format": "default",
+            "title": "Código do tipo da dívida",
+            "description": "Código do tipo da dívida"
+          },
+          {
+            "name": "NM_TIPO",
+            "type": "string",
+            "format": "default",
+            "title": "Tipo da dívida",
+            "description": "Tipo da dívida"
+          },
+          {
+            "name": "CD_SIAFI",
+            "type": "number",
+            "format": "default",
+            "description": "Código do Tipo de Contrato da Dívida Pública no SIAFI",
+            "title": "Código SIAFI"
+          },
+          {
+            "name": "NR_CONTRATO_CONV",
+            "type": "string",
+            "format": "default",
+            "description": "Número do Contrato da Dívida Pública",
+            "title": "Número do Contrato"
+          },
+          {
+            "name": "DT_ASSINATURA",
+            "type": "date",
+            "format": "default",
+            "title": "Data da Assinatura do Contrato ",
+            "description": "Data da Assinatura do Contrato da Dívida Pública"
+          },
+          {
+            "name": "DT_VENCIMENTO",
+            "type": "date",
+            "format": "default",
+            "description": "Data de Vencimento do Contrato da Dívida Pública",
+            "title": "Data de vencimento do contrato"
+          },
+          {
+            "name": "VR_INICIAL",
+            "type": "integer",
+            "format": "default",
+            "description": "Valor Inicial do Contrato da Dívida Pública",
+            "title": "Valor inicial do contrato"
+          },
+          {
+            "name": "SQA_FAVORECIDO",
+            "type": "number",
+            "format": "default",
+            "title": "SQA credor",
+            "description": "SQA credor"
+          },
+          {
+            "name": "TP_DOCUMENTO",
+            "type": "number",
+            "format": "default",
+            "title": "Tipo do documento do credor",
+            "description": "Tipo do documento do credor da dívida pública"
+          },
+          {
+            "name": "NR_DOCUMENTO",
+            "type": "string",
+            "format": "default",
+            "description": "Número do documento do Credor da Dívida Pública",
+            "title": "Número do documento do Credor"
+          },
+          {
+            "name": "NOME",
+            "type": "string",
+            "format": "default",
+            "description": "Nome do Credor da Dívida Pública",
+            "title": "Nome Credor"
+          },
+          {
+            "name": "VR_JUROS",
+            "type": "integer",
+            "format": "default",
+            "title": "Valor dos Juros",
+            "description": "Valor dos juros da Dívida Pública"
+          },
+          {
+            "name": "VR_AMORTIZACAO",
+            "type": "integer",
+            "format": "default",
+            "description": "Valor da amortização da Dívida Pública",
+            "title": "Valor da Amortização"
+          }
+        ]
+      }

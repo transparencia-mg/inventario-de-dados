@@ -8,8 +8,8 @@ cols_spec <- c(
   "Data do óbito",
   "Comorbidade")
 
-RNG <- "A3:F121"
-INPUT <- "obitos-covid19/data-raw/OBITOS_CONF_COVID-19_MG_09_05_2020.xls"
+RNG <- "A3:F603"
+INPUT <- "obitos-covid19/data-raw/OBITOS_CONF_COVID-19_MG_19.06.2020.xls"
 OUTPUT <- "obitos-covid19/data/obitos-confirmados-covid19-mg.csv"
 
 dt_raw <- read_excel(INPUT, range = RNG)

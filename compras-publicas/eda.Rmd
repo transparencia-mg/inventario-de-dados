@@ -1,0 +1,52 @@
+---
+title: "Untitled"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Granularidade tabelas fato
+
+## FT_COMPRAS: Item de compra
+
+Os itens de compras são descritos no Catálogo de Materiais e Serviços do Estado de Minas Gerais, o [CATMAS](http://www.compras.mg.gov.br/index.php?option=com_content&view=article&id=992). 
+
+```{r}
+ldt$ft_compras[, sum(vr_homologado), by = ano_particao][order(ano_particao), V1] %>% f("M")
+
+ldt$ft_compras[id_processo == 306723]
+
+ldt$dm_processo[id_processo == 306723]
+
+ft_compras <- ldt$dm_processo[ldt$ft_compras, on = "id_processo"]
+
+ft_compras[cd_processo_formatado == "1521001 000010/2019",] %>% clipr::write_clip()
+```
+
+## FT_COMPRAS_CONTRATO: 
+
+```{r}
+
+
+ldt$ft_compras_contrato[, sum(vr_homologado), by = ano_particao][order(ano_particao), V1] %>% f()
+```
+
+
+# Amostra
+
+## Manutenção SIGCON-Entrada e SISOR/SIGPLAN
+
+* [Formulário Portal da Transparência](http://www.transparencia.mg.gov.br/compras-e-patrimonio/compras-e-contratos/comprasecontratos-procedimento/0/2016/01-01-2016/31-12-2016/1831065/2/0/0/39/5/130/502/1824/5020034/98675/34436/204714/1501560000084-2016)
+
+
+## Contrato hospedagem CGE
+
+Valores são duplicados para cada item de compra. Isso acontece por causa do join incorreto.
+
+* http://www.transparencia.mg.gov.br/compras-e-patrimonio/compras-e-contratos/comprasecontratos-filtros/2/2019/01-01-2019/31-12-2019/1831070/0/0/0/0/0/0/0/0/0/0/0
+
+* http://www.transparencia.mg.gov.br/compras-e-patrimonio/compras-e-contratos/comprasecontratos-resultado-pesquisa-avancada/2019/01-01-2019/31-12-2019/0/0/0/0/0/0/66/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0
+
+* http://www.transparencia.mg.gov.br/compras-e-patrimonio/compras-e-contratos/comprasecontratos-detalhe-proccompra/2019/20190101/20191231/306723
